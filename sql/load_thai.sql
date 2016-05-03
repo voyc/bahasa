@@ -1,0 +1,20 @@
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  1, '๐', 'sun', '0');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  2, '๑', 'neung', '1');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  3, '๒', 'song', '2');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  4, '๓', 'sam', '3');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  5, '๔', 'si', '4');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  6, '๕', 'ha', '5');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  7, '๖', 'hok', '6');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  8, '๗', 'chet', '7');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1,  9, '๘', 'paet', '8');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1, 10, '๙', 'kao', '9');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 3,   1, 11, '๑๐', 'sip', '10');
+
+insert into bahasa.card(programid, level, seq, audio, quest, translit, answer) values( 3,   2,  1, 'hello', 'สวัสดี', 'sà-wàt-dee', 'Hello');
+insert into bahasa.card(programid, level, seq, audio, quest, translit, answer) values( 3,   2,  2, '', 'สบายดีไหม', 'sà-baai măi', 'How are you?');
+insert into bahasa.card(programid, level, seq, audio, quest, translit, answer) values( 3,   2,  3, 'imfine', 'สบายดีคร้บ', 'sà-baai dee króp', 'I am fine (m)');
+insert into bahasa.card(programid, level, seq, audio, quest, translit, answer) values( 3,   2,  4, 'name', 'คุณชีออะไร', 'kun chêu a-rai', 'What''s your name?');
+insert into bahasa.card(programid, level, seq, audio, quest, translit, answer) values( 3,   2,  5, 'mynameis', 'ผมชื่อ', 'pŏm chêu', 'My name is (m)');
+insert into bahasa.card(programid, level, seq, audio, quest, translit, answer) values( 3,   2,  6, 'excuseme', 'ขอโทษ', 'pŏm chêu', 'kŏr tôht');
+insert into bahasa.card(programid, level, seq, audio, quest, translit, answer) values( 3,   2,  7, 'thanks', 'ขอบคุณ', 'kòp kun', 'Thank you');
+insert into bahasa.card(programid, level, seq, audio, quest, translit, answer) values( 3,   2,  8, 'yourewelcome', 'ไม่เป็นไร', 'mâi bpen rai', 'You''re welcome');

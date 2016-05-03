@@ -1,0 +1,32 @@
+
+
+
+
+part          subpart
+a:alphabet    num:numeral
+a:alphabet    vwl:vowel
+a:alphabet    cns:consonant
+a:alphabet    dct:diacritic
+s:syllable    
+s:syllable    dip:dipthong
+w:word        nun:noun
+w:word        pro:pronoun
+w:word        adj:adjective
+w:word        adv:adverb
+w:word        vrb:verb
+p:phrase
+s:sentence
+g:greeting
+
+
+a:alphabet, s:syllable, w:word, p:phrase, s:sentence, g:greeting
+
+
+comment on column bahasa.usercard.state is 'm:mastered, r:review, w:working, u:untried.';
+comment on column bahasa.usercard.dir is 'qa:forward, aq:reverse.';
+
+gender
+	m
+	f
+	n
+

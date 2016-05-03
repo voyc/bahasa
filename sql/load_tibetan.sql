@@ -1,0 +1,10 @@
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  1, 'བཀྲ་ཤིས་བདེ་ལེགས།', 'tashi dalek', 'hello');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  2, 'སྔ་དྲོ་བདེ་ལེགས།', 'nga-to delek', 'good morning');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  3, 'ཁྱེད་རང་སྐུ་གཇུགས་བདེ་པོ་ཡིན་པས།', 'kayrang kusu debo yimbay', 'how are you');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  4, 'ཁྱེད་རང་གི་མཚན་ལ་ག་རེ་ཞུ་གི་ཡོད།', 'kayrang gi minglâ karay ray?', 'what''s your name');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  5, 'ཐུགས་རྗེ་ཆེ་།', 'tujay-chay', 'thank you');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  6, 'རེད།', 'hon', 'yes');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  7, '', 'ma-ray', 'no');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  8, '', 'la yin-dang-yin', 'you''re welcome');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1,  9, '', 'cho-la', 'excuse me sir (literal:`elder brother)');
+insert into bahasa.card(programid, level, seq, quest, translit, answer) values( 5,   1, 10, '', 'ah-cha-la', 'excuse me madam (literal:`elder sister)');
