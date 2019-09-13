@@ -1,0 +1,3413 @@
+77 vocabcat records written
+15029, vrb, oov, air
+15029, vrb, oov, anjing
+15029, vrb, oov, arti
+15029, vrb, oov, batu
+15029, vrb, oov, bensin
+15029, vrb, oov, bom
+15029, vrb, oov, cat
+15029, vrb, oov, cek
+15029, vrb, oov, cermin
+15029, vrb, oov, daging
+15029, vrb, oov, dompet
+15029, vrb, oov, gamelan
+15029, vrb, oov, gelas
+15029, vrb, oov, gunting
+15029, vrb, oov, hewan
+15029, vrb, oov, jam
+15029, vrb, oov, jawab
+15029, vrb, oov, jualan
+15029, vrb, oov, kaca
+15029, vrb, oov, kah
+15029, vrb, oov, kain
+15029, vrb, oov, kalendar
+15029, vrb, oov, kayu
+15029, vrb, oov, kentang
+15029, vrb, oov, keranjang
+15029, vrb, oov, kertas
+15029, vrb, oov, komputer
+15029, vrb, oov, kopi
+15029, vrb, oov, kotak
+15029, vrb, oov, kucing
+15029, vrb, oov, kuda
+15029, vrb, oov, kunci
+15029, vrb, oov, kursi
+15029, vrb, oov, lampu
+15029, vrb, oov, mangga
+15029, vrb, oov, masakan
+15029, vrb, oov, meja
+15029, vrb, oov, mobil
+15029, vrb, oov, motor
+15029, vrb, oov, nyewa
+15029, vrb, oov, papan
+15029, vrb, oov, pel
+15029, vrb, oov, pensil
+15029, vrb, oov, penumpang
+15029, vrb, oov, pipa
+15029, vrb, oov, pisau
+15029, vrb, oov, pos
+15029, vrb, oov, roti
+15029, vrb, oov, sabun
+15029, vrb, oov, sapu
+15029, vrb, oov, sepeda
+15029, vrb, oov, susu
+15029, vrb, oov, taksi
+15029, vrb, oov, tas
+15029, vrb, oov, uang
+14814, vrb, oov, air
+14814, vrb, oov, anjing
+14814, vrb, oov, arti
+14814, vrb, oov, batu
+14814, vrb, oov, bensin
+14814, vrb, oov, bom
+14814, vrb, oov, cat
+14814, vrb, oov, cek
+14814, vrb, oov, cermin
+14814, vrb, oov, daging
+14814, vrb, oov, dompet
+14814, vrb, oov, gamelan
+14814, vrb, oov, gelas
+14814, vrb, oov, gunting
+14814, vrb, oov, hewan
+14814, vrb, oov, jam
+14814, vrb, oov, jawab
+14814, vrb, oov, jualan
+14814, vrb, oov, kaca
+14814, vrb, oov, kah
+14814, vrb, oov, kain
+14814, vrb, oov, kalendar
+14814, vrb, oov, kayu
+14814, vrb, oov, kentang
+14814, vrb, oov, keranjang
+14814, vrb, oov, kertas
+14814, vrb, oov, komputer
+14814, vrb, oov, kopi
+14814, vrb, oov, kotak
+14814, vrb, oov, kucing
+14814, vrb, oov, kuda
+14814, vrb, oov, kunci
+14814, vrb, oov, kursi
+14814, vrb, oov, lampu
+14814, vrb, oov, mangga
+14814, vrb, oov, masakan
+14814, vrb, oov, meja
+14814, vrb, oov, mobil
+14814, vrb, oov, motor
+14814, vrb, oov, nyewa
+14814, vrb, oov, papan
+14814, vrb, oov, pel
+14814, vrb, oov, pensil
+14814, vrb, oov, penumpang
+14814, vrb, oov, pipa
+14814, vrb, oov, pisau
+14814, vrb, oov, pos
+14814, vrb, oov, roti
+14814, vrb, oov, sabun
+14814, vrb, oov, sapu
+14814, vrb, oov, sepeda
+14814, vrb, oov, susu
+14814, vrb, oov, taksi
+14814, vrb, oov, tas
+14814, vrb, oov, uang
+15016, vrb, oov, air
+15016, vrb, oov, anjing
+15016, vrb, oov, arti
+15016, vrb, oov, batu
+15016, vrb, oov, bensin
+15016, vrb, oov, bom
+15016, vrb, oov, cat
+15016, vrb, oov, cek
+15016, vrb, oov, cermin
+15016, vrb, oov, daging
+15016, vrb, oov, dompet
+15016, vrb, oov, gamelan
+15016, vrb, oov, gelas
+15016, vrb, oov, gunting
+15016, vrb, oov, hewan
+15016, vrb, oov, jam
+15016, vrb, oov, jawab
+15016, vrb, oov, jualan
+15016, vrb, oov, kaca
+15016, vrb, oov, kah
+15016, vrb, oov, kain
+15016, vrb, oov, kalendar
+15016, vrb, oov, kayu
+15016, vrb, oov, kentang
+15016, vrb, oov, keranjang
+15016, vrb, oov, kertas
+15016, vrb, oov, komputer
+15016, vrb, oov, kopi
+15016, vrb, oov, kotak
+15016, vrb, oov, kucing
+15016, vrb, oov, kuda
+15016, vrb, oov, kunci
+15016, vrb, oov, kursi
+15016, vrb, oov, lampu
+15016, vrb, oov, mangga
+15016, vrb, oov, masakan
+15016, vrb, oov, meja
+15016, vrb, oov, mobil
+15016, vrb, oov, motor
+15016, vrb, oov, nyewa
+15016, vrb, oov, papan
+15016, vrb, oov, pel
+15016, vrb, oov, pensil
+15016, vrb, oov, penumpang
+15016, vrb, oov, pipa
+15016, vrb, oov, pisau
+15016, vrb, oov, pos
+15016, vrb, oov, roti
+15016, vrb, oov, sabun
+15016, vrb, oov, sapu
+15016, vrb, oov, sepeda
+15016, vrb, oov, susu
+15016, vrb, oov, taksi
+15016, vrb, oov, tas
+15016, vrb, oov, uang
+15017, vrb, oov, air
+15017, vrb, oov, anjing
+15017, vrb, oov, arti
+15017, vrb, oov, batu
+15017, vrb, oov, bensin
+15017, vrb, oov, bom
+15017, vrb, oov, cat
+15017, vrb, oov, cek
+15017, vrb, oov, cermin
+15017, vrb, oov, daging
+15017, vrb, oov, dompet
+15017, vrb, oov, gamelan
+15017, vrb, oov, gelas
+15017, vrb, oov, gunting
+15017, vrb, oov, hewan
+15017, vrb, oov, jam
+15017, vrb, oov, jawab
+15017, vrb, oov, jualan
+15017, vrb, oov, kaca
+15017, vrb, oov, kah
+15017, vrb, oov, kain
+15017, vrb, oov, kalendar
+15017, vrb, oov, kayu
+15017, vrb, oov, kentang
+15017, vrb, oov, keranjang
+15017, vrb, oov, kertas
+15017, vrb, oov, komputer
+15017, vrb, oov, kopi
+15017, vrb, oov, kotak
+15017, vrb, oov, kucing
+15017, vrb, oov, kuda
+15017, vrb, oov, kunci
+15017, vrb, oov, kursi
+15017, vrb, oov, lampu
+15017, vrb, oov, mangga
+15017, vrb, oov, masakan
+15017, vrb, oov, meja
+15017, vrb, oov, mobil
+15017, vrb, oov, motor
+15017, vrb, oov, nyewa
+15017, vrb, oov, papan
+15017, vrb, oov, pel
+15017, vrb, oov, pensil
+15017, vrb, oov, penumpang
+15017, vrb, oov, pipa
+15017, vrb, oov, pisau
+15017, vrb, oov, pos
+15017, vrb, oov, roti
+15017, vrb, oov, sabun
+15017, vrb, oov, sapu
+15017, vrb, oov, sepeda
+15017, vrb, oov, susu
+15017, vrb, oov, taksi
+15017, vrb, oov, tas
+15017, vrb, oov, uang
+14736, vrb, oov, buku
+14736, vrb, oov, arti
+14736, vrb, oov, cerita
+14736, vrb, oov, doa
+14736, vrb, oov, jam
+14736, vrb, oov, jawab
+14736, vrb, oov, kabar
+14736, vrb, oov, kata
+14736, vrb, oov, kertas
+14736, vrb, oov, papan
+14736, vrb, oov, tanya
+14760, vrb, oov, laki-laki
+14760, vrb, oov, perempuan
+14760, vrb, oov, dia
+14760, vrb, oov, kita
+14760, vrb, oov, mereka
+14760, vrb, oov, saya
+14760, vrb, oov, Anda
+14760, vrb, oov, abang
+14760, vrb, oov, adik
+14760, vrb, oov, anak
+14760, vrb, oov, anak laki-laki
+14760, vrb, oov, anak perempuan
+14760, vrb, oov, ayah
+14760, vrb, oov, bapak
+14760, vrb, oov, ibu
+14760, vrb, oov, kakak
+14760, vrb, oov, pacar
+14760, vrb, oov, ahli bedah
+14760, vrb, oov, akuntan
+14760, vrb, oov, arsitek
+14760, vrb, oov, asisten penjualan
+14760, vrb, oov, dokter
+14760, vrb, oov, dokter gigi
+14760, vrb, oov, dokter hewan
+14760, vrb, oov, guru
+14760, vrb, oov, guru
+14760, vrb, oov, hakim
+14760, vrb, oov, kasir
+14760, vrb, oov, koki
+14760, vrb, oov, makelar
+14760, vrb, oov, montir
+14760, vrb, oov, pelayan
+14760, vrb, oov, pemadam kebakaran
+14760, vrb, oov, pembantu
+14760, vrb, oov, pemotret
+14760, vrb, oov, peneliti
+14760, vrb, oov, pengacara
+14760, vrb, oov, penjahit
+14760, vrb, oov, penjual ikan
+14760, vrb, oov, perawat
+14760, vrb, oov, perias rambut
+14760, vrb, oov, polisi
+14760, vrb, oov, pramugari
+14760, vrb, oov, resepsionis
+14760, vrb, oov, sekretaris
+14760, vrb, oov, teknisi komputer
+14760, vrb, oov, tukang
+14760, vrb, oov, tukang bangunan
+14760, vrb, oov, tukang cat
+14760, vrb, oov, tukang daging
+14760, vrb, oov, tukang kayu
+14760, vrb, oov, tukang las
+14760, vrb, oov, tukang optic
+14760, vrb, oov, tukang pangkas
+14760, vrb, oov, tukang pipa
+14760, vrb, oov, tukang pos
+14760, vrb, oov, tukang roti
+14760, vrb, oov, tukang sapu
+14760, vrb, oov, wartawan
+14760, vrb, oov, murid
+14760, vrb, oov, pelayan
+14760, vrb, oov, pembantu
+14760, vrb, oov, polisi
+14760, vrb, oov, supir
+14760, vrb, oov, tukang
+14760, vrb, oov, Gede
+14760, vrb, oov, Kadek
+14760, vrb, oov, Ketut
+14760, vrb, oov, Komang
+14760, vrb, oov, Made
+14760, vrb, oov, Mang
+14760, vrb, oov, Nengah
+14760, vrb, oov, Ni Luh
+14760, vrb, oov, Nyoman
+14760, vrb, oov, Putu
+14760, vrb, oov, Tut
+14760, vrb, oov, Wayan
+14760, vrb, oov, anjing
+14760, vrb, oov, kucing
+14760, vrb, oov, kuda
+14760, vrb, oov, harap
+14760, vrb, oov, berharap
+14760, vrb, oov, kasih
+14760, vrb, oov, ketakutan
+14760, vrb, oov, harap
+14760, vrb, oov, murung
+14760, vrb, oov, cemas
+14760, vrb, oov, damai
+15018, vrb, oov, air
+15018, vrb, oov, anjing
+15018, vrb, oov, arti
+15018, vrb, oov, batu
+15018, vrb, oov, bensin
+15018, vrb, oov, bom
+15018, vrb, oov, cat
+15018, vrb, oov, cek
+15018, vrb, oov, cermin
+15018, vrb, oov, daging
+15018, vrb, oov, dompet
+15018, vrb, oov, gamelan
+15018, vrb, oov, gelas
+15018, vrb, oov, gunting
+15018, vrb, oov, hewan
+15018, vrb, oov, jam
+15018, vrb, oov, jawab
+15018, vrb, oov, jualan
+15018, vrb, oov, kaca
+15018, vrb, oov, kah
+15018, vrb, oov, kain
+15018, vrb, oov, kalendar
+15018, vrb, oov, kayu
+15018, vrb, oov, kentang
+15018, vrb, oov, keranjang
+15018, vrb, oov, kertas
+15018, vrb, oov, komputer
+15018, vrb, oov, kopi
+15018, vrb, oov, kotak
+15018, vrb, oov, kucing
+15018, vrb, oov, kuda
+15018, vrb, oov, kunci
+15018, vrb, oov, kursi
+15018, vrb, oov, lampu
+15018, vrb, oov, mangga
+15018, vrb, oov, masakan
+15018, vrb, oov, meja
+15018, vrb, oov, mobil
+15018, vrb, oov, motor
+15018, vrb, oov, nyewa
+15018, vrb, oov, papan
+15018, vrb, oov, pel
+15018, vrb, oov, pensil
+15018, vrb, oov, penumpang
+15018, vrb, oov, pipa
+15018, vrb, oov, pisau
+15018, vrb, oov, pos
+15018, vrb, oov, roti
+15018, vrb, oov, sabun
+15018, vrb, oov, sapu
+15018, vrb, oov, sepeda
+15018, vrb, oov, susu
+15018, vrb, oov, taksi
+15018, vrb, oov, tas
+15018, vrb, oov, uang
+14794, vrb, oov, air
+14794, vrb, oov, anjing
+14794, vrb, oov, arti
+14794, vrb, oov, batu
+14794, vrb, oov, bensin
+14794, vrb, oov, bom
+14794, vrb, oov, cat
+14794, vrb, oov, cek
+14794, vrb, oov, cermin
+14794, vrb, oov, daging
+14794, vrb, oov, dompet
+14794, vrb, oov, gamelan
+14794, vrb, oov, gelas
+14794, vrb, oov, gunting
+14794, vrb, oov, hewan
+14794, vrb, oov, jam
+14794, vrb, oov, jawab
+14794, vrb, oov, jualan
+14794, vrb, oov, kaca
+14794, vrb, oov, kah
+14794, vrb, oov, kain
+14794, vrb, oov, kalendar
+14794, vrb, oov, kayu
+14794, vrb, oov, kentang
+14794, vrb, oov, keranjang
+14794, vrb, oov, kertas
+14794, vrb, oov, komputer
+14794, vrb, oov, kopi
+14794, vrb, oov, kotak
+14794, vrb, oov, kucing
+14794, vrb, oov, kuda
+14794, vrb, oov, kunci
+14794, vrb, oov, kursi
+14794, vrb, oov, lampu
+14794, vrb, oov, mangga
+14794, vrb, oov, masakan
+14794, vrb, oov, meja
+14794, vrb, oov, mobil
+14794, vrb, oov, motor
+14794, vrb, oov, nyewa
+14794, vrb, oov, papan
+14794, vrb, oov, pel
+14794, vrb, oov, pensil
+14794, vrb, oov, penumpang
+14794, vrb, oov, pipa
+14794, vrb, oov, pisau
+14794, vrb, oov, pos
+14794, vrb, oov, roti
+14794, vrb, oov, sabun
+14794, vrb, oov, sapu
+14794, vrb, oov, sepeda
+14794, vrb, oov, susu
+14794, vrb, oov, taksi
+14794, vrb, oov, tas
+14794, vrb, oov, uang
+14985, vrb, oov, laki-laki
+14985, vrb, oov, perempuan
+14985, vrb, oov, dia
+14985, vrb, oov, kita
+14985, vrb, oov, mereka
+14985, vrb, oov, saya
+14985, vrb, oov, Anda
+14985, vrb, oov, abang
+14985, vrb, oov, adik
+14985, vrb, oov, anak
+14985, vrb, oov, anak laki-laki
+14985, vrb, oov, anak perempuan
+14985, vrb, oov, ayah
+14985, vrb, oov, bapak
+14985, vrb, oov, ibu
+14985, vrb, oov, kakak
+14985, vrb, oov, pacar
+14985, vrb, oov, ahli bedah
+14985, vrb, oov, akuntan
+14985, vrb, oov, arsitek
+14985, vrb, oov, asisten penjualan
+14985, vrb, oov, dokter
+14985, vrb, oov, dokter gigi
+14985, vrb, oov, dokter hewan
+14985, vrb, oov, guru
+14985, vrb, oov, guru
+14985, vrb, oov, hakim
+14985, vrb, oov, kasir
+14985, vrb, oov, koki
+14985, vrb, oov, makelar
+14985, vrb, oov, montir
+14985, vrb, oov, pelayan
+14985, vrb, oov, pemadam kebakaran
+14985, vrb, oov, pembantu
+14985, vrb, oov, pemotret
+14985, vrb, oov, peneliti
+14985, vrb, oov, pengacara
+14985, vrb, oov, penjahit
+14985, vrb, oov, penjual ikan
+14985, vrb, oov, perawat
+14985, vrb, oov, perias rambut
+14985, vrb, oov, polisi
+14985, vrb, oov, pramugari
+14985, vrb, oov, resepsionis
+14985, vrb, oov, sekretaris
+14985, vrb, oov, teknisi komputer
+14985, vrb, oov, tukang
+14985, vrb, oov, tukang bangunan
+14985, vrb, oov, tukang cat
+14985, vrb, oov, tukang daging
+14985, vrb, oov, tukang kayu
+14985, vrb, oov, tukang las
+14985, vrb, oov, tukang optic
+14985, vrb, oov, tukang pangkas
+14985, vrb, oov, tukang pipa
+14985, vrb, oov, tukang pos
+14985, vrb, oov, tukang roti
+14985, vrb, oov, tukang sapu
+14985, vrb, oov, wartawan
+14985, vrb, oov, murid
+14985, vrb, oov, pelayan
+14985, vrb, oov, pembantu
+14985, vrb, oov, polisi
+14985, vrb, oov, supir
+14985, vrb, oov, tukang
+14985, vrb, oov, Gede
+14985, vrb, oov, Kadek
+14985, vrb, oov, Ketut
+14985, vrb, oov, Komang
+14985, vrb, oov, Made
+14985, vrb, oov, Mang
+14985, vrb, oov, Nengah
+14985, vrb, oov, Ni Luh
+14985, vrb, oov, Nyoman
+14985, vrb, oov, Putu
+14985, vrb, oov, Tut
+14985, vrb, oov, Wayan
+14985, vrb, oov, nota
+14985, vrb, oov, biaya
+14761, vrb, oov, buku
+15021, vrb, oov, air
+15021, vrb, oov, anjing
+15021, vrb, oov, arti
+15021, vrb, oov, batu
+15021, vrb, oov, bensin
+15021, vrb, oov, bom
+15021, vrb, oov, cat
+15021, vrb, oov, cek
+15021, vrb, oov, cermin
+15021, vrb, oov, daging
+15021, vrb, oov, dompet
+15021, vrb, oov, gamelan
+15021, vrb, oov, gelas
+15021, vrb, oov, gunting
+15021, vrb, oov, hewan
+15021, vrb, oov, jam
+15021, vrb, oov, jawab
+15021, vrb, oov, jualan
+15021, vrb, oov, kaca
+15021, vrb, oov, kah
+15021, vrb, oov, kain
+15021, vrb, oov, kalendar
+15021, vrb, oov, kayu
+15021, vrb, oov, kentang
+15021, vrb, oov, keranjang
+15021, vrb, oov, kertas
+15021, vrb, oov, komputer
+15021, vrb, oov, kopi
+15021, vrb, oov, kotak
+15021, vrb, oov, kucing
+15021, vrb, oov, kuda
+15021, vrb, oov, kunci
+15021, vrb, oov, kursi
+15021, vrb, oov, lampu
+15021, vrb, oov, mangga
+15021, vrb, oov, masakan
+15021, vrb, oov, meja
+15021, vrb, oov, mobil
+15021, vrb, oov, motor
+15021, vrb, oov, nyewa
+15021, vrb, oov, papan
+15021, vrb, oov, pel
+15021, vrb, oov, pensil
+15021, vrb, oov, penumpang
+15021, vrb, oov, pipa
+15021, vrb, oov, pisau
+15021, vrb, oov, pos
+15021, vrb, oov, roti
+15021, vrb, oov, sabun
+15021, vrb, oov, sapu
+15021, vrb, oov, sepeda
+15021, vrb, oov, susu
+15021, vrb, oov, taksi
+15021, vrb, oov, tas
+15021, vrb, oov, uang
+15021, vrb, oov, anjing
+15021, vrb, oov, kucing
+15021, vrb, oov, kuda
+14796, vrb, oov, air
+14796, vrb, oov, anjing
+14796, vrb, oov, arti
+14796, vrb, oov, batu
+14796, vrb, oov, bensin
+14796, vrb, oov, bom
+14796, vrb, oov, cat
+14796, vrb, oov, cek
+14796, vrb, oov, cermin
+14796, vrb, oov, daging
+14796, vrb, oov, dompet
+14796, vrb, oov, gamelan
+14796, vrb, oov, gelas
+14796, vrb, oov, gunting
+14796, vrb, oov, hewan
+14796, vrb, oov, jam
+14796, vrb, oov, jawab
+14796, vrb, oov, jualan
+14796, vrb, oov, kaca
+14796, vrb, oov, kah
+14796, vrb, oov, kain
+14796, vrb, oov, kalendar
+14796, vrb, oov, kayu
+14796, vrb, oov, kentang
+14796, vrb, oov, keranjang
+14796, vrb, oov, kertas
+14796, vrb, oov, komputer
+14796, vrb, oov, kopi
+14796, vrb, oov, kotak
+14796, vrb, oov, kucing
+14796, vrb, oov, kuda
+14796, vrb, oov, kunci
+14796, vrb, oov, kursi
+14796, vrb, oov, lampu
+14796, vrb, oov, mangga
+14796, vrb, oov, masakan
+14796, vrb, oov, meja
+14796, vrb, oov, mobil
+14796, vrb, oov, motor
+14796, vrb, oov, nyewa
+14796, vrb, oov, papan
+14796, vrb, oov, pel
+14796, vrb, oov, pensil
+14796, vrb, oov, penumpang
+14796, vrb, oov, pipa
+14796, vrb, oov, pisau
+14796, vrb, oov, pos
+14796, vrb, oov, roti
+14796, vrb, oov, sabun
+14796, vrb, oov, sapu
+14796, vrb, oov, sepeda
+14796, vrb, oov, susu
+14796, vrb, oov, taksi
+14796, vrb, oov, tas
+14796, vrb, oov, uang
+14796, vrb, oov, anjing
+14796, vrb, oov, kucing
+14796, vrb, oov, kuda
+15017, vrb, oov, air
+15017, vrb, oov, anjing
+15017, vrb, oov, arti
+15017, vrb, oov, batu
+15017, vrb, oov, bensin
+15017, vrb, oov, bom
+15017, vrb, oov, cat
+15017, vrb, oov, cek
+15017, vrb, oov, cermin
+15017, vrb, oov, daging
+15017, vrb, oov, dompet
+15017, vrb, oov, gamelan
+15017, vrb, oov, gelas
+15017, vrb, oov, gunting
+15017, vrb, oov, hewan
+15017, vrb, oov, jam
+15017, vrb, oov, jawab
+15017, vrb, oov, jualan
+15017, vrb, oov, kaca
+15017, vrb, oov, kah
+15017, vrb, oov, kain
+15017, vrb, oov, kalendar
+15017, vrb, oov, kayu
+15017, vrb, oov, kentang
+15017, vrb, oov, keranjang
+15017, vrb, oov, kertas
+15017, vrb, oov, komputer
+15017, vrb, oov, kopi
+15017, vrb, oov, kotak
+15017, vrb, oov, kucing
+15017, vrb, oov, kuda
+15017, vrb, oov, kunci
+15017, vrb, oov, kursi
+15017, vrb, oov, lampu
+15017, vrb, oov, mangga
+15017, vrb, oov, masakan
+15017, vrb, oov, meja
+15017, vrb, oov, mobil
+15017, vrb, oov, motor
+15017, vrb, oov, nyewa
+15017, vrb, oov, papan
+15017, vrb, oov, pel
+15017, vrb, oov, pensil
+15017, vrb, oov, penumpang
+15017, vrb, oov, pipa
+15017, vrb, oov, pisau
+15017, vrb, oov, pos
+15017, vrb, oov, roti
+15017, vrb, oov, sabun
+15017, vrb, oov, sapu
+15017, vrb, oov, sepeda
+15017, vrb, oov, susu
+15017, vrb, oov, taksi
+15017, vrb, oov, tas
+15017, vrb, oov, uang
+15017, vrb, oov, Indonesia
+15017, vrb, oov, Perancis
+15017, vrb, oov, Belanda
+15017, vrb, oov, Italia
+15017, vrb, oov, Jerman
+15017, vrb, oov, Amerika
+15017, vrb, oov, Padang Bai
+15017, vrb, oov, Ubud
+15017, vrb, oov, Gilikanut
+15017, vrb, oov, Uluwatu
+15017, vrb, oov, Singaraja
+15017, vrb, oov, Denpasar
+15017, vrb, oov, Gianyar
+15017, vrb, oov, Amlapura
+15017, vrb, oov, Negara
+15017, vrb, oov, Tabanan
+15017, vrb, oov, Bangli
+15017, vrb, oov, Mangupura
+15017, vrb, oov, Semarapura
+15017, vrb, oov, Bali
+15017, vrb, oov, Java
+15017, vrb, oov, Sumatra
+15017, vrb, oov, Sulewesi
+15017, vrb, oov, Borneo
+15017, vrb, oov, laki-laki
+15017, vrb, oov, perempuan
+15017, vrb, oov, dia
+15017, vrb, oov, kita
+15017, vrb, oov, mereka
+15017, vrb, oov, saya
+15017, vrb, oov, Anda
+15017, vrb, oov, abang
+15017, vrb, oov, adik
+15017, vrb, oov, anak
+15017, vrb, oov, anak laki-laki
+15017, vrb, oov, anak perempuan
+15017, vrb, oov, ayah
+15017, vrb, oov, bapak
+15017, vrb, oov, ibu
+15017, vrb, oov, kakak
+15017, vrb, oov, pacar
+15017, vrb, oov, ahli bedah
+15017, vrb, oov, akuntan
+15017, vrb, oov, arsitek
+15017, vrb, oov, asisten penjualan
+15017, vrb, oov, dokter
+15017, vrb, oov, dokter gigi
+15017, vrb, oov, dokter hewan
+15017, vrb, oov, guru
+15017, vrb, oov, guru
+15017, vrb, oov, hakim
+15017, vrb, oov, kasir
+15017, vrb, oov, koki
+15017, vrb, oov, makelar
+15017, vrb, oov, montir
+15017, vrb, oov, pelayan
+15017, vrb, oov, pemadam kebakaran
+15017, vrb, oov, pembantu
+15017, vrb, oov, pemotret
+15017, vrb, oov, peneliti
+15017, vrb, oov, pengacara
+15017, vrb, oov, penjahit
+15017, vrb, oov, penjual ikan
+15017, vrb, oov, perawat
+15017, vrb, oov, perias rambut
+15017, vrb, oov, polisi
+15017, vrb, oov, pramugari
+15017, vrb, oov, resepsionis
+15017, vrb, oov, sekretaris
+15017, vrb, oov, teknisi komputer
+15017, vrb, oov, tukang
+15017, vrb, oov, tukang bangunan
+15017, vrb, oov, tukang cat
+15017, vrb, oov, tukang daging
+15017, vrb, oov, tukang kayu
+15017, vrb, oov, tukang las
+15017, vrb, oov, tukang optic
+15017, vrb, oov, tukang pangkas
+15017, vrb, oov, tukang pipa
+15017, vrb, oov, tukang pos
+15017, vrb, oov, tukang roti
+15017, vrb, oov, tukang sapu
+15017, vrb, oov, wartawan
+15017, vrb, oov, murid
+15017, vrb, oov, pelayan
+15017, vrb, oov, pembantu
+15017, vrb, oov, polisi
+15017, vrb, oov, supir
+15017, vrb, oov, tukang
+15017, vrb, oov, Gede
+15017, vrb, oov, Kadek
+15017, vrb, oov, Ketut
+15017, vrb, oov, Komang
+15017, vrb, oov, Made
+15017, vrb, oov, Mang
+15017, vrb, oov, Nengah
+15017, vrb, oov, Ni Luh
+15017, vrb, oov, Nyoman
+15017, vrb, oov, Putu
+15017, vrb, oov, Tut
+15017, vrb, oov, Wayan
+14759, vrb, oov, bahasa
+15009, vrb, oov, cerita
+14786, vrb, oov, doa
+14788, vrb, oov, kata
+14790, vrb, oov, pikir
+14997, vrb, oov, air
+14997, vrb, oov, anjing
+14997, vrb, oov, arti
+14997, vrb, oov, batu
+14997, vrb, oov, bensin
+14997, vrb, oov, bom
+14997, vrb, oov, cat
+14997, vrb, oov, cek
+14997, vrb, oov, cermin
+14997, vrb, oov, daging
+14997, vrb, oov, dompet
+14997, vrb, oov, gamelan
+14997, vrb, oov, gelas
+14997, vrb, oov, gunting
+14997, vrb, oov, hewan
+14997, vrb, oov, jam
+14997, vrb, oov, jawab
+14997, vrb, oov, jualan
+14997, vrb, oov, kaca
+14997, vrb, oov, kah
+14997, vrb, oov, kain
+14997, vrb, oov, kalendar
+14997, vrb, oov, kayu
+14997, vrb, oov, kentang
+14997, vrb, oov, keranjang
+14997, vrb, oov, kertas
+14997, vrb, oov, komputer
+14997, vrb, oov, kopi
+14997, vrb, oov, kotak
+14997, vrb, oov, kucing
+14997, vrb, oov, kuda
+14997, vrb, oov, kunci
+14997, vrb, oov, kursi
+14997, vrb, oov, lampu
+14997, vrb, oov, mangga
+14997, vrb, oov, masakan
+14997, vrb, oov, meja
+14997, vrb, oov, mobil
+14997, vrb, oov, motor
+14997, vrb, oov, nyewa
+14997, vrb, oov, papan
+14997, vrb, oov, pel
+14997, vrb, oov, pensil
+14997, vrb, oov, penumpang
+14997, vrb, oov, pipa
+14997, vrb, oov, pisau
+14997, vrb, oov, pos
+14997, vrb, oov, roti
+14997, vrb, oov, sabun
+14997, vrb, oov, sapu
+14997, vrb, oov, sepeda
+14997, vrb, oov, susu
+14997, vrb, oov, taksi
+14997, vrb, oov, tas
+14997, vrb, oov, uang
+14997, vrb, oov, anjing
+14997, vrb, oov, kucing
+14997, vrb, oov, kuda
+14997, vrb, oov, pikir
+14792, vrb, oov, tanya
+14792, vrb, oov, laki-laki
+14792, vrb, oov, perempuan
+14792, vrb, oov, dia
+14792, vrb, oov, kita
+14792, vrb, oov, mereka
+14792, vrb, oov, saya
+14792, vrb, oov, Anda
+14792, vrb, oov, abang
+14792, vrb, oov, adik
+14792, vrb, oov, anak
+14792, vrb, oov, anak laki-laki
+14792, vrb, oov, anak perempuan
+14792, vrb, oov, ayah
+14792, vrb, oov, bapak
+14792, vrb, oov, ibu
+14792, vrb, oov, kakak
+14792, vrb, oov, pacar
+14792, vrb, oov, ahli bedah
+14792, vrb, oov, akuntan
+14792, vrb, oov, arsitek
+14792, vrb, oov, asisten penjualan
+14792, vrb, oov, dokter
+14792, vrb, oov, dokter gigi
+14792, vrb, oov, dokter hewan
+14792, vrb, oov, guru
+14792, vrb, oov, guru
+14792, vrb, oov, hakim
+14792, vrb, oov, kasir
+14792, vrb, oov, koki
+14792, vrb, oov, makelar
+14792, vrb, oov, montir
+14792, vrb, oov, pelayan
+14792, vrb, oov, pemadam kebakaran
+14792, vrb, oov, pembantu
+14792, vrb, oov, pemotret
+14792, vrb, oov, peneliti
+14792, vrb, oov, pengacara
+14792, vrb, oov, penjahit
+14792, vrb, oov, penjual ikan
+14792, vrb, oov, perawat
+14792, vrb, oov, perias rambut
+14792, vrb, oov, polisi
+14792, vrb, oov, pramugari
+14792, vrb, oov, resepsionis
+14792, vrb, oov, sekretaris
+14792, vrb, oov, teknisi komputer
+14792, vrb, oov, tukang
+14792, vrb, oov, tukang bangunan
+14792, vrb, oov, tukang cat
+14792, vrb, oov, tukang daging
+14792, vrb, oov, tukang kayu
+14792, vrb, oov, tukang las
+14792, vrb, oov, tukang optic
+14792, vrb, oov, tukang pangkas
+14792, vrb, oov, tukang pipa
+14792, vrb, oov, tukang pos
+14792, vrb, oov, tukang roti
+14792, vrb, oov, tukang sapu
+14792, vrb, oov, wartawan
+14792, vrb, oov, murid
+14792, vrb, oov, pelayan
+14792, vrb, oov, pembantu
+14792, vrb, oov, polisi
+14792, vrb, oov, supir
+14792, vrb, oov, tukang
+14792, vrb, oov, Gede
+14792, vrb, oov, Kadek
+14792, vrb, oov, Ketut
+14792, vrb, oov, Komang
+14792, vrb, oov, Made
+14792, vrb, oov, Mang
+14792, vrb, oov, Nengah
+14792, vrb, oov, Ni Luh
+14792, vrb, oov, Nyoman
+14792, vrb, oov, Putu
+14792, vrb, oov, Tut
+14792, vrb, oov, Wayan
+14845, vrb, oov, laki-laki
+14845, vrb, oov, perempuan
+14845, vrb, oov, dia
+14845, vrb, oov, kita
+14845, vrb, oov, mereka
+14845, vrb, oov, saya
+14845, vrb, oov, Anda
+14845, vrb, oov, abang
+14845, vrb, oov, adik
+14845, vrb, oov, anak
+14845, vrb, oov, anak laki-laki
+14845, vrb, oov, anak perempuan
+14845, vrb, oov, ayah
+14845, vrb, oov, bapak
+14845, vrb, oov, ibu
+14845, vrb, oov, kakak
+14845, vrb, oov, pacar
+14845, vrb, oov, ahli bedah
+14845, vrb, oov, akuntan
+14845, vrb, oov, arsitek
+14845, vrb, oov, asisten penjualan
+14845, vrb, oov, dokter
+14845, vrb, oov, dokter gigi
+14845, vrb, oov, dokter hewan
+14845, vrb, oov, guru
+14845, vrb, oov, guru
+14845, vrb, oov, hakim
+14845, vrb, oov, kasir
+14845, vrb, oov, koki
+14845, vrb, oov, makelar
+14845, vrb, oov, montir
+14845, vrb, oov, pelayan
+14845, vrb, oov, pemadam kebakaran
+14845, vrb, oov, pembantu
+14845, vrb, oov, pemotret
+14845, vrb, oov, peneliti
+14845, vrb, oov, pengacara
+14845, vrb, oov, penjahit
+14845, vrb, oov, penjual ikan
+14845, vrb, oov, perawat
+14845, vrb, oov, perias rambut
+14845, vrb, oov, polisi
+14845, vrb, oov, pramugari
+14845, vrb, oov, resepsionis
+14845, vrb, oov, sekretaris
+14845, vrb, oov, teknisi komputer
+14845, vrb, oov, tukang
+14845, vrb, oov, tukang bangunan
+14845, vrb, oov, tukang cat
+14845, vrb, oov, tukang daging
+14845, vrb, oov, tukang kayu
+14845, vrb, oov, tukang las
+14845, vrb, oov, tukang optic
+14845, vrb, oov, tukang pangkas
+14845, vrb, oov, tukang pipa
+14845, vrb, oov, tukang pos
+14845, vrb, oov, tukang roti
+14845, vrb, oov, tukang sapu
+14845, vrb, oov, wartawan
+14845, vrb, oov, murid
+14845, vrb, oov, pelayan
+14845, vrb, oov, pembantu
+14845, vrb, oov, polisi
+14845, vrb, oov, supir
+14845, vrb, oov, tukang
+14845, vrb, oov, Gede
+14845, vrb, oov, Kadek
+14845, vrb, oov, Ketut
+14845, vrb, oov, Komang
+14845, vrb, oov, Made
+14845, vrb, oov, Mang
+14845, vrb, oov, Nengah
+14845, vrb, oov, Ni Luh
+14845, vrb, oov, Nyoman
+14845, vrb, oov, Putu
+14845, vrb, oov, Tut
+14845, vrb, oov, Wayan
+14845, vrb, oov, anjing
+14845, vrb, oov, kucing
+14845, vrb, oov, kuda
+14793, vrb, oov, laki-laki
+14793, vrb, oov, perempuan
+14793, vrb, oov, dia
+14793, vrb, oov, kita
+14793, vrb, oov, mereka
+14793, vrb, oov, saya
+14793, vrb, oov, Anda
+14793, vrb, oov, abang
+14793, vrb, oov, adik
+14793, vrb, oov, anak
+14793, vrb, oov, anak laki-laki
+14793, vrb, oov, anak perempuan
+14793, vrb, oov, ayah
+14793, vrb, oov, bapak
+14793, vrb, oov, ibu
+14793, vrb, oov, kakak
+14793, vrb, oov, pacar
+14793, vrb, oov, ahli bedah
+14793, vrb, oov, akuntan
+14793, vrb, oov, arsitek
+14793, vrb, oov, asisten penjualan
+14793, vrb, oov, dokter
+14793, vrb, oov, dokter gigi
+14793, vrb, oov, dokter hewan
+14793, vrb, oov, guru
+14793, vrb, oov, guru
+14793, vrb, oov, hakim
+14793, vrb, oov, kasir
+14793, vrb, oov, koki
+14793, vrb, oov, makelar
+14793, vrb, oov, montir
+14793, vrb, oov, pelayan
+14793, vrb, oov, pemadam kebakaran
+14793, vrb, oov, pembantu
+14793, vrb, oov, pemotret
+14793, vrb, oov, peneliti
+14793, vrb, oov, pengacara
+14793, vrb, oov, penjahit
+14793, vrb, oov, penjual ikan
+14793, vrb, oov, perawat
+14793, vrb, oov, perias rambut
+14793, vrb, oov, polisi
+14793, vrb, oov, pramugari
+14793, vrb, oov, resepsionis
+14793, vrb, oov, sekretaris
+14793, vrb, oov, teknisi komputer
+14793, vrb, oov, tukang
+14793, vrb, oov, tukang bangunan
+14793, vrb, oov, tukang cat
+14793, vrb, oov, tukang daging
+14793, vrb, oov, tukang kayu
+14793, vrb, oov, tukang las
+14793, vrb, oov, tukang optic
+14793, vrb, oov, tukang pangkas
+14793, vrb, oov, tukang pipa
+14793, vrb, oov, tukang pos
+14793, vrb, oov, tukang roti
+14793, vrb, oov, tukang sapu
+14793, vrb, oov, wartawan
+14793, vrb, oov, murid
+14793, vrb, oov, pelayan
+14793, vrb, oov, pembantu
+14793, vrb, oov, polisi
+14793, vrb, oov, supir
+14793, vrb, oov, tukang
+14793, vrb, oov, Gede
+14793, vrb, oov, Kadek
+14793, vrb, oov, Ketut
+14793, vrb, oov, Komang
+14793, vrb, oov, Made
+14793, vrb, oov, Mang
+14793, vrb, oov, Nengah
+14793, vrb, oov, Ni Luh
+14793, vrb, oov, Nyoman
+14793, vrb, oov, Putu
+14793, vrb, oov, Tut
+14793, vrb, oov, Wayan
+15019, vrb, oov, pintu
+15019, vrb, oov, jendela
+15019, vrb, oov, botol
+15019, vrb, oov, buku
+14795, vrb, oov, pintu
+14795, vrb, oov, jendela
+14795, vrb, oov, botol
+14795, vrb, oov, buku
+14723, vrb, oov, air
+14723, vrb, oov, anjing
+14723, vrb, oov, arti
+14723, vrb, oov, batu
+14723, vrb, oov, bensin
+14723, vrb, oov, bom
+14723, vrb, oov, cat
+14723, vrb, oov, cek
+14723, vrb, oov, cermin
+14723, vrb, oov, daging
+14723, vrb, oov, dompet
+14723, vrb, oov, gamelan
+14723, vrb, oov, gelas
+14723, vrb, oov, gunting
+14723, vrb, oov, hewan
+14723, vrb, oov, jam
+14723, vrb, oov, jawab
+14723, vrb, oov, jualan
+14723, vrb, oov, kaca
+14723, vrb, oov, kah
+14723, vrb, oov, kain
+14723, vrb, oov, kalendar
+14723, vrb, oov, kayu
+14723, vrb, oov, kentang
+14723, vrb, oov, keranjang
+14723, vrb, oov, kertas
+14723, vrb, oov, komputer
+14723, vrb, oov, kopi
+14723, vrb, oov, kotak
+14723, vrb, oov, kucing
+14723, vrb, oov, kuda
+14723, vrb, oov, kunci
+14723, vrb, oov, kursi
+14723, vrb, oov, lampu
+14723, vrb, oov, mangga
+14723, vrb, oov, masakan
+14723, vrb, oov, meja
+14723, vrb, oov, mobil
+14723, vrb, oov, motor
+14723, vrb, oov, nyewa
+14723, vrb, oov, papan
+14723, vrb, oov, pel
+14723, vrb, oov, pensil
+14723, vrb, oov, penumpang
+14723, vrb, oov, pipa
+14723, vrb, oov, pisau
+14723, vrb, oov, pos
+14723, vrb, oov, roti
+14723, vrb, oov, sabun
+14723, vrb, oov, sapu
+14723, vrb, oov, sepeda
+14723, vrb, oov, susu
+14723, vrb, oov, taksi
+14723, vrb, oov, tas
+14723, vrb, oov, uang
+14808, vrb, oov, air
+14808, vrb, oov, anjing
+14808, vrb, oov, arti
+14808, vrb, oov, batu
+14808, vrb, oov, bensin
+14808, vrb, oov, bom
+14808, vrb, oov, cat
+14808, vrb, oov, cek
+14808, vrb, oov, cermin
+14808, vrb, oov, daging
+14808, vrb, oov, dompet
+14808, vrb, oov, gamelan
+14808, vrb, oov, gelas
+14808, vrb, oov, gunting
+14808, vrb, oov, hewan
+14808, vrb, oov, jam
+14808, vrb, oov, jawab
+14808, vrb, oov, jualan
+14808, vrb, oov, kaca
+14808, vrb, oov, kah
+14808, vrb, oov, kain
+14808, vrb, oov, kalendar
+14808, vrb, oov, kayu
+14808, vrb, oov, kentang
+14808, vrb, oov, keranjang
+14808, vrb, oov, kertas
+14808, vrb, oov, komputer
+14808, vrb, oov, kopi
+14808, vrb, oov, kotak
+14808, vrb, oov, kucing
+14808, vrb, oov, kuda
+14808, vrb, oov, kunci
+14808, vrb, oov, kursi
+14808, vrb, oov, lampu
+14808, vrb, oov, mangga
+14808, vrb, oov, masakan
+14808, vrb, oov, meja
+14808, vrb, oov, mobil
+14808, vrb, oov, motor
+14808, vrb, oov, nyewa
+14808, vrb, oov, papan
+14808, vrb, oov, pel
+14808, vrb, oov, pensil
+14808, vrb, oov, penumpang
+14808, vrb, oov, pipa
+14808, vrb, oov, pisau
+14808, vrb, oov, pos
+14808, vrb, oov, roti
+14808, vrb, oov, sabun
+14808, vrb, oov, sapu
+14808, vrb, oov, sepeda
+14808, vrb, oov, susu
+14808, vrb, oov, taksi
+14808, vrb, oov, tas
+14808, vrb, oov, uang
+14598, vrb, oov, lagu
+14598, vrb, oov, tanya
+14598, vrb, oov, jawab
+14598, vrb, oov, mobil
+14598, vrb, oov, sepeda motor
+14598, vrb, oov, anjing
+14598, vrb, oov, kucing
+14598, vrb, oov, kuda
+14598, vrb, oov, laki-laki
+14598, vrb, oov, perempuan
+14598, vrb, oov, dia
+14598, vrb, oov, kita
+14598, vrb, oov, mereka
+14598, vrb, oov, saya
+14598, vrb, oov, Anda
+14598, vrb, oov, abang
+14598, vrb, oov, adik
+14598, vrb, oov, anak
+14598, vrb, oov, anak laki-laki
+14598, vrb, oov, anak perempuan
+14598, vrb, oov, ayah
+14598, vrb, oov, bapak
+14598, vrb, oov, ibu
+14598, vrb, oov, kakak
+14598, vrb, oov, pacar
+14598, vrb, oov, ahli bedah
+14598, vrb, oov, akuntan
+14598, vrb, oov, arsitek
+14598, vrb, oov, asisten penjualan
+14598, vrb, oov, dokter
+14598, vrb, oov, dokter gigi
+14598, vrb, oov, dokter hewan
+14598, vrb, oov, guru
+14598, vrb, oov, guru
+14598, vrb, oov, hakim
+14598, vrb, oov, kasir
+14598, vrb, oov, koki
+14598, vrb, oov, makelar
+14598, vrb, oov, montir
+14598, vrb, oov, pelayan
+14598, vrb, oov, pemadam kebakaran
+14598, vrb, oov, pembantu
+14598, vrb, oov, pemotret
+14598, vrb, oov, peneliti
+14598, vrb, oov, pengacara
+14598, vrb, oov, penjahit
+14598, vrb, oov, penjual ikan
+14598, vrb, oov, perawat
+14598, vrb, oov, perias rambut
+14598, vrb, oov, polisi
+14598, vrb, oov, pramugari
+14598, vrb, oov, resepsionis
+14598, vrb, oov, sekretaris
+14598, vrb, oov, teknisi komputer
+14598, vrb, oov, tukang
+14598, vrb, oov, tukang bangunan
+14598, vrb, oov, tukang cat
+14598, vrb, oov, tukang daging
+14598, vrb, oov, tukang kayu
+14598, vrb, oov, tukang las
+14598, vrb, oov, tukang optic
+14598, vrb, oov, tukang pangkas
+14598, vrb, oov, tukang pipa
+14598, vrb, oov, tukang pos
+14598, vrb, oov, tukang roti
+14598, vrb, oov, tukang sapu
+14598, vrb, oov, wartawan
+14598, vrb, oov, murid
+14598, vrb, oov, pelayan
+14598, vrb, oov, pembantu
+14598, vrb, oov, polisi
+14598, vrb, oov, supir
+14598, vrb, oov, tukang
+14598, vrb, oov, Gede
+14598, vrb, oov, Kadek
+14598, vrb, oov, Ketut
+14598, vrb, oov, Komang
+14598, vrb, oov, Made
+14598, vrb, oov, Mang
+14598, vrb, oov, Nengah
+14598, vrb, oov, Ni Luh
+14598, vrb, oov, Nyoman
+14598, vrb, oov, Putu
+14598, vrb, oov, Tut
+14598, vrb, oov, Wayan
+14598, vrb, oov, beker
+14811, vrb, oov, lagu
+14811, vrb, oov, tanya
+14811, vrb, oov, jawab
+14811, vrb, oov, mobil
+14811, vrb, oov, sepeda motor
+14811, vrb, oov, anjing
+14811, vrb, oov, kucing
+14811, vrb, oov, kuda
+14811, vrb, oov, laki-laki
+14811, vrb, oov, perempuan
+14811, vrb, oov, dia
+14811, vrb, oov, kita
+14811, vrb, oov, mereka
+14811, vrb, oov, saya
+14811, vrb, oov, Anda
+14811, vrb, oov, abang
+14811, vrb, oov, adik
+14811, vrb, oov, anak
+14811, vrb, oov, anak laki-laki
+14811, vrb, oov, anak perempuan
+14811, vrb, oov, ayah
+14811, vrb, oov, bapak
+14811, vrb, oov, ibu
+14811, vrb, oov, kakak
+14811, vrb, oov, pacar
+14811, vrb, oov, ahli bedah
+14811, vrb, oov, akuntan
+14811, vrb, oov, arsitek
+14811, vrb, oov, asisten penjualan
+14811, vrb, oov, dokter
+14811, vrb, oov, dokter gigi
+14811, vrb, oov, dokter hewan
+14811, vrb, oov, guru
+14811, vrb, oov, guru
+14811, vrb, oov, hakim
+14811, vrb, oov, kasir
+14811, vrb, oov, koki
+14811, vrb, oov, makelar
+14811, vrb, oov, montir
+14811, vrb, oov, pelayan
+14811, vrb, oov, pemadam kebakaran
+14811, vrb, oov, pembantu
+14811, vrb, oov, pemotret
+14811, vrb, oov, peneliti
+14811, vrb, oov, pengacara
+14811, vrb, oov, penjahit
+14811, vrb, oov, penjual ikan
+14811, vrb, oov, perawat
+14811, vrb, oov, perias rambut
+14811, vrb, oov, polisi
+14811, vrb, oov, pramugari
+14811, vrb, oov, resepsionis
+14811, vrb, oov, sekretaris
+14811, vrb, oov, teknisi komputer
+14811, vrb, oov, tukang
+14811, vrb, oov, tukang bangunan
+14811, vrb, oov, tukang cat
+14811, vrb, oov, tukang daging
+14811, vrb, oov, tukang kayu
+14811, vrb, oov, tukang las
+14811, vrb, oov, tukang optic
+14811, vrb, oov, tukang pangkas
+14811, vrb, oov, tukang pipa
+14811, vrb, oov, tukang pos
+14811, vrb, oov, tukang roti
+14811, vrb, oov, tukang sapu
+14811, vrb, oov, wartawan
+14811, vrb, oov, murid
+14811, vrb, oov, pelayan
+14811, vrb, oov, pembantu
+14811, vrb, oov, polisi
+14811, vrb, oov, supir
+14811, vrb, oov, tukang
+14811, vrb, oov, Gede
+14811, vrb, oov, Kadek
+14811, vrb, oov, Ketut
+14811, vrb, oov, Komang
+14811, vrb, oov, Made
+14811, vrb, oov, Mang
+14811, vrb, oov, Nengah
+14811, vrb, oov, Ni Luh
+14811, vrb, oov, Nyoman
+14811, vrb, oov, Putu
+14811, vrb, oov, Tut
+14811, vrb, oov, Wayan
+14811, vrb, oov, beker
+15027, vrb, oov, mobil
+15027, vrb, oov, sepeda motor
+14810, vrb, oov, mobil
+14810, vrb, oov, sepeda motor
+15030, vrb, oov, laki-laki
+15030, vrb, oov, perempuan
+15030, vrb, oov, dia
+15030, vrb, oov, kita
+15030, vrb, oov, mereka
+15030, vrb, oov, saya
+15030, vrb, oov, Anda
+15030, vrb, oov, abang
+15030, vrb, oov, adik
+15030, vrb, oov, anak
+15030, vrb, oov, anak laki-laki
+15030, vrb, oov, anak perempuan
+15030, vrb, oov, ayah
+15030, vrb, oov, bapak
+15030, vrb, oov, ibu
+15030, vrb, oov, kakak
+15030, vrb, oov, pacar
+15030, vrb, oov, ahli bedah
+15030, vrb, oov, akuntan
+15030, vrb, oov, arsitek
+15030, vrb, oov, asisten penjualan
+15030, vrb, oov, dokter
+15030, vrb, oov, dokter gigi
+15030, vrb, oov, dokter hewan
+15030, vrb, oov, guru
+15030, vrb, oov, guru
+15030, vrb, oov, hakim
+15030, vrb, oov, kasir
+15030, vrb, oov, koki
+15030, vrb, oov, makelar
+15030, vrb, oov, montir
+15030, vrb, oov, pelayan
+15030, vrb, oov, pemadam kebakaran
+15030, vrb, oov, pembantu
+15030, vrb, oov, pemotret
+15030, vrb, oov, peneliti
+15030, vrb, oov, pengacara
+15030, vrb, oov, penjahit
+15030, vrb, oov, penjual ikan
+15030, vrb, oov, perawat
+15030, vrb, oov, perias rambut
+15030, vrb, oov, polisi
+15030, vrb, oov, pramugari
+15030, vrb, oov, resepsionis
+15030, vrb, oov, sekretaris
+15030, vrb, oov, teknisi komputer
+15030, vrb, oov, tukang
+15030, vrb, oov, tukang bangunan
+15030, vrb, oov, tukang cat
+15030, vrb, oov, tukang daging
+15030, vrb, oov, tukang kayu
+15030, vrb, oov, tukang las
+15030, vrb, oov, tukang optic
+15030, vrb, oov, tukang pangkas
+15030, vrb, oov, tukang pipa
+15030, vrb, oov, tukang pos
+15030, vrb, oov, tukang roti
+15030, vrb, oov, tukang sapu
+15030, vrb, oov, wartawan
+15030, vrb, oov, murid
+15030, vrb, oov, pelayan
+15030, vrb, oov, pembantu
+15030, vrb, oov, polisi
+15030, vrb, oov, supir
+15030, vrb, oov, tukang
+15030, vrb, oov, Gede
+15030, vrb, oov, Kadek
+15030, vrb, oov, Ketut
+15030, vrb, oov, Komang
+15030, vrb, oov, Made
+15030, vrb, oov, Mang
+15030, vrb, oov, Nengah
+15030, vrb, oov, Ni Luh
+15030, vrb, oov, Nyoman
+15030, vrb, oov, Putu
+15030, vrb, oov, Tut
+15030, vrb, oov, Wayan
+15030, vrb, oov, anjing
+15030, vrb, oov, kucing
+15030, vrb, oov, kuda
+14817, vrb, oov, laki-laki
+14817, vrb, oov, perempuan
+14817, vrb, oov, dia
+14817, vrb, oov, kita
+14817, vrb, oov, mereka
+14817, vrb, oov, saya
+14817, vrb, oov, Anda
+14817, vrb, oov, abang
+14817, vrb, oov, adik
+14817, vrb, oov, anak
+14817, vrb, oov, anak laki-laki
+14817, vrb, oov, anak perempuan
+14817, vrb, oov, ayah
+14817, vrb, oov, bapak
+14817, vrb, oov, ibu
+14817, vrb, oov, kakak
+14817, vrb, oov, pacar
+14817, vrb, oov, ahli bedah
+14817, vrb, oov, akuntan
+14817, vrb, oov, arsitek
+14817, vrb, oov, asisten penjualan
+14817, vrb, oov, dokter
+14817, vrb, oov, dokter gigi
+14817, vrb, oov, dokter hewan
+14817, vrb, oov, guru
+14817, vrb, oov, guru
+14817, vrb, oov, hakim
+14817, vrb, oov, kasir
+14817, vrb, oov, koki
+14817, vrb, oov, makelar
+14817, vrb, oov, montir
+14817, vrb, oov, pelayan
+14817, vrb, oov, pemadam kebakaran
+14817, vrb, oov, pembantu
+14817, vrb, oov, pemotret
+14817, vrb, oov, peneliti
+14817, vrb, oov, pengacara
+14817, vrb, oov, penjahit
+14817, vrb, oov, penjual ikan
+14817, vrb, oov, perawat
+14817, vrb, oov, perias rambut
+14817, vrb, oov, polisi
+14817, vrb, oov, pramugari
+14817, vrb, oov, resepsionis
+14817, vrb, oov, sekretaris
+14817, vrb, oov, teknisi komputer
+14817, vrb, oov, tukang
+14817, vrb, oov, tukang bangunan
+14817, vrb, oov, tukang cat
+14817, vrb, oov, tukang daging
+14817, vrb, oov, tukang kayu
+14817, vrb, oov, tukang las
+14817, vrb, oov, tukang optic
+14817, vrb, oov, tukang pangkas
+14817, vrb, oov, tukang pipa
+14817, vrb, oov, tukang pos
+14817, vrb, oov, tukang roti
+14817, vrb, oov, tukang sapu
+14817, vrb, oov, wartawan
+14817, vrb, oov, murid
+14817, vrb, oov, pelayan
+14817, vrb, oov, pembantu
+14817, vrb, oov, polisi
+14817, vrb, oov, supir
+14817, vrb, oov, tukang
+14817, vrb, oov, Gede
+14817, vrb, oov, Kadek
+14817, vrb, oov, Ketut
+14817, vrb, oov, Komang
+14817, vrb, oov, Made
+14817, vrb, oov, Mang
+14817, vrb, oov, Nengah
+14817, vrb, oov, Ni Luh
+14817, vrb, oov, Nyoman
+14817, vrb, oov, Putu
+14817, vrb, oov, Tut
+14817, vrb, oov, Wayan
+14817, vrb, oov, anjing
+14817, vrb, oov, kucing
+14817, vrb, oov, kuda
+14781, vrb, oov, air
+14781, vrb, oov, anjing
+14781, vrb, oov, arti
+14781, vrb, oov, batu
+14781, vrb, oov, bensin
+14781, vrb, oov, bom
+14781, vrb, oov, cat
+14781, vrb, oov, cek
+14781, vrb, oov, cermin
+14781, vrb, oov, daging
+14781, vrb, oov, dompet
+14781, vrb, oov, gamelan
+14781, vrb, oov, gelas
+14781, vrb, oov, gunting
+14781, vrb, oov, hewan
+14781, vrb, oov, jam
+14781, vrb, oov, jawab
+14781, vrb, oov, jualan
+14781, vrb, oov, kaca
+14781, vrb, oov, kah
+14781, vrb, oov, kain
+14781, vrb, oov, kalendar
+14781, vrb, oov, kayu
+14781, vrb, oov, kentang
+14781, vrb, oov, keranjang
+14781, vrb, oov, kertas
+14781, vrb, oov, komputer
+14781, vrb, oov, kopi
+14781, vrb, oov, kotak
+14781, vrb, oov, kucing
+14781, vrb, oov, kuda
+14781, vrb, oov, kunci
+14781, vrb, oov, kursi
+14781, vrb, oov, lampu
+14781, vrb, oov, mangga
+14781, vrb, oov, masakan
+14781, vrb, oov, meja
+14781, vrb, oov, mobil
+14781, vrb, oov, motor
+14781, vrb, oov, nyewa
+14781, vrb, oov, papan
+14781, vrb, oov, pel
+14781, vrb, oov, pensil
+14781, vrb, oov, penumpang
+14781, vrb, oov, pipa
+14781, vrb, oov, pisau
+14781, vrb, oov, pos
+14781, vrb, oov, roti
+14781, vrb, oov, sabun
+14781, vrb, oov, sapu
+14781, vrb, oov, sepeda
+14781, vrb, oov, susu
+14781, vrb, oov, taksi
+14781, vrb, oov, tas
+14781, vrb, oov, uang
+14752, vrb, oov, nama
+14752, vrb, oov, waktu
+14752, vrb, oov, tanggal
+14752, vrb, oov, air
+14752, vrb, oov, anjing
+14752, vrb, oov, arti
+14752, vrb, oov, batu
+14752, vrb, oov, bensin
+14752, vrb, oov, bom
+14752, vrb, oov, cat
+14752, vrb, oov, cek
+14752, vrb, oov, cermin
+14752, vrb, oov, daging
+14752, vrb, oov, dompet
+14752, vrb, oov, gamelan
+14752, vrb, oov, gelas
+14752, vrb, oov, gunting
+14752, vrb, oov, hewan
+14752, vrb, oov, jam
+14752, vrb, oov, jawab
+14752, vrb, oov, jualan
+14752, vrb, oov, kaca
+14752, vrb, oov, kah
+14752, vrb, oov, kain
+14752, vrb, oov, kalendar
+14752, vrb, oov, kayu
+14752, vrb, oov, kentang
+14752, vrb, oov, keranjang
+14752, vrb, oov, kertas
+14752, vrb, oov, komputer
+14752, vrb, oov, kopi
+14752, vrb, oov, kotak
+14752, vrb, oov, kucing
+14752, vrb, oov, kuda
+14752, vrb, oov, kunci
+14752, vrb, oov, kursi
+14752, vrb, oov, lampu
+14752, vrb, oov, mangga
+14752, vrb, oov, masakan
+14752, vrb, oov, meja
+14752, vrb, oov, mobil
+14752, vrb, oov, motor
+14752, vrb, oov, nyewa
+14752, vrb, oov, papan
+14752, vrb, oov, pel
+14752, vrb, oov, pensil
+14752, vrb, oov, penumpang
+14752, vrb, oov, pipa
+14752, vrb, oov, pisau
+14752, vrb, oov, pos
+14752, vrb, oov, roti
+14752, vrb, oov, sabun
+14752, vrb, oov, sapu
+14752, vrb, oov, sepeda
+14752, vrb, oov, susu
+14752, vrb, oov, taksi
+14752, vrb, oov, tas
+14752, vrb, oov, uang
+14753, vrb, oov, nama
+14753, vrb, oov, waktu
+14753, vrb, oov, tanggal
+14753, vrb, oov, air
+14753, vrb, oov, anjing
+14753, vrb, oov, arti
+14753, vrb, oov, batu
+14753, vrb, oov, bensin
+14753, vrb, oov, bom
+14753, vrb, oov, cat
+14753, vrb, oov, cek
+14753, vrb, oov, cermin
+14753, vrb, oov, daging
+14753, vrb, oov, dompet
+14753, vrb, oov, gamelan
+14753, vrb, oov, gelas
+14753, vrb, oov, gunting
+14753, vrb, oov, hewan
+14753, vrb, oov, jam
+14753, vrb, oov, jawab
+14753, vrb, oov, jualan
+14753, vrb, oov, kaca
+14753, vrb, oov, kah
+14753, vrb, oov, kain
+14753, vrb, oov, kalendar
+14753, vrb, oov, kayu
+14753, vrb, oov, kentang
+14753, vrb, oov, keranjang
+14753, vrb, oov, kertas
+14753, vrb, oov, komputer
+14753, vrb, oov, kopi
+14753, vrb, oov, kotak
+14753, vrb, oov, kucing
+14753, vrb, oov, kuda
+14753, vrb, oov, kunci
+14753, vrb, oov, kursi
+14753, vrb, oov, lampu
+14753, vrb, oov, mangga
+14753, vrb, oov, masakan
+14753, vrb, oov, meja
+14753, vrb, oov, mobil
+14753, vrb, oov, motor
+14753, vrb, oov, nyewa
+14753, vrb, oov, papan
+14753, vrb, oov, pel
+14753, vrb, oov, pensil
+14753, vrb, oov, penumpang
+14753, vrb, oov, pipa
+14753, vrb, oov, pisau
+14753, vrb, oov, pos
+14753, vrb, oov, roti
+14753, vrb, oov, sabun
+14753, vrb, oov, sapu
+14753, vrb, oov, sepeda
+14753, vrb, oov, susu
+14753, vrb, oov, taksi
+14753, vrb, oov, tas
+14753, vrb, oov, uang
+15028, vrb, oov, laki-laki
+15028, vrb, oov, perempuan
+15028, vrb, oov, dia
+15028, vrb, oov, kita
+15028, vrb, oov, mereka
+15028, vrb, oov, saya
+15028, vrb, oov, Anda
+15028, vrb, oov, abang
+15028, vrb, oov, adik
+15028, vrb, oov, anak
+15028, vrb, oov, anak laki-laki
+15028, vrb, oov, anak perempuan
+15028, vrb, oov, ayah
+15028, vrb, oov, bapak
+15028, vrb, oov, ibu
+15028, vrb, oov, kakak
+15028, vrb, oov, pacar
+15028, vrb, oov, ahli bedah
+15028, vrb, oov, akuntan
+15028, vrb, oov, arsitek
+15028, vrb, oov, asisten penjualan
+15028, vrb, oov, dokter
+15028, vrb, oov, dokter gigi
+15028, vrb, oov, dokter hewan
+15028, vrb, oov, guru
+15028, vrb, oov, guru
+15028, vrb, oov, hakim
+15028, vrb, oov, kasir
+15028, vrb, oov, koki
+15028, vrb, oov, makelar
+15028, vrb, oov, montir
+15028, vrb, oov, pelayan
+15028, vrb, oov, pemadam kebakaran
+15028, vrb, oov, pembantu
+15028, vrb, oov, pemotret
+15028, vrb, oov, peneliti
+15028, vrb, oov, pengacara
+15028, vrb, oov, penjahit
+15028, vrb, oov, penjual ikan
+15028, vrb, oov, perawat
+15028, vrb, oov, perias rambut
+15028, vrb, oov, polisi
+15028, vrb, oov, pramugari
+15028, vrb, oov, resepsionis
+15028, vrb, oov, sekretaris
+15028, vrb, oov, teknisi komputer
+15028, vrb, oov, tukang
+15028, vrb, oov, tukang bangunan
+15028, vrb, oov, tukang cat
+15028, vrb, oov, tukang daging
+15028, vrb, oov, tukang kayu
+15028, vrb, oov, tukang las
+15028, vrb, oov, tukang optic
+15028, vrb, oov, tukang pangkas
+15028, vrb, oov, tukang pipa
+15028, vrb, oov, tukang pos
+15028, vrb, oov, tukang roti
+15028, vrb, oov, tukang sapu
+15028, vrb, oov, wartawan
+15028, vrb, oov, murid
+15028, vrb, oov, pelayan
+15028, vrb, oov, pembantu
+15028, vrb, oov, polisi
+15028, vrb, oov, supir
+15028, vrb, oov, tukang
+15028, vrb, oov, Gede
+15028, vrb, oov, Kadek
+15028, vrb, oov, Ketut
+15028, vrb, oov, Komang
+15028, vrb, oov, Made
+15028, vrb, oov, Mang
+15028, vrb, oov, Nengah
+15028, vrb, oov, Ni Luh
+15028, vrb, oov, Nyoman
+15028, vrb, oov, Putu
+15028, vrb, oov, Tut
+15028, vrb, oov, Wayan
+14812, vrb, oov, laki-laki
+14812, vrb, oov, perempuan
+14812, vrb, oov, dia
+14812, vrb, oov, kita
+14812, vrb, oov, mereka
+14812, vrb, oov, saya
+14812, vrb, oov, Anda
+14812, vrb, oov, abang
+14812, vrb, oov, adik
+14812, vrb, oov, anak
+14812, vrb, oov, anak laki-laki
+14812, vrb, oov, anak perempuan
+14812, vrb, oov, ayah
+14812, vrb, oov, bapak
+14812, vrb, oov, ibu
+14812, vrb, oov, kakak
+14812, vrb, oov, pacar
+14812, vrb, oov, ahli bedah
+14812, vrb, oov, akuntan
+14812, vrb, oov, arsitek
+14812, vrb, oov, asisten penjualan
+14812, vrb, oov, dokter
+14812, vrb, oov, dokter gigi
+14812, vrb, oov, dokter hewan
+14812, vrb, oov, guru
+14812, vrb, oov, guru
+14812, vrb, oov, hakim
+14812, vrb, oov, kasir
+14812, vrb, oov, koki
+14812, vrb, oov, makelar
+14812, vrb, oov, montir
+14812, vrb, oov, pelayan
+14812, vrb, oov, pemadam kebakaran
+14812, vrb, oov, pembantu
+14812, vrb, oov, pemotret
+14812, vrb, oov, peneliti
+14812, vrb, oov, pengacara
+14812, vrb, oov, penjahit
+14812, vrb, oov, penjual ikan
+14812, vrb, oov, perawat
+14812, vrb, oov, perias rambut
+14812, vrb, oov, polisi
+14812, vrb, oov, pramugari
+14812, vrb, oov, resepsionis
+14812, vrb, oov, sekretaris
+14812, vrb, oov, teknisi komputer
+14812, vrb, oov, tukang
+14812, vrb, oov, tukang bangunan
+14812, vrb, oov, tukang cat
+14812, vrb, oov, tukang daging
+14812, vrb, oov, tukang kayu
+14812, vrb, oov, tukang las
+14812, vrb, oov, tukang optic
+14812, vrb, oov, tukang pangkas
+14812, vrb, oov, tukang pipa
+14812, vrb, oov, tukang pos
+14812, vrb, oov, tukang roti
+14812, vrb, oov, tukang sapu
+14812, vrb, oov, wartawan
+14812, vrb, oov, murid
+14812, vrb, oov, pelayan
+14812, vrb, oov, pembantu
+14812, vrb, oov, polisi
+14812, vrb, oov, supir
+14812, vrb, oov, tukang
+14812, vrb, oov, Gede
+14812, vrb, oov, Kadek
+14812, vrb, oov, Ketut
+14812, vrb, oov, Komang
+14812, vrb, oov, Made
+14812, vrb, oov, Mang
+14812, vrb, oov, Nengah
+14812, vrb, oov, Ni Luh
+14812, vrb, oov, Nyoman
+14812, vrb, oov, Putu
+14812, vrb, oov, Tut
+14812, vrb, oov, Wayan
+14911, vrb, oov, air
+14911, vrb, oov, anjing
+14911, vrb, oov, arti
+14911, vrb, oov, batu
+14911, vrb, oov, bensin
+14911, vrb, oov, bom
+14911, vrb, oov, cat
+14911, vrb, oov, cek
+14911, vrb, oov, cermin
+14911, vrb, oov, daging
+14911, vrb, oov, dompet
+14911, vrb, oov, gamelan
+14911, vrb, oov, gelas
+14911, vrb, oov, gunting
+14911, vrb, oov, hewan
+14911, vrb, oov, jam
+14911, vrb, oov, jawab
+14911, vrb, oov, jualan
+14911, vrb, oov, kaca
+14911, vrb, oov, kah
+14911, vrb, oov, kain
+14911, vrb, oov, kalendar
+14911, vrb, oov, kayu
+14911, vrb, oov, kentang
+14911, vrb, oov, keranjang
+14911, vrb, oov, kertas
+14911, vrb, oov, komputer
+14911, vrb, oov, kopi
+14911, vrb, oov, kotak
+14911, vrb, oov, kucing
+14911, vrb, oov, kuda
+14911, vrb, oov, kunci
+14911, vrb, oov, kursi
+14911, vrb, oov, lampu
+14911, vrb, oov, mangga
+14911, vrb, oov, masakan
+14911, vrb, oov, meja
+14911, vrb, oov, mobil
+14911, vrb, oov, motor
+14911, vrb, oov, nyewa
+14911, vrb, oov, papan
+14911, vrb, oov, pel
+14911, vrb, oov, pensil
+14911, vrb, oov, penumpang
+14911, vrb, oov, pipa
+14911, vrb, oov, pisau
+14911, vrb, oov, pos
+14911, vrb, oov, roti
+14911, vrb, oov, sabun
+14911, vrb, oov, sapu
+14911, vrb, oov, sepeda
+14911, vrb, oov, susu
+14911, vrb, oov, taksi
+14911, vrb, oov, tas
+14911, vrb, oov, uang
+14911, vrb, oov, anjing
+14911, vrb, oov, kucing
+14911, vrb, oov, kuda
+14594, vrb, oov, laki-laki
+14594, vrb, oov, perempuan
+14594, vrb, oov, dia
+14594, vrb, oov, kita
+14594, vrb, oov, mereka
+14594, vrb, oov, saya
+14594, vrb, oov, Anda
+14594, vrb, oov, abang
+14594, vrb, oov, adik
+14594, vrb, oov, anak
+14594, vrb, oov, anak laki-laki
+14594, vrb, oov, anak perempuan
+14594, vrb, oov, ayah
+14594, vrb, oov, bapak
+14594, vrb, oov, ibu
+14594, vrb, oov, kakak
+14594, vrb, oov, pacar
+14594, vrb, oov, ahli bedah
+14594, vrb, oov, akuntan
+14594, vrb, oov, arsitek
+14594, vrb, oov, asisten penjualan
+14594, vrb, oov, dokter
+14594, vrb, oov, dokter gigi
+14594, vrb, oov, dokter hewan
+14594, vrb, oov, guru
+14594, vrb, oov, guru
+14594, vrb, oov, hakim
+14594, vrb, oov, kasir
+14594, vrb, oov, koki
+14594, vrb, oov, makelar
+14594, vrb, oov, montir
+14594, vrb, oov, pelayan
+14594, vrb, oov, pemadam kebakaran
+14594, vrb, oov, pembantu
+14594, vrb, oov, pemotret
+14594, vrb, oov, peneliti
+14594, vrb, oov, pengacara
+14594, vrb, oov, penjahit
+14594, vrb, oov, penjual ikan
+14594, vrb, oov, perawat
+14594, vrb, oov, perias rambut
+14594, vrb, oov, polisi
+14594, vrb, oov, pramugari
+14594, vrb, oov, resepsionis
+14594, vrb, oov, sekretaris
+14594, vrb, oov, teknisi komputer
+14594, vrb, oov, tukang
+14594, vrb, oov, tukang bangunan
+14594, vrb, oov, tukang cat
+14594, vrb, oov, tukang daging
+14594, vrb, oov, tukang kayu
+14594, vrb, oov, tukang las
+14594, vrb, oov, tukang optic
+14594, vrb, oov, tukang pangkas
+14594, vrb, oov, tukang pipa
+14594, vrb, oov, tukang pos
+14594, vrb, oov, tukang roti
+14594, vrb, oov, tukang sapu
+14594, vrb, oov, wartawan
+14594, vrb, oov, murid
+14594, vrb, oov, pelayan
+14594, vrb, oov, pembantu
+14594, vrb, oov, polisi
+14594, vrb, oov, supir
+14594, vrb, oov, tukang
+14594, vrb, oov, Gede
+14594, vrb, oov, Kadek
+14594, vrb, oov, Ketut
+14594, vrb, oov, Komang
+14594, vrb, oov, Made
+14594, vrb, oov, Mang
+14594, vrb, oov, Nengah
+14594, vrb, oov, Ni Luh
+14594, vrb, oov, Nyoman
+14594, vrb, oov, Putu
+14594, vrb, oov, Tut
+14594, vrb, oov, Wayan
+14782, vrb, oov, kamar
+14782, vrb, oov, rumah
+14782, vrb, oov, desa
+14782, vrb, oov, kota
+14782, vrb, oov, negara
+14782, vrb, oov, toko
+14782, vrb, oov, Indonesia
+14782, vrb, oov, Perancis
+14782, vrb, oov, Belanda
+14782, vrb, oov, Italia
+14782, vrb, oov, Jerman
+14782, vrb, oov, Amerika
+14782, vrb, oov, Padang Bai
+14782, vrb, oov, Ubud
+14782, vrb, oov, Gilikanut
+14782, vrb, oov, Uluwatu
+14782, vrb, oov, Singaraja
+14782, vrb, oov, Denpasar
+14782, vrb, oov, Gianyar
+14782, vrb, oov, Amlapura
+14782, vrb, oov, Negara
+14782, vrb, oov, Tabanan
+14782, vrb, oov, Bangli
+14782, vrb, oov, Mangupura
+14782, vrb, oov, Semarapura
+14782, vrb, oov, Bali
+14782, vrb, oov, Java
+14782, vrb, oov, Sumatra
+14782, vrb, oov, Sulewesi
+14782, vrb, oov, Borneo
+14919, vrb, oov, logam
+14919, vrb, oov, mobil
+15022, vrb, oov, sepatu
+15022, vrb, oov, topi
+15022, vrb, oov, kaus
+15022, vrb, oov, celana
+15022, vrb, oov, air
+15022, vrb, oov, anjing
+15022, vrb, oov, arti
+15022, vrb, oov, batu
+15022, vrb, oov, bensin
+15022, vrb, oov, bom
+15022, vrb, oov, cat
+15022, vrb, oov, cek
+15022, vrb, oov, cermin
+15022, vrb, oov, daging
+15022, vrb, oov, dompet
+15022, vrb, oov, gamelan
+15022, vrb, oov, gelas
+15022, vrb, oov, gunting
+15022, vrb, oov, hewan
+15022, vrb, oov, jam
+15022, vrb, oov, jawab
+15022, vrb, oov, jualan
+15022, vrb, oov, kaca
+15022, vrb, oov, kah
+15022, vrb, oov, kain
+15022, vrb, oov, kalendar
+15022, vrb, oov, kayu
+15022, vrb, oov, kentang
+15022, vrb, oov, keranjang
+15022, vrb, oov, kertas
+15022, vrb, oov, komputer
+15022, vrb, oov, kopi
+15022, vrb, oov, kotak
+15022, vrb, oov, kucing
+15022, vrb, oov, kuda
+15022, vrb, oov, kunci
+15022, vrb, oov, kursi
+15022, vrb, oov, lampu
+15022, vrb, oov, mangga
+15022, vrb, oov, masakan
+15022, vrb, oov, meja
+15022, vrb, oov, mobil
+15022, vrb, oov, motor
+15022, vrb, oov, nyewa
+15022, vrb, oov, papan
+15022, vrb, oov, pel
+15022, vrb, oov, pensil
+15022, vrb, oov, penumpang
+15022, vrb, oov, pipa
+15022, vrb, oov, pisau
+15022, vrb, oov, pos
+15022, vrb, oov, roti
+15022, vrb, oov, sabun
+15022, vrb, oov, sapu
+15022, vrb, oov, sepeda
+15022, vrb, oov, susu
+15022, vrb, oov, taksi
+15022, vrb, oov, tas
+15022, vrb, oov, uang
+14797, vrb, oov, sepatu
+14797, vrb, oov, topi
+14797, vrb, oov, kaus
+14797, vrb, oov, celana
+14797, vrb, oov, air
+14797, vrb, oov, anjing
+14797, vrb, oov, arti
+14797, vrb, oov, batu
+14797, vrb, oov, bensin
+14797, vrb, oov, bom
+14797, vrb, oov, cat
+14797, vrb, oov, cek
+14797, vrb, oov, cermin
+14797, vrb, oov, daging
+14797, vrb, oov, dompet
+14797, vrb, oov, gamelan
+14797, vrb, oov, gelas
+14797, vrb, oov, gunting
+14797, vrb, oov, hewan
+14797, vrb, oov, jam
+14797, vrb, oov, jawab
+14797, vrb, oov, jualan
+14797, vrb, oov, kaca
+14797, vrb, oov, kah
+14797, vrb, oov, kain
+14797, vrb, oov, kalendar
+14797, vrb, oov, kayu
+14797, vrb, oov, kentang
+14797, vrb, oov, keranjang
+14797, vrb, oov, kertas
+14797, vrb, oov, komputer
+14797, vrb, oov, kopi
+14797, vrb, oov, kotak
+14797, vrb, oov, kucing
+14797, vrb, oov, kuda
+14797, vrb, oov, kunci
+14797, vrb, oov, kursi
+14797, vrb, oov, lampu
+14797, vrb, oov, mangga
+14797, vrb, oov, masakan
+14797, vrb, oov, meja
+14797, vrb, oov, mobil
+14797, vrb, oov, motor
+14797, vrb, oov, nyewa
+14797, vrb, oov, papan
+14797, vrb, oov, pel
+14797, vrb, oov, pensil
+14797, vrb, oov, penumpang
+14797, vrb, oov, pipa
+14797, vrb, oov, pisau
+14797, vrb, oov, pos
+14797, vrb, oov, roti
+14797, vrb, oov, sabun
+14797, vrb, oov, sapu
+14797, vrb, oov, sepeda
+14797, vrb, oov, susu
+14797, vrb, oov, taksi
+14797, vrb, oov, tas
+14797, vrb, oov, uang
+14754, vrb, oov, makanan
+14754, vrb, oov, masakan
+14754, vrb, oov, ayam
+14754, vrb, oov, sapi
+14754, vrb, oov, babi
+14754, vrb, oov, alpukat
+14754, vrb, oov, nangka
+14754, vrb, oov, mangga
+14754, vrb, oov, tomat
+14754, vrb, oov, kacang
+14754, vrb, oov, mete
+14754, vrb, oov, gula
+14754, vrb, oov, ayam goreng saus tiram
+14754, vrb, oov, ayam lalapan
+14754, vrb, oov, ayam bakar
+14754, vrb, oov, sapi lada hitam
+14754, vrb, oov, ayam asam manis
+14754, vrb, oov, es buah
+14754, vrb, oov, es
+14754, vrb, oov, mentega
+14754, vrb, oov, ikan
+14722, vrb, oov, laki-laki
+14722, vrb, oov, perempuan
+14722, vrb, oov, dia
+14722, vrb, oov, kita
+14722, vrb, oov, mereka
+14722, vrb, oov, saya
+14722, vrb, oov, Anda
+14722, vrb, oov, abang
+14722, vrb, oov, adik
+14722, vrb, oov, anak
+14722, vrb, oov, anak laki-laki
+14722, vrb, oov, anak perempuan
+14722, vrb, oov, ayah
+14722, vrb, oov, bapak
+14722, vrb, oov, ibu
+14722, vrb, oov, kakak
+14722, vrb, oov, pacar
+14722, vrb, oov, ahli bedah
+14722, vrb, oov, akuntan
+14722, vrb, oov, arsitek
+14722, vrb, oov, asisten penjualan
+14722, vrb, oov, dokter
+14722, vrb, oov, dokter gigi
+14722, vrb, oov, dokter hewan
+14722, vrb, oov, guru
+14722, vrb, oov, guru
+14722, vrb, oov, hakim
+14722, vrb, oov, kasir
+14722, vrb, oov, koki
+14722, vrb, oov, makelar
+14722, vrb, oov, montir
+14722, vrb, oov, pelayan
+14722, vrb, oov, pemadam kebakaran
+14722, vrb, oov, pembantu
+14722, vrb, oov, pemotret
+14722, vrb, oov, peneliti
+14722, vrb, oov, pengacara
+14722, vrb, oov, penjahit
+14722, vrb, oov, penjual ikan
+14722, vrb, oov, perawat
+14722, vrb, oov, perias rambut
+14722, vrb, oov, polisi
+14722, vrb, oov, pramugari
+14722, vrb, oov, resepsionis
+14722, vrb, oov, sekretaris
+14722, vrb, oov, teknisi komputer
+14722, vrb, oov, tukang
+14722, vrb, oov, tukang bangunan
+14722, vrb, oov, tukang cat
+14722, vrb, oov, tukang daging
+14722, vrb, oov, tukang kayu
+14722, vrb, oov, tukang las
+14722, vrb, oov, tukang optic
+14722, vrb, oov, tukang pangkas
+14722, vrb, oov, tukang pipa
+14722, vrb, oov, tukang pos
+14722, vrb, oov, tukang roti
+14722, vrb, oov, tukang sapu
+14722, vrb, oov, wartawan
+14722, vrb, oov, murid
+14722, vrb, oov, pelayan
+14722, vrb, oov, pembantu
+14722, vrb, oov, polisi
+14722, vrb, oov, supir
+14722, vrb, oov, tukang
+14722, vrb, oov, Gede
+14722, vrb, oov, Kadek
+14722, vrb, oov, Ketut
+14722, vrb, oov, Komang
+14722, vrb, oov, Made
+14722, vrb, oov, Mang
+14722, vrb, oov, Nengah
+14722, vrb, oov, Ni Luh
+14722, vrb, oov, Nyoman
+14722, vrb, oov, Putu
+14722, vrb, oov, Tut
+14722, vrb, oov, Wayan
+14734, vrb, oov, air
+14734, vrb, oov, anjing
+14734, vrb, oov, arti
+14734, vrb, oov, batu
+14734, vrb, oov, bensin
+14734, vrb, oov, bom
+14734, vrb, oov, cat
+14734, vrb, oov, cek
+14734, vrb, oov, cermin
+14734, vrb, oov, daging
+14734, vrb, oov, dompet
+14734, vrb, oov, gamelan
+14734, vrb, oov, gelas
+14734, vrb, oov, gunting
+14734, vrb, oov, hewan
+14734, vrb, oov, jam
+14734, vrb, oov, jawab
+14734, vrb, oov, jualan
+14734, vrb, oov, kaca
+14734, vrb, oov, kah
+14734, vrb, oov, kain
+14734, vrb, oov, kalendar
+14734, vrb, oov, kayu
+14734, vrb, oov, kentang
+14734, vrb, oov, keranjang
+14734, vrb, oov, kertas
+14734, vrb, oov, komputer
+14734, vrb, oov, kopi
+14734, vrb, oov, kotak
+14734, vrb, oov, kucing
+14734, vrb, oov, kuda
+14734, vrb, oov, kunci
+14734, vrb, oov, kursi
+14734, vrb, oov, lampu
+14734, vrb, oov, mangga
+14734, vrb, oov, masakan
+14734, vrb, oov, meja
+14734, vrb, oov, mobil
+14734, vrb, oov, motor
+14734, vrb, oov, nyewa
+14734, vrb, oov, papan
+14734, vrb, oov, pel
+14734, vrb, oov, pensil
+14734, vrb, oov, penumpang
+14734, vrb, oov, pipa
+14734, vrb, oov, pisau
+14734, vrb, oov, pos
+14734, vrb, oov, roti
+14734, vrb, oov, sabun
+14734, vrb, oov, sapu
+14734, vrb, oov, sepeda
+14734, vrb, oov, susu
+14734, vrb, oov, taksi
+14734, vrb, oov, tas
+14734, vrb, oov, uang
+14756, vrb, oov, kamar
+14756, vrb, oov, rumah
+14756, vrb, oov, desa
+14756, vrb, oov, kota
+14756, vrb, oov, negara
+14756, vrb, oov, toko
+14756, vrb, oov, Indonesia
+14756, vrb, oov, Perancis
+14756, vrb, oov, Belanda
+14756, vrb, oov, Italia
+14756, vrb, oov, Jerman
+14756, vrb, oov, Amerika
+14756, vrb, oov, Padang Bai
+14756, vrb, oov, Ubud
+14756, vrb, oov, Gilikanut
+14756, vrb, oov, Uluwatu
+14756, vrb, oov, Singaraja
+14756, vrb, oov, Denpasar
+14756, vrb, oov, Gianyar
+14756, vrb, oov, Amlapura
+14756, vrb, oov, Negara
+14756, vrb, oov, Tabanan
+14756, vrb, oov, Bangli
+14756, vrb, oov, Mangupura
+14756, vrb, oov, Semarapura
+14756, vrb, oov, Bali
+14756, vrb, oov, Java
+14756, vrb, oov, Sumatra
+14756, vrb, oov, Sulewesi
+14756, vrb, oov, Borneo
+14999, vrb, oov, masakan
+14999, vrb, oov, makanan
+14999, vrb, oov, anjing
+14999, vrb, oov, kucing
+14999, vrb, oov, kuda
+14999, vrb, oov, ayam
+14999, vrb, oov, sapi
+14999, vrb, oov, babi
+14999, vrb, oov, alpukat
+14999, vrb, oov, nangka
+14999, vrb, oov, mangga
+14999, vrb, oov, tomat
+14999, vrb, oov, kacang
+14999, vrb, oov, mete
+14999, vrb, oov, gula
+14999, vrb, oov, ayam goreng saus tiram
+14999, vrb, oov, ayam lalapan
+14999, vrb, oov, ayam bakar
+14999, vrb, oov, sapi lada hitam
+14999, vrb, oov, ayam asam manis
+14999, vrb, oov, es buah
+14999, vrb, oov, es
+14999, vrb, oov, mentega
+14999, vrb, oov, ikan
+14823, vrb, oov, Indonesia
+14823, vrb, oov, Perancis
+14823, vrb, oov, Belanda
+14823, vrb, oov, Italia
+14823, vrb, oov, Jerman
+14823, vrb, oov, Amerika
+14823, vrb, oov, Padang Bai
+14823, vrb, oov, Ubud
+14823, vrb, oov, Gilikanut
+14823, vrb, oov, Uluwatu
+14823, vrb, oov, Singaraja
+14823, vrb, oov, Denpasar
+14823, vrb, oov, Gianyar
+14823, vrb, oov, Amlapura
+14823, vrb, oov, Negara
+14823, vrb, oov, Tabanan
+14823, vrb, oov, Bangli
+14823, vrb, oov, Mangupura
+14823, vrb, oov, Semarapura
+14823, vrb, oov, Bali
+14823, vrb, oov, Java
+14823, vrb, oov, Sumatra
+14823, vrb, oov, Sulewesi
+14823, vrb, oov, Borneo
+14822, vrb, oov, kamar
+14822, vrb, oov, rumah
+14822, vrb, oov, bangunan
+14822, vrb, oov, gereja
+14822, vrb, oov, kantor
+14822, vrb, oov, sekolah
+14822, vrb, oov, bank
+14822, vrb, oov, toko
+14822, vrb, oov, warung
+14822, vrb, oov, meja
+14822, vrb, oov, kursi
+14822, vrb, oov, lemari
+14822, vrb, oov, lampu
+14822, vrb, oov, bak cuci
+14825, vrb, oov, lantai
+14819, vrb, oov, surat
+14819, vrb, oov, buku
+14816, vrb, oov, ayam
+14816, vrb, oov, sapi
+14816, vrb, oov, babi
+14816, vrb, oov, tomat
+14816, vrb, oov, pisang
+15038, vrb, oov, air
+15038, vrb, oov, anjing
+15038, vrb, oov, arti
+15038, vrb, oov, batu
+15038, vrb, oov, bensin
+15038, vrb, oov, bom
+15038, vrb, oov, cat
+15038, vrb, oov, cek
+15038, vrb, oov, cermin
+15038, vrb, oov, daging
+15038, vrb, oov, dompet
+15038, vrb, oov, gamelan
+15038, vrb, oov, gelas
+15038, vrb, oov, gunting
+15038, vrb, oov, hewan
+15038, vrb, oov, jam
+15038, vrb, oov, jawab
+15038, vrb, oov, jualan
+15038, vrb, oov, kaca
+15038, vrb, oov, kah
+15038, vrb, oov, kain
+15038, vrb, oov, kalendar
+15038, vrb, oov, kayu
+15038, vrb, oov, kentang
+15038, vrb, oov, keranjang
+15038, vrb, oov, kertas
+15038, vrb, oov, komputer
+15038, vrb, oov, kopi
+15038, vrb, oov, kotak
+15038, vrb, oov, kucing
+15038, vrb, oov, kuda
+15038, vrb, oov, kunci
+15038, vrb, oov, kursi
+15038, vrb, oov, lampu
+15038, vrb, oov, mangga
+15038, vrb, oov, masakan
+15038, vrb, oov, meja
+15038, vrb, oov, mobil
+15038, vrb, oov, motor
+15038, vrb, oov, nyewa
+15038, vrb, oov, papan
+15038, vrb, oov, pel
+15038, vrb, oov, pensil
+15038, vrb, oov, penumpang
+15038, vrb, oov, pipa
+15038, vrb, oov, pisau
+15038, vrb, oov, pos
+15038, vrb, oov, roti
+15038, vrb, oov, sabun
+15038, vrb, oov, sapu
+15038, vrb, oov, sepeda
+15038, vrb, oov, susu
+15038, vrb, oov, taksi
+15038, vrb, oov, tas
+15038, vrb, oov, uang
+15038, vrb, oov, anjing
+15038, vrb, oov, kucing
+15038, vrb, oov, kuda
+14815, vrb, oov, air
+14815, vrb, oov, anjing
+14815, vrb, oov, arti
+14815, vrb, oov, batu
+14815, vrb, oov, bensin
+14815, vrb, oov, bom
+14815, vrb, oov, cat
+14815, vrb, oov, cek
+14815, vrb, oov, cermin
+14815, vrb, oov, daging
+14815, vrb, oov, dompet
+14815, vrb, oov, gamelan
+14815, vrb, oov, gelas
+14815, vrb, oov, gunting
+14815, vrb, oov, hewan
+14815, vrb, oov, jam
+14815, vrb, oov, jawab
+14815, vrb, oov, jualan
+14815, vrb, oov, kaca
+14815, vrb, oov, kah
+14815, vrb, oov, kain
+14815, vrb, oov, kalendar
+14815, vrb, oov, kayu
+14815, vrb, oov, kentang
+14815, vrb, oov, keranjang
+14815, vrb, oov, kertas
+14815, vrb, oov, komputer
+14815, vrb, oov, kopi
+14815, vrb, oov, kotak
+14815, vrb, oov, kucing
+14815, vrb, oov, kuda
+14815, vrb, oov, kunci
+14815, vrb, oov, kursi
+14815, vrb, oov, lampu
+14815, vrb, oov, mangga
+14815, vrb, oov, masakan
+14815, vrb, oov, meja
+14815, vrb, oov, mobil
+14815, vrb, oov, motor
+14815, vrb, oov, nyewa
+14815, vrb, oov, papan
+14815, vrb, oov, pel
+14815, vrb, oov, pensil
+14815, vrb, oov, penumpang
+14815, vrb, oov, pipa
+14815, vrb, oov, pisau
+14815, vrb, oov, pos
+14815, vrb, oov, roti
+14815, vrb, oov, sabun
+14815, vrb, oov, sapu
+14815, vrb, oov, sepeda
+14815, vrb, oov, susu
+14815, vrb, oov, taksi
+14815, vrb, oov, tas
+14815, vrb, oov, uang
+14764, vrb, oov, kamar
+14764, vrb, oov, rumah
+14764, vrb, oov, bangunan
+14764, vrb, oov, gereja
+14764, vrb, oov, kantor
+14764, vrb, oov, sekolah
+14764, vrb, oov, bank
+14764, vrb, oov, toko
+14764, vrb, oov, warung
+14803, vrb, oov, perempuan
+14803, vrb, oov, laki-laki
+14803, vrb, oov, pacar
+14803, vrb, oov, teman
+14803, vrb, oov, laki-laki
+14803, vrb, oov, perempuan
+14803, vrb, oov, dia
+14803, vrb, oov, kita
+14803, vrb, oov, mereka
+14803, vrb, oov, saya
+14803, vrb, oov, Anda
+14803, vrb, oov, abang
+14803, vrb, oov, adik
+14803, vrb, oov, anak
+14803, vrb, oov, anak laki-laki
+14803, vrb, oov, anak perempuan
+14803, vrb, oov, ayah
+14803, vrb, oov, bapak
+14803, vrb, oov, ibu
+14803, vrb, oov, kakak
+14803, vrb, oov, pacar
+14803, vrb, oov, ahli bedah
+14803, vrb, oov, akuntan
+14803, vrb, oov, arsitek
+14803, vrb, oov, asisten penjualan
+14803, vrb, oov, dokter
+14803, vrb, oov, dokter gigi
+14803, vrb, oov, dokter hewan
+14803, vrb, oov, guru
+14803, vrb, oov, guru
+14803, vrb, oov, hakim
+14803, vrb, oov, kasir
+14803, vrb, oov, koki
+14803, vrb, oov, makelar
+14803, vrb, oov, montir
+14803, vrb, oov, pelayan
+14803, vrb, oov, pemadam kebakaran
+14803, vrb, oov, pembantu
+14803, vrb, oov, pemotret
+14803, vrb, oov, peneliti
+14803, vrb, oov, pengacara
+14803, vrb, oov, penjahit
+14803, vrb, oov, penjual ikan
+14803, vrb, oov, perawat
+14803, vrb, oov, perias rambut
+14803, vrb, oov, polisi
+14803, vrb, oov, pramugari
+14803, vrb, oov, resepsionis
+14803, vrb, oov, sekretaris
+14803, vrb, oov, teknisi komputer
+14803, vrb, oov, tukang
+14803, vrb, oov, tukang bangunan
+14803, vrb, oov, tukang cat
+14803, vrb, oov, tukang daging
+14803, vrb, oov, tukang kayu
+14803, vrb, oov, tukang las
+14803, vrb, oov, tukang optic
+14803, vrb, oov, tukang pangkas
+14803, vrb, oov, tukang pipa
+14803, vrb, oov, tukang pos
+14803, vrb, oov, tukang roti
+14803, vrb, oov, tukang sapu
+14803, vrb, oov, wartawan
+14803, vrb, oov, murid
+14803, vrb, oov, pelayan
+14803, vrb, oov, pembantu
+14803, vrb, oov, polisi
+14803, vrb, oov, supir
+14803, vrb, oov, tukang
+14803, vrb, oov, Gede
+14803, vrb, oov, Kadek
+14803, vrb, oov, Ketut
+14803, vrb, oov, Komang
+14803, vrb, oov, Made
+14803, vrb, oov, Mang
+14803, vrb, oov, Nengah
+14803, vrb, oov, Ni Luh
+14803, vrb, oov, Nyoman
+14803, vrb, oov, Putu
+14803, vrb, oov, Tut
+14803, vrb, oov, Wayan
+14815, vrb, oov, air
+14815, vrb, oov, anjing
+14815, vrb, oov, arti
+14815, vrb, oov, batu
+14815, vrb, oov, bensin
+14815, vrb, oov, bom
+14815, vrb, oov, cat
+14815, vrb, oov, cek
+14815, vrb, oov, cermin
+14815, vrb, oov, daging
+14815, vrb, oov, dompet
+14815, vrb, oov, gamelan
+14815, vrb, oov, gelas
+14815, vrb, oov, gunting
+14815, vrb, oov, hewan
+14815, vrb, oov, jam
+14815, vrb, oov, jawab
+14815, vrb, oov, jualan
+14815, vrb, oov, kaca
+14815, vrb, oov, kah
+14815, vrb, oov, kain
+14815, vrb, oov, kalendar
+14815, vrb, oov, kayu
+14815, vrb, oov, kentang
+14815, vrb, oov, keranjang
+14815, vrb, oov, kertas
+14815, vrb, oov, komputer
+14815, vrb, oov, kopi
+14815, vrb, oov, kotak
+14815, vrb, oov, kucing
+14815, vrb, oov, kuda
+14815, vrb, oov, kunci
+14815, vrb, oov, kursi
+14815, vrb, oov, lampu
+14815, vrb, oov, mangga
+14815, vrb, oov, masakan
+14815, vrb, oov, meja
+14815, vrb, oov, mobil
+14815, vrb, oov, motor
+14815, vrb, oov, nyewa
+14815, vrb, oov, papan
+14815, vrb, oov, pel
+14815, vrb, oov, pensil
+14815, vrb, oov, penumpang
+14815, vrb, oov, pipa
+14815, vrb, oov, pisau
+14815, vrb, oov, pos
+14815, vrb, oov, roti
+14815, vrb, oov, sabun
+14815, vrb, oov, sapu
+14815, vrb, oov, sepeda
+14815, vrb, oov, susu
+14815, vrb, oov, taksi
+14815, vrb, oov, tas
+14815, vrb, oov, uang
+14820, vrb, oov, air
+14820, vrb, oov, anjing
+14820, vrb, oov, arti
+14820, vrb, oov, batu
+14820, vrb, oov, bensin
+14820, vrb, oov, bom
+14820, vrb, oov, cat
+14820, vrb, oov, cek
+14820, vrb, oov, cermin
+14820, vrb, oov, daging
+14820, vrb, oov, dompet
+14820, vrb, oov, gamelan
+14820, vrb, oov, gelas
+14820, vrb, oov, gunting
+14820, vrb, oov, hewan
+14820, vrb, oov, jam
+14820, vrb, oov, jawab
+14820, vrb, oov, jualan
+14820, vrb, oov, kaca
+14820, vrb, oov, kah
+14820, vrb, oov, kain
+14820, vrb, oov, kalendar
+14820, vrb, oov, kayu
+14820, vrb, oov, kentang
+14820, vrb, oov, keranjang
+14820, vrb, oov, kertas
+14820, vrb, oov, komputer
+14820, vrb, oov, kopi
+14820, vrb, oov, kotak
+14820, vrb, oov, kucing
+14820, vrb, oov, kuda
+14820, vrb, oov, kunci
+14820, vrb, oov, kursi
+14820, vrb, oov, lampu
+14820, vrb, oov, mangga
+14820, vrb, oov, masakan
+14820, vrb, oov, meja
+14820, vrb, oov, mobil
+14820, vrb, oov, motor
+14820, vrb, oov, nyewa
+14820, vrb, oov, papan
+14820, vrb, oov, pel
+14820, vrb, oov, pensil
+14820, vrb, oov, penumpang
+14820, vrb, oov, pipa
+14820, vrb, oov, pisau
+14820, vrb, oov, pos
+14820, vrb, oov, roti
+14820, vrb, oov, sabun
+14820, vrb, oov, sapu
+14820, vrb, oov, sepeda
+14820, vrb, oov, susu
+14820, vrb, oov, taksi
+14820, vrb, oov, tas
+14820, vrb, oov, uang
+14806, vrb, oov, air
+14806, vrb, oov, anjing
+14806, vrb, oov, arti
+14806, vrb, oov, batu
+14806, vrb, oov, bensin
+14806, vrb, oov, bom
+14806, vrb, oov, cat
+14806, vrb, oov, cek
+14806, vrb, oov, cermin
+14806, vrb, oov, daging
+14806, vrb, oov, dompet
+14806, vrb, oov, gamelan
+14806, vrb, oov, gelas
+14806, vrb, oov, gunting
+14806, vrb, oov, hewan
+14806, vrb, oov, jam
+14806, vrb, oov, jawab
+14806, vrb, oov, jualan
+14806, vrb, oov, kaca
+14806, vrb, oov, kah
+14806, vrb, oov, kain
+14806, vrb, oov, kalendar
+14806, vrb, oov, kayu
+14806, vrb, oov, kentang
+14806, vrb, oov, keranjang
+14806, vrb, oov, kertas
+14806, vrb, oov, komputer
+14806, vrb, oov, kopi
+14806, vrb, oov, kotak
+14806, vrb, oov, kucing
+14806, vrb, oov, kuda
+14806, vrb, oov, kunci
+14806, vrb, oov, kursi
+14806, vrb, oov, lampu
+14806, vrb, oov, mangga
+14806, vrb, oov, masakan
+14806, vrb, oov, meja
+14806, vrb, oov, mobil
+14806, vrb, oov, motor
+14806, vrb, oov, nyewa
+14806, vrb, oov, papan
+14806, vrb, oov, pel
+14806, vrb, oov, pensil
+14806, vrb, oov, penumpang
+14806, vrb, oov, pipa
+14806, vrb, oov, pisau
+14806, vrb, oov, pos
+14806, vrb, oov, roti
+14806, vrb, oov, sabun
+14806, vrb, oov, sapu
+14806, vrb, oov, sepeda
+14806, vrb, oov, susu
+14806, vrb, oov, taksi
+14806, vrb, oov, tas
+14806, vrb, oov, uang
+15024, vrb, oov, air
+15024, vrb, oov, anjing
+15024, vrb, oov, arti
+15024, vrb, oov, batu
+15024, vrb, oov, bensin
+15024, vrb, oov, bom
+15024, vrb, oov, cat
+15024, vrb, oov, cek
+15024, vrb, oov, cermin
+15024, vrb, oov, daging
+15024, vrb, oov, dompet
+15024, vrb, oov, gamelan
+15024, vrb, oov, gelas
+15024, vrb, oov, gunting
+15024, vrb, oov, hewan
+15024, vrb, oov, jam
+15024, vrb, oov, jawab
+15024, vrb, oov, jualan
+15024, vrb, oov, kaca
+15024, vrb, oov, kah
+15024, vrb, oov, kain
+15024, vrb, oov, kalendar
+15024, vrb, oov, kayu
+15024, vrb, oov, kentang
+15024, vrb, oov, keranjang
+15024, vrb, oov, kertas
+15024, vrb, oov, komputer
+15024, vrb, oov, kopi
+15024, vrb, oov, kotak
+15024, vrb, oov, kucing
+15024, vrb, oov, kuda
+15024, vrb, oov, kunci
+15024, vrb, oov, kursi
+15024, vrb, oov, lampu
+15024, vrb, oov, mangga
+15024, vrb, oov, masakan
+15024, vrb, oov, meja
+15024, vrb, oov, mobil
+15024, vrb, oov, motor
+15024, vrb, oov, nyewa
+15024, vrb, oov, papan
+15024, vrb, oov, pel
+15024, vrb, oov, pensil
+15024, vrb, oov, penumpang
+15024, vrb, oov, pipa
+15024, vrb, oov, pisau
+15024, vrb, oov, pos
+15024, vrb, oov, roti
+15024, vrb, oov, sabun
+15024, vrb, oov, sapu
+15024, vrb, oov, sepeda
+15024, vrb, oov, susu
+15024, vrb, oov, taksi
+15024, vrb, oov, tas
+15024, vrb, oov, uang
+14799, vrb, oov, air
+14799, vrb, oov, anjing
+14799, vrb, oov, arti
+14799, vrb, oov, batu
+14799, vrb, oov, bensin
+14799, vrb, oov, bom
+14799, vrb, oov, cat
+14799, vrb, oov, cek
+14799, vrb, oov, cermin
+14799, vrb, oov, daging
+14799, vrb, oov, dompet
+14799, vrb, oov, gamelan
+14799, vrb, oov, gelas
+14799, vrb, oov, gunting
+14799, vrb, oov, hewan
+14799, vrb, oov, jam
+14799, vrb, oov, jawab
+14799, vrb, oov, jualan
+14799, vrb, oov, kaca
+14799, vrb, oov, kah
+14799, vrb, oov, kain
+14799, vrb, oov, kalendar
+14799, vrb, oov, kayu
+14799, vrb, oov, kentang
+14799, vrb, oov, keranjang
+14799, vrb, oov, kertas
+14799, vrb, oov, komputer
+14799, vrb, oov, kopi
+14799, vrb, oov, kotak
+14799, vrb, oov, kucing
+14799, vrb, oov, kuda
+14799, vrb, oov, kunci
+14799, vrb, oov, kursi
+14799, vrb, oov, lampu
+14799, vrb, oov, mangga
+14799, vrb, oov, masakan
+14799, vrb, oov, meja
+14799, vrb, oov, mobil
+14799, vrb, oov, motor
+14799, vrb, oov, nyewa
+14799, vrb, oov, papan
+14799, vrb, oov, pel
+14799, vrb, oov, pensil
+14799, vrb, oov, penumpang
+14799, vrb, oov, pipa
+14799, vrb, oov, pisau
+14799, vrb, oov, pos
+14799, vrb, oov, roti
+14799, vrb, oov, sabun
+14799, vrb, oov, sapu
+14799, vrb, oov, sepeda
+14799, vrb, oov, susu
+14799, vrb, oov, taksi
+14799, vrb, oov, tas
+14799, vrb, oov, uang
+14988, vrb, oov, tanya
+14802, vrb, oov, tanya
+14755, vrb, oov, air
+14755, vrb, oov, susu
+14755, vrb, oov, teh
+15023, vrb, oov, kain
+15023, vrb, oov, kayu
+15023, vrb, oov, pohon
+15023, vrb, oov, mentega
+15023, vrb, oov, batu
+15023, vrb, oov, belanja
+15023, vrb, oov, daging
+15023, vrb, oov, gelas
+15023, vrb, oov, kaca
+15023, vrb, oov, kentang
+15023, vrb, oov, pipa
+15023, vrb, oov, roti
+15023, vrb, oov, alpukat
+15023, vrb, oov, nangka
+14798, vrb, oov, kain
+14798, vrb, oov, kayu
+14798, vrb, oov, pohon
+14798, vrb, oov, mentega
+14798, vrb, oov, batu
+14798, vrb, oov, belanja
+14798, vrb, oov, daging
+14798, vrb, oov, gelas
+14798, vrb, oov, kaca
+14798, vrb, oov, kentang
+14798, vrb, oov, pipa
+14798, vrb, oov, roti
+14798, vrb, oov, alpukat
+14798, vrb, oov, nangka
+14757, vrb, oov, pelajaran
+14757, vrb, oov, proyek
+14757, vrb, oov, makanan
+14757, vrb, oov, pekerjaan
+14757, vrb, oov, hujan
+14973, vrb, oov, pelajaran
+14973, vrb, oov, proyek
+14973, vrb, oov, makanan
+14973, vrb, oov, pekerjaan
+14973, vrb, oov, hujan
+15020, vrb, oov, air
+15020, vrb, oov, anjing
+15020, vrb, oov, arti
+15020, vrb, oov, batu
+15020, vrb, oov, bensin
+15020, vrb, oov, bom
+15020, vrb, oov, cat
+15020, vrb, oov, cek
+15020, vrb, oov, cermin
+15020, vrb, oov, daging
+15020, vrb, oov, dompet
+15020, vrb, oov, gamelan
+15020, vrb, oov, gelas
+15020, vrb, oov, gunting
+15020, vrb, oov, hewan
+15020, vrb, oov, jam
+15020, vrb, oov, jawab
+15020, vrb, oov, jualan
+15020, vrb, oov, kaca
+15020, vrb, oov, kah
+15020, vrb, oov, kain
+15020, vrb, oov, kalendar
+15020, vrb, oov, kayu
+15020, vrb, oov, kentang
+15020, vrb, oov, keranjang
+15020, vrb, oov, kertas
+15020, vrb, oov, komputer
+15020, vrb, oov, kopi
+15020, vrb, oov, kotak
+15020, vrb, oov, kucing
+15020, vrb, oov, kuda
+15020, vrb, oov, kunci
+15020, vrb, oov, kursi
+15020, vrb, oov, lampu
+15020, vrb, oov, mangga
+15020, vrb, oov, masakan
+15020, vrb, oov, meja
+15020, vrb, oov, mobil
+15020, vrb, oov, motor
+15020, vrb, oov, nyewa
+15020, vrb, oov, papan
+15020, vrb, oov, pel
+15020, vrb, oov, pensil
+15020, vrb, oov, penumpang
+15020, vrb, oov, pipa
+15020, vrb, oov, pisau
+15020, vrb, oov, pos
+15020, vrb, oov, roti
+15020, vrb, oov, sabun
+15020, vrb, oov, sapu
+15020, vrb, oov, sepeda
+15020, vrb, oov, susu
+15020, vrb, oov, taksi
+15020, vrb, oov, tas
+15020, vrb, oov, uang
+14735, vrb, oov, air
+14735, vrb, oov, anjing
+14735, vrb, oov, arti
+14735, vrb, oov, batu
+14735, vrb, oov, bensin
+14735, vrb, oov, bom
+14735, vrb, oov, cat
+14735, vrb, oov, cek
+14735, vrb, oov, cermin
+14735, vrb, oov, daging
+14735, vrb, oov, dompet
+14735, vrb, oov, gamelan
+14735, vrb, oov, gelas
+14735, vrb, oov, gunting
+14735, vrb, oov, hewan
+14735, vrb, oov, jam
+14735, vrb, oov, jawab
+14735, vrb, oov, jualan
+14735, vrb, oov, kaca
+14735, vrb, oov, kah
+14735, vrb, oov, kain
+14735, vrb, oov, kalendar
+14735, vrb, oov, kayu
+14735, vrb, oov, kentang
+14735, vrb, oov, keranjang
+14735, vrb, oov, kertas
+14735, vrb, oov, komputer
+14735, vrb, oov, kopi
+14735, vrb, oov, kotak
+14735, vrb, oov, kucing
+14735, vrb, oov, kuda
+14735, vrb, oov, kunci
+14735, vrb, oov, kursi
+14735, vrb, oov, lampu
+14735, vrb, oov, mangga
+14735, vrb, oov, masakan
+14735, vrb, oov, meja
+14735, vrb, oov, mobil
+14735, vrb, oov, motor
+14735, vrb, oov, nyewa
+14735, vrb, oov, papan
+14735, vrb, oov, pel
+14735, vrb, oov, pensil
+14735, vrb, oov, penumpang
+14735, vrb, oov, pipa
+14735, vrb, oov, pisau
+14735, vrb, oov, pos
+14735, vrb, oov, roti
+14735, vrb, oov, sabun
+14735, vrb, oov, sapu
+14735, vrb, oov, sepeda
+14735, vrb, oov, susu
+14735, vrb, oov, taksi
+14735, vrb, oov, tas
+14735, vrb, oov, uang
+14735, vrb, oov, laki-laki
+14735, vrb, oov, perempuan
+14735, vrb, oov, dia
+14735, vrb, oov, kita
+14735, vrb, oov, mereka
+14735, vrb, oov, saya
+14735, vrb, oov, Anda
+14735, vrb, oov, abang
+14735, vrb, oov, adik
+14735, vrb, oov, anak
+14735, vrb, oov, anak laki-laki
+14735, vrb, oov, anak perempuan
+14735, vrb, oov, ayah
+14735, vrb, oov, bapak
+14735, vrb, oov, ibu
+14735, vrb, oov, kakak
+14735, vrb, oov, pacar
+14735, vrb, oov, ahli bedah
+14735, vrb, oov, akuntan
+14735, vrb, oov, arsitek
+14735, vrb, oov, asisten penjualan
+14735, vrb, oov, dokter
+14735, vrb, oov, dokter gigi
+14735, vrb, oov, dokter hewan
+14735, vrb, oov, guru
+14735, vrb, oov, guru
+14735, vrb, oov, hakim
+14735, vrb, oov, kasir
+14735, vrb, oov, koki
+14735, vrb, oov, makelar
+14735, vrb, oov, montir
+14735, vrb, oov, pelayan
+14735, vrb, oov, pemadam kebakaran
+14735, vrb, oov, pembantu
+14735, vrb, oov, pemotret
+14735, vrb, oov, peneliti
+14735, vrb, oov, pengacara
+14735, vrb, oov, penjahit
+14735, vrb, oov, penjual ikan
+14735, vrb, oov, perawat
+14735, vrb, oov, perias rambut
+14735, vrb, oov, polisi
+14735, vrb, oov, pramugari
+14735, vrb, oov, resepsionis
+14735, vrb, oov, sekretaris
+14735, vrb, oov, teknisi komputer
+14735, vrb, oov, tukang
+14735, vrb, oov, tukang bangunan
+14735, vrb, oov, tukang cat
+14735, vrb, oov, tukang daging
+14735, vrb, oov, tukang kayu
+14735, vrb, oov, tukang las
+14735, vrb, oov, tukang optic
+14735, vrb, oov, tukang pangkas
+14735, vrb, oov, tukang pipa
+14735, vrb, oov, tukang pos
+14735, vrb, oov, tukang roti
+14735, vrb, oov, tukang sapu
+14735, vrb, oov, wartawan
+14735, vrb, oov, murid
+14735, vrb, oov, pelayan
+14735, vrb, oov, pembantu
+14735, vrb, oov, polisi
+14735, vrb, oov, supir
+14735, vrb, oov, tukang
+14735, vrb, oov, Gede
+14735, vrb, oov, Kadek
+14735, vrb, oov, Ketut
+14735, vrb, oov, Komang
+14735, vrb, oov, Made
+14735, vrb, oov, Mang
+14735, vrb, oov, Nengah
+14735, vrb, oov, Ni Luh
+14735, vrb, oov, Nyoman
+14735, vrb, oov, Putu
+14735, vrb, oov, Tut
+14735, vrb, oov, Wayan
+14735, vrb, oov, anjing
+14735, vrb, oov, kucing
+14735, vrb, oov, kuda
+14758, vrb, oov, air
+14758, vrb, oov, anjing
+14758, vrb, oov, arti
+14758, vrb, oov, batu
+14758, vrb, oov, bensin
+14758, vrb, oov, bom
+14758, vrb, oov, cat
+14758, vrb, oov, cek
+14758, vrb, oov, cermin
+14758, vrb, oov, daging
+14758, vrb, oov, dompet
+14758, vrb, oov, gamelan
+14758, vrb, oov, gelas
+14758, vrb, oov, gunting
+14758, vrb, oov, hewan
+14758, vrb, oov, jam
+14758, vrb, oov, jawab
+14758, vrb, oov, jualan
+14758, vrb, oov, kaca
+14758, vrb, oov, kah
+14758, vrb, oov, kain
+14758, vrb, oov, kalendar
+14758, vrb, oov, kayu
+14758, vrb, oov, kentang
+14758, vrb, oov, keranjang
+14758, vrb, oov, kertas
+14758, vrb, oov, komputer
+14758, vrb, oov, kopi
+14758, vrb, oov, kotak
+14758, vrb, oov, kucing
+14758, vrb, oov, kuda
+14758, vrb, oov, kunci
+14758, vrb, oov, kursi
+14758, vrb, oov, lampu
+14758, vrb, oov, mangga
+14758, vrb, oov, masakan
+14758, vrb, oov, meja
+14758, vrb, oov, mobil
+14758, vrb, oov, motor
+14758, vrb, oov, nyewa
+14758, vrb, oov, papan
+14758, vrb, oov, pel
+14758, vrb, oov, pensil
+14758, vrb, oov, penumpang
+14758, vrb, oov, pipa
+14758, vrb, oov, pisau
+14758, vrb, oov, pos
+14758, vrb, oov, roti
+14758, vrb, oov, sabun
+14758, vrb, oov, sapu
+14758, vrb, oov, sepeda
+14758, vrb, oov, susu
+14758, vrb, oov, taksi
+14758, vrb, oov, tas
+14758, vrb, oov, uang
+14996, vrb, oov, air
+14996, vrb, oov, anjing
+14996, vrb, oov, arti
+14996, vrb, oov, batu
+14996, vrb, oov, bensin
+14996, vrb, oov, bom
+14996, vrb, oov, cat
+14996, vrb, oov, cek
+14996, vrb, oov, cermin
+14996, vrb, oov, daging
+14996, vrb, oov, dompet
+14996, vrb, oov, gamelan
+14996, vrb, oov, gelas
+14996, vrb, oov, gunting
+14996, vrb, oov, hewan
+14996, vrb, oov, jam
+14996, vrb, oov, jawab
+14996, vrb, oov, jualan
+14996, vrb, oov, kaca
+14996, vrb, oov, kah
+14996, vrb, oov, kain
+14996, vrb, oov, kalendar
+14996, vrb, oov, kayu
+14996, vrb, oov, kentang
+14996, vrb, oov, keranjang
+14996, vrb, oov, kertas
+14996, vrb, oov, komputer
+14996, vrb, oov, kopi
+14996, vrb, oov, kotak
+14996, vrb, oov, kucing
+14996, vrb, oov, kuda
+14996, vrb, oov, kunci
+14996, vrb, oov, kursi
+14996, vrb, oov, lampu
+14996, vrb, oov, mangga
+14996, vrb, oov, masakan
+14996, vrb, oov, meja
+14996, vrb, oov, mobil
+14996, vrb, oov, motor
+14996, vrb, oov, nyewa
+14996, vrb, oov, papan
+14996, vrb, oov, pel
+14996, vrb, oov, pensil
+14996, vrb, oov, penumpang
+14996, vrb, oov, pipa
+14996, vrb, oov, pisau
+14996, vrb, oov, pos
+14996, vrb, oov, roti
+14996, vrb, oov, sabun
+14996, vrb, oov, sapu
+14996, vrb, oov, sepeda
+14996, vrb, oov, susu
+14996, vrb, oov, taksi
+14996, vrb, oov, tas
+14996, vrb, oov, uang
+14997, vrb, oov, air
+14997, vrb, oov, anjing
+14997, vrb, oov, arti
+14997, vrb, oov, batu
+14997, vrb, oov, bensin
+14997, vrb, oov, bom
+14997, vrb, oov, cat
+14997, vrb, oov, cek
+14997, vrb, oov, cermin
+14997, vrb, oov, daging
+14997, vrb, oov, dompet
+14997, vrb, oov, gamelan
+14997, vrb, oov, gelas
+14997, vrb, oov, gunting
+14997, vrb, oov, hewan
+14997, vrb, oov, jam
+14997, vrb, oov, jawab
+14997, vrb, oov, jualan
+14997, vrb, oov, kaca
+14997, vrb, oov, kah
+14997, vrb, oov, kain
+14997, vrb, oov, kalendar
+14997, vrb, oov, kayu
+14997, vrb, oov, kentang
+14997, vrb, oov, keranjang
+14997, vrb, oov, kertas
+14997, vrb, oov, komputer
+14997, vrb, oov, kopi
+14997, vrb, oov, kotak
+14997, vrb, oov, kucing
+14997, vrb, oov, kuda
+14997, vrb, oov, kunci
+14997, vrb, oov, kursi
+14997, vrb, oov, lampu
+14997, vrb, oov, mangga
+14997, vrb, oov, masakan
+14997, vrb, oov, meja
+14997, vrb, oov, mobil
+14997, vrb, oov, motor
+14997, vrb, oov, nyewa
+14997, vrb, oov, papan
+14997, vrb, oov, pel
+14997, vrb, oov, pensil
+14997, vrb, oov, penumpang
+14997, vrb, oov, pipa
+14997, vrb, oov, pisau
+14997, vrb, oov, pos
+14997, vrb, oov, roti
+14997, vrb, oov, sabun
+14997, vrb, oov, sapu
+14997, vrb, oov, sepeda
+14997, vrb, oov, susu
+14997, vrb, oov, taksi
+14997, vrb, oov, tas
+14997, vrb, oov, uang
+14733, vrb, oov, air
+14733, vrb, oov, anjing
+14733, vrb, oov, arti
+14733, vrb, oov, batu
+14733, vrb, oov, bensin
+14733, vrb, oov, bom
+14733, vrb, oov, cat
+14733, vrb, oov, cek
+14733, vrb, oov, cermin
+14733, vrb, oov, daging
+14733, vrb, oov, dompet
+14733, vrb, oov, gamelan
+14733, vrb, oov, gelas
+14733, vrb, oov, gunting
+14733, vrb, oov, hewan
+14733, vrb, oov, jam
+14733, vrb, oov, jawab
+14733, vrb, oov, jualan
+14733, vrb, oov, kaca
+14733, vrb, oov, kah
+14733, vrb, oov, kain
+14733, vrb, oov, kalendar
+14733, vrb, oov, kayu
+14733, vrb, oov, kentang
+14733, vrb, oov, keranjang
+14733, vrb, oov, kertas
+14733, vrb, oov, komputer
+14733, vrb, oov, kopi
+14733, vrb, oov, kotak
+14733, vrb, oov, kucing
+14733, vrb, oov, kuda
+14733, vrb, oov, kunci
+14733, vrb, oov, kursi
+14733, vrb, oov, lampu
+14733, vrb, oov, mangga
+14733, vrb, oov, masakan
+14733, vrb, oov, meja
+14733, vrb, oov, mobil
+14733, vrb, oov, motor
+14733, vrb, oov, nyewa
+14733, vrb, oov, papan
+14733, vrb, oov, pel
+14733, vrb, oov, pensil
+14733, vrb, oov, penumpang
+14733, vrb, oov, pipa
+14733, vrb, oov, pisau
+14733, vrb, oov, pos
+14733, vrb, oov, roti
+14733, vrb, oov, sabun
+14733, vrb, oov, sapu
+14733, vrb, oov, sepeda
+14733, vrb, oov, susu
+14733, vrb, oov, taksi
+14733, vrb, oov, tas
+14733, vrb, oov, uang
+14751, vrb, oov, jawab
+14751, vrb, oov, arti
+14751, vrb, oov, harap
+14751, vrb, oov, berharap
+14751, vrb, oov, kasih
+14751, vrb, oov, ketakutan
+14751, vrb, oov, harap
+14751, vrb, oov, murung
+14751, vrb, oov, cemas
+14751, vrb, oov, damai
+14979, vrb, oov, jawab
+14979, vrb, oov, arti
+14979, vrb, oov, harap
+14979, vrb, oov, berharap
+14979, vrb, oov, kasih
+14979, vrb, oov, ketakutan
+14979, vrb, oov, harap
+14979, vrb, oov, murung
+14979, vrb, oov, cemas
+14979, vrb, oov, damai
+14944, vrb, oov, air
+14944, vrb, oov, anjing
+14944, vrb, oov, arti
+14944, vrb, oov, batu
+14944, vrb, oov, bensin
+14944, vrb, oov, bom
+14944, vrb, oov, cat
+14944, vrb, oov, cek
+14944, vrb, oov, cermin
+14944, vrb, oov, daging
+14944, vrb, oov, dompet
+14944, vrb, oov, gamelan
+14944, vrb, oov, gelas
+14944, vrb, oov, gunting
+14944, vrb, oov, hewan
+14944, vrb, oov, jam
+14944, vrb, oov, jawab
+14944, vrb, oov, jualan
+14944, vrb, oov, kaca
+14944, vrb, oov, kah
+14944, vrb, oov, kain
+14944, vrb, oov, kalendar
+14944, vrb, oov, kayu
+14944, vrb, oov, kentang
+14944, vrb, oov, keranjang
+14944, vrb, oov, kertas
+14944, vrb, oov, komputer
+14944, vrb, oov, kopi
+14944, vrb, oov, kotak
+14944, vrb, oov, kucing
+14944, vrb, oov, kuda
+14944, vrb, oov, kunci
+14944, vrb, oov, kursi
+14944, vrb, oov, lampu
+14944, vrb, oov, mangga
+14944, vrb, oov, masakan
+14944, vrb, oov, meja
+14944, vrb, oov, mobil
+14944, vrb, oov, motor
+14944, vrb, oov, nyewa
+14944, vrb, oov, papan
+14944, vrb, oov, pel
+14944, vrb, oov, pensil
+14944, vrb, oov, penumpang
+14944, vrb, oov, pipa
+14944, vrb, oov, pisau
+14944, vrb, oov, pos
+14944, vrb, oov, roti
+14944, vrb, oov, sabun
+14944, vrb, oov, sapu
+14944, vrb, oov, sepeda
+14944, vrb, oov, susu
+14944, vrb, oov, taksi
+14944, vrb, oov, tas
+14944, vrb, oov, uang
+14730, vrb, oov, buku
+14730, vrb, oov, kata
+14730, vrb, oov, surat
+14737, vrb, oov, buku
+14737, vrb, oov, kata
+14737, vrb, oov, surat
+match eof on line 310
+4754 records inserted from match
+5514 records inserted total

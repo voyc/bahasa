@@ -1,0 +1,268 @@
+First time is for pronunciation only, show the answer along with the question.  And show a picture, too.
+pronounce, normal, reverse
+
+sudah vs belum
+
+
+
+Pronounciation
+
+?	a	apa	what
+pronoun	a	anda	you
+pronoun	a	saya	I, me
+verb	a	makan	eat
+?	a	sama	same
+?	e	selamat	greeting
+table	e	meja	table
+noun	i	pagi	morning
+demonstrative	i	ini	this
+noun	o	roti	bread
+adv	o	besok	tomorrow
+demonstrative	u	itu	that
+verb	u	jumpa	meet
+adv	ai	sampai	until
+adj	ai	baik	good
+adj	c	cantik	beautiful
+noun	c	cuaca	weather
+noun	g	guru	teacher
+verb	g	dengar	listen
+prep	g	dengan	with
+noun	g	gamelan	gamelan
+noun	g	mangga	mango
+noun	r	sore	afternoon
+noun	r	kabar	news
+?	h	halo	hello
+?	h	boleh	may
+
+Saya makan roti.
+Saya makan mangga.
+Anda makan roti.
+Apa ini?
+Apa itu?
+Ini roti.
+Itu meja.
+Itu mango.
+Ini guru.
+
+Apa kabar?
+Sampai jumpa.
+Sampai besok.
+Selamat pagi.
+Selamat sore.
+
+
+things outside 1
+
+noun	jalan	road
+noun	mobil	automobile
+noun	sepeda	bicycle
+noun	rumah	house
+noun	kantor	office
+noun	sekolah	school
+noun	toko	shop
+noun	kebun	garden
+noun	pohon	tree
+noun	anjing	dog
+noun	kucing	cat
+noun	kuda	horse
+
+things inside 1
+
+noun	kamar	room
+noun	meja	table
+noun	kursi	chair
+noun	lampu	lamp
+noun	lemari	cupboard
+noun	gelas	glass
+noun	jam	clock
+noun	buku	book
+noun	kertas	paper
+noun	pensil	pencil
+noun	roti	bread
+noun	tas	bag
+
+people 1
+
+noun	laki-laki	man
+noun	perempuan	woman
+noun	anak	child
+noun	anak laki-laki	boy
+noun	anak perempuan	girl
+
+family
+
+noun	ayah	father
+noun	ibu	mother
+noun	abang	elder brother
+noun	kakak	elder sister or brother
+noun	adik	younger brother or sister
+
+professions
+	guru	teacher
+noun	murid	pupil
+noun	pelayan	waiter
+noun	pembantu	servant
+noun	polisi	policeman
+noun	supir	driver
+noun	tukang	workman
+
+buildings
+
+noun	gereja	church
+noun	warung	small shop, stall, stand
+
+noun	kunci	key
+noun	atap	roof
+noun	batu	stone
+noun	jendela	window
+noun	pagar	fence
+
+noun	bensin	petrol
+noun	tanah	earth
+noun	kuda	horse
+
+noun	jam	clock, watch
+noun	gunting	scissors
+noun	kaca	glass, pane
+noun	kain	cloth, material
+noun	pisau	knife
+noun	keranjang	basket
+noun	kotak	box
+
+noun	susu	milk
+noun	mentega	butter
+noun	kentang	potato
+noun	air	water
+
+colors 1
+
+adj	hitam	black
+adj	putih	white
+adj	coklat	brown
+adj	biru	blue
+adj	jigau	green
+
+colors 2
+adj	merah	red
+adj	kuning	yellow
+adj	jingga	pink
+adj	ungu	purple
+adj	abu-abu	gray
+
+tastes 1
+
+adj	enak	delicious
+adj	manis	sweet
+adj	pedas	spicy
+adj	asam	sour
+adj	asin	salty
+
+tastes 2
+
+adj	lezat	delicious
+adj	segar	fresh
+adj	nikmat	tasty
+adj	ahit	bitter
+adj	tawar	plain
+
+----------------
+
+adj	besar	big
+adj	kecil	small
+adj	cepat	fast
+adj	lambat	slow
+adj	hebat	great
+adj	mahal	expensive
+adj	murah	cheap
+adj	baik	good
+adj	pintar	smart
+adj	sakit	sick
+adj	dingin	cold
+adj	panas	hot
+adj	banyak	many
+adj	sedikit	few
+
+adj	pendek	short
+adj	tinggi	tall
+adj	baru	new
+adj	rusak	broken
+
+noun	penumpang	passenger
+noun	parkir	parking lot
+noun	perpastakan	library
+noun	tutup	lid
+
+noun	desa	village
+noun	kota	city
+noun	negara	nation
+
+quantity	sangat	very (quantity - before the noun)
+adj	sekali	very (adjective - after the noun)
+
+sangat besar	very big
+besar sekali	very big
+
+noun	sabun	soap
+verb	mandi	to bathe
+verb	cuci	to wash
+verb	belajar	to study
+noun	kolam	pool
+verb	renang	to swim
+verb	tidur	to sleep
+verb	mandi	to bathe
+noun	ruang	space
+verb	operasi	to operate
+noun	papan	board
+verb	tulis	to write
+
+adj	kotor	dirty
+adj	bersih	clean
+adj	panas	hot
+adj	dingin	cold
+
+
+lesson
+	vocab
+	vocab
+	vocab
+	vocab
+	vocab
+	pattern
+	idiom
+	conversation
+
+lesson
+	vocab: nouns
+	pattern: $dem is a $nun.
+	idiom: what is this?  what is that?
+	conversation: What is this?  That is a thing.  What is that?  That is a thing.
+
+lesson
+	vocab: nouns
+	pattern: $nun $dem
+	idiom
+	conversation
+
+lesson
+	vocab: nouns, adjs
+	pattern: $nun $adj, $nun $adj $dem
+	idiom
+	conversation
+
+
+add idioms to vocab
+	idioms are a special case of vocab, part:idm
+
+how to do a conversation?
+	know all the dependencies
+	fixed, at the end of a lesson, after the dependencies have been mastered
+	have the whole converstation recorded at three speeds, go faster and faster
+
+
+
+lpart = 'idi'  // idiom
+rpart = 'com'  // component
+
+if an idiom is included in a lesson, before the dependencies have been presented
+that's a developer error
+this can be checked by a lesson plan compiler/checker

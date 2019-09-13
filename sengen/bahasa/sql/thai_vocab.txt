@@ -1,0 +1,36 @@
+$nun1 $vrb1	$vrb1 $nun1	pat	nnc
+pom	I (male speaking)
+chan	I (female speaking)
+khrap	polite particle (used by male after every sentence)
+kha	polite particle (used by male after every sentence)
+sa-baai dee mai /kh	How are you?
+sa-baai dee reuh /kh	How are you?
+bpen yang-ngai bang /kh	How are things?
+bpen yang-ngai sa-baai dee mai /kh?	How are things?
+sa-baai dee /kh	I'm fine.
+mai-khoy sa-baai /kh	I'm not very well.
+sa-wat dee /kh	Hello (also good bye)
+khaw-thot /kh	Excuse me, I'm sorry, apologize and also used before asking a person a question.
+khawp-khun /kh	Thank you.
+a-rai-na /kh	Pardon? Sorry?
+chok-dee /kh	Good luck, cheers and lucky.
+(duuay-khwaam) yin-dee /kh	My pleasure. You're welcome.
+yin-dee thee daai ruu jak /kh	Nice to meet you.
+(yin-dee thee daai ruu jak) chen-gan /kh	Nice to meet you, too.
+pop gan-mai /kh	See you later.
+jeuh gan-mai /kh See you again.
+khao	he, his, him, she, her
+(puuak)-khao	they
+(puuak)-rao	we
+khun	you, your
+cheu	name
+cheu-jing	first name
+naam-sa-gun	surname
+a-rai	What?
+khun cheu a-rai /kh	What is your name?
+pom cheu John /kh	My name is John?
+khun naam-sa-gun a-rai /kh?	What is your surname?
+pom naam-sa-gun Hagstrand /kh	My surname is Hagstrand.
+khun cheu-jing (cheu) a-rai /kh?	What is your first name?
+pom cheu-jing (cheu) John /kh?	My first name is John.
+

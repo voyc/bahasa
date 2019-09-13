@@ -1,0 +1,106 @@
+
+
+practice this conversation until you can hear it and speak it at the fastest speed
+speak along with the audio
+button: continue to next lesson
+home: list of lessons, disabled until dependencies mastered
+on lesson presentation page, add "I already know this" button
+
+
+Prepare yourself for a trip to Indonesia for free.
+sign
+street sign
+signs on buildings
+Foods in restaurants
+Buying in shops
+finding your way around
+Money
+Using an ATM
+Get to your hotel
+time
+greetings
+placenames
+Manners, respect
+love
+be happy
+
+$noun1
+$noun2
+$noun3
+
+ini $noun	this $noun
+itu $noun	that $noun
+ini $noun dan itu $noun	this $noun and that $noun
+Ini bukan $noun, tetapi $noun.	This is not a $noun, but a $noun.
+
+?	$noun is on the $noun.
+?	$noun is in the $noun.
+
+what nouns can have colors?
+what nouns can have tastes?
+what nouns can have number?
+
+polite phrases (protocol)
+
+Sampai jumpa besok.	See you tomorrow.
+Apa kabar?	What news?  How are you?
+	See you soon
+	Pleased to meet you
+	What time is it
+	I need to be there by 4 pm
+
+
+numbers
+times
+dates
+weight: kilograms
+volume: liter 
+distance: kilometers, centimeters, meters
+
+placenames for distance
+a coconut weighs 2 kilograms
+
+
+
+	motorbike
+	sign
+	temple
+
+warung
+restauran	
+	hotel
+	homestay
+	bungalo
+	villa
+	taksi
+
+ada	there is
+Ada 26 orang di toko.	There are 26 people in the shop.
+
+
+
+------------------------
+
+  1 quest_load_spanish.sql      567
+
+  2 quest_load_indonesian.sql   327, 14 lessons, from the couple's audio tapes
+    indonesian2.txt             694, vocabulary from the back of "You can speak", in alphabetical order
+    indonesian3.txt             56, questions from the beginning of "You can speak"
+  3 indonesian3.sql             56, questions from the beginning of "You can speak"
+    indo4.txt                   73, vocabulary for the questions from the beginning of "You can speak"
+  4 indo4.sql                   129, vocabulary plus questions from the beginning of "You can speak"
+    indonesian5.txt             135, vocabulary from Gracesima's book, "Aku Cinta indonesia"
+  6 indonesian6.sql             233, Gracesima's common phrases, 9 page handout
+x 7 indonesian7.sql             82, nouns and adjectives (then verbs and adverbs), from Gracesima and "You can speak..."
+    indo5.txt                   conversations from "You can speak"
+x 8 indonesian8.sql             52, verbs and adverbs, from Gracesima and "You can speak..."
+x 9 indonesian9.sql             52, more verbs, from Gracesima and "You can speak..."
+
+principles and algorithms.txt
+lesson plans.txt
+
+vocab: one row per word
+struct
+lesson
+match: words that can go together
+

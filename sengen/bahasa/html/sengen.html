@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<title>test sengen</title>
+		<script src="sengen.js"></script>
+		<script src="jslib/utils.js"></script>
+		<script>
+			window.onload = function() {
+				g = {};  // one global variable
+				g.data = {};
+				g.sengen = new SenGen();
+				g.sengen.start();
+			}
+		</script>
+		<style>
+			#log {
+				border:1px solid black;
+			}
+		</style>
+	</head>
+	<body>
+		word: <input type="text" size="5" id="word" value="46" />
+		<input type="button" value="Go" onclick="g.sengen.generateSentence($('word').value, 0, 0, 50)" />
+		pattern: <input type="text" size="5" id="pattern" value="0" />
+		sub-pattern: <input type="text" size="5" id="subpattern" value="0" />
+		complexity: <input type="text" size="5" id="complexity" value="0" />
+		<input type="button" value="Go" onclick="g.sengen.generateSentence($('word').value, parseInt($('pattern').value), parseInt($('subpattern').value), parseInt($('complexity').value))" />
+		<div id="log"></div>
+	</body>
+</html>

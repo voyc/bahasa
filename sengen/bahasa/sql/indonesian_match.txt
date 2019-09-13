@@ -1,0 +1,800 @@
+//---------------------------
+//noun classifications
+
+$baju	=	baju, celana, kaos, kemeja
+
+$pronoun	=	dia, kita, mereka, saya, Anda
+$family	=	abang, adik, anak, anak laki-laki, anak perempuan, ayah, bapak, ibu, kakak, pacar
+$job	=	ahli bedah, akuntan, arsitek, asisten penjualan, dokter, dokter gigi, dokter hewan, guru, hakim, kasir, koki, makelar, montir, pemadam kebakaran, pemotret, peneliti, pengacara, penjahit, penjual ikan, perawat, perias rambut, polisi, pramugari, resepsionis, sekretaris, teknisi komputer, tukang, tukang bangunan, tukang cat, tukang daging, tukang kayu, tukang las, tukang optic, tukang pangkas, tukang pipa, tukang pos, tukang roti, tukang sapu, wartawan, murid, pelayan, pembantu, supir
+$firstname	=	Gede, Kadek, Ketut, Komang, Made, Mang, Nengah, Ni Luh, Nyoman, Putu, Tut, Wayan
+//$lastname	=	
+//$title	=	Bapak, Pak, Ibu, Tuan, Nyonya, I, Ni
+//$name	=	function()
+$person	=	laki-laki, perempuan, $pronoun, $family, $job, $firstname
+//, $name
+
+//$possessive	=	function()
+//$sentence	= function()
+
+$hewan	=	anjing, kucing, kuda
+$plant	=	pohon
+$thing	=	air, anjing, arti, batu, bensin, bom, cat, cek, cermin, daging, dompet, gamelan, gelas, gunting, hewan, jam, jawab, jualan, kaca, kah, kain, kalendar, kayu, kentang, keranjang, kertas, komputer, kopi, kotak, kucing, kuda, kunci, kursi, lampu, mangga, masakan, meja, mobil, motor, nyewa, papan, pel, pensil, penumpang, pipa, pisau, pos, roti, sabun, sapu, sepeda, susu, taksi, tas, uang
+$furniture	=	meja, kursi, lemari, lampu, wastafel
+$feeling	=	harap, berharap, kasih, ketakutan, harap, murung,cemas,damai
+
+$daging	=	ayam, sapi, babi
+$buah	=	alpukat, nangka, mangga
+$sayur	=	tomat
+$kacang	=	kacang, mete
+$bumbu	=	gula
+$masakan	=	ayam goreng saus tiram, ayam lalapan, ayam bakar, sapi lada hitam, ayam asam manis, es buah
+$makanan	=	$daging, $buah, $sayur, $kacang, $bumbu, $masakan, es, mentega, ikan
+
+$clothing	=	sepatu, topi, kaus, celana
+$table-setting	=	pisau, garpu, sendok, pelat, cangkir, gelas, serbet
+$container	=	tas, kotak, keranjang, lemari
+$noun	=	$container, $table-setting, $clothing
+
+$vehicle	=	mobil, sepeda motor, pesawat terbang, kereta api
+
+$month	=	Januari
+//$day	=	
+
+$bangunan	=	rumah, bangunan, gereja, kantor, sekolah, bank, toko, warung
+$city	=	Padang Bai, Ubud, Gilikanut, Uluwatu, Singaraja, Denpasar, Gianyar, Amlapura, Negara, Tabanan, Bangli, Mangupura, Semarapura
+$country	=	Indonesia, Perancis, Belanda, Italia, Jerman, Amerika
+$island	=	Bali, Java, Sumatra, Sulewesi, Borneo
+$street	=	Jembawan
+// $regency see eight regencies http://en.wikipedia.org/wiki/Bali
+$geo	=	$country, $city, $island
+$place	=	$geo, $street, $bangunan
+//, $address
+
+//$number	=	function(min,max)
+//$date	=	function()
+//$time	=	function()
+//$address	=	function()
+
+//$movement	=	walking, running, dancing, sleeping, cooking
+
+//---------------------------
+//adjective classifications
+
+$color	=	abu-abu, biru, coklat, hitam, jigau, jingga, kuning, merah, putih, ungu
+$taste	=	ahit, asam, asin, enak, lezat, manis, nikmat, pedas, segar, tawar
+
+//---------------------------
+//verb classifications
+
+//$act	=	ambil, mengambil, angkat, bangun, bawa, membawa, bayar, bersembunyi, buka, membuka, cuci, mencuci, dorong, mendorong, gendong, las, makai, memakai, mengebom, mengecat, mengepel, mengetik, menghitung, mengimpor, mengunci, menyimpan, menyopir, merusak, motong, memotong, pangkas, operasi, sembunyi
+//$cook	=	memasak, menggoreng
+//$consume	=	makan, minum
+//$pasttime	=	bekerja, belajar, bermain
+//$mental	=	berhasil, berpikir, coba, mencoba, ingat, lupa, tahu, mengetahuinya
+//$transform	=	jadi, menjadi
+//$communicate	=	berbicara, bercerita, berarti, bercermin, berdoa, berkata, dengar, mendengar, menjawab, tulis, menulis, menyanyi, minta, meminta, bertanya, 
+//$move	=	duduk, berdiri, berjalan, berlari, menjalan, menjalankan, lompat, melompat, jatuh, renang, berenang, mandi, berhenti, menunggu, beristirahat, tidur
+//$relocate	=	datang, berangkat, keluar, kembali, masuk, tinggal, pergi, pulang
+//$interact	=	berteman, bertemu, ganggu, mengganggu, jumpa, menikah, menyuruh
+//$trade	=	beli, membeli, jual, menyewa, minjam, meminjam, terima, nyimpan, punya
+//$perceive	=	lihat, melihat, dengar, mendengar
+//$desire	=	mau, perlu, suka
+//$feel	=	merasa, mengharap, takut
+//$use	=	mulai, memulai
+//$unclassified	=	baca, berbelanja, operasi
+
+//---------------------------
+// unit tests
+//$test	=	laki-laki, perempuan, Anda, $pronoun, abang, adik
+//nun	set	tst
+//bayar, $test, membeli	:	nota, $test, biaya
+//ambil	:	buku
+//angkat, berangkat	:	arti, cerita
+//bangun	:	$pronoun
+//$use	:	buku
+//$use	:	$use
+//bawa, membawa	:	$pronoun
+//bayar	:	$person, nota, biaya
+//write	cat	$person
+
+//---------------------------
+// write cats
+write	cat	$person, $move
+
+//---------------------------
+//noun adjs
+nun	set	adj
+
+meja	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, cepat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+pagi	:	hitam, abu-abu, merah, kuning, enak, baik, cantik, dingin, panas
+roti	:	putih, coklat, roti, enak, manis, pedas, asin, lezat, segar, nikmat, tawar, baik, cantik, besar, kecil, mahal, murah, dingin, panas, baru, kotor, bersih
+cuaca	:	hitam, putih, enak, baik, cantik, dingin, panas
+guru	:	baik, cantik, cepat, lambat, mahal, murah, pintar, bodoh, pendek, tinggi, baru, kotor, bersih
+gamelan	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+mangga	:	jigau, merah, kuning, enak, manis, asam, lezat, segar, nikmat, ahit, tawar, baik, cantik, besar, kecil, hebat, mahal, murah, baru, kotor, bersih
+sore	:	abu-abu, enak, baik, cantik, dingin, panas
+kabar	:	baik, hebat
+jalan	:	hitam, cepat, lambat, penuh, kosong
+mobil	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, cepat, lambat, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih
+sepeda	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, cepat, lambat, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih
+rumah	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih, penuh, kosong
+kantor	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih, penuh, kosong
+sekolah	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih, penuh, kosong
+toko	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih, penuh, kosong
+kebun	:	jigau, enak, baik, cantik, besar, kecil, dingin, panas, baru, kotor, bersih
+pohon	:	coklat, jigau, baik, cantik, besar, kecil, baru
+anjing	:	hitam, putih, coklat, kuning, baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, baru, kotor, bersih
+kucing	:	hitam, putih, coklat, kuning, baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, baru, kotor, bersih
+kuda	:	hitam, putih, coklat, kuning, baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, baru, kotor, bersih
+kamar	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih, penuh, kosong
+kursi	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+lampu	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+lemari	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+gelas	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+jam	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+buku	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+kertas	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+pensil	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih
+tas	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih, penuh, kosong
+keranjang	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih, penuh, kosong
+kotak	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, cantik, besar, kecil, hebat, mahal, murah, pendek, tinggi, baru, rusak, tetap, kotor, bersih, penuh, kosong
+laki-laki	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+perempuan	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+anak	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+anak laki-laki	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+anak perempuan	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+ayah	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+ibu	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+abang	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+kakak	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+adik	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+murid	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+pelayan	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+pembantu	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+polisi	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+supir	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+tukang	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+penumpang	:	baik, cantik, besar, kecil, cepat, lambat, hebat, pintar, bodoh, sakit, sehat, dingin, panas, pendek, tinggi, kotor, bersih, tua, muda, kuat, lemah, rajin, malas
+gereja	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih, penuh, kosong
+perpastakan	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih
+warung	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, enak, baik, cantik, besar, kecil, hebat, mahal, murah, dingin, panas, baru, rusak, tetap, kotor, bersih, penuh, kosong
+kunci	:	besar, kecil, baru, rusak, tetap
+atap	:	hitam, merah
+batu	:	hitam, putih, coklat, merah, kuning, cantik, besar, kecil
+jendela	:	hitam, putih, coklat, merah, cantik, besar, kecil, pendek, tinggi, rusak, tetap, kotor, bersih
+pagar	:	hitam, putih, coklat, merah, cantik, besar, kecil, rusak, tetap, kotor, bersih
+bensin	:	mahal, murah, kotor, bersih
+tanah	:	hitam, coklat, merah, kuning, baik, dingin, panas
+gunting	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, besar, kecil, mahal, murah
+kaca	:	baik, besar, kecil, baru, rusak, tetap, kotor, bersih
+kain	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, mahal, murah, kotor, bersih
+pisau	:	hitam, putih, coklat, biru, jigau, merah, kuning, jingga, ungu, abu-abu, baik, besar, kecil, mahal, murah
+susu	:	enak, manis, asam, lezat, segar, nikmat, tawar, mahal, murah, dingin, panas
+mentega	:	enak, manis, asam, lezat, segar, nikmat, tawar, mahal, murah, dingin, panas
+kentang	:	enak, manis, asam, lezat, segar, nikmat, tawar, mahal, murah, dingin, panas
+air	:	enak, manis, lezat, segar, nikmat, mahal, murah, dingin, panas
+parkir	:	besar, kecil, penuh, kosong
+tutup	:	baik, hebat, besar, kecil, kotor, bersih
+desa	:	baik, hebat, besar, kecil, kotor, bersih
+kota	:	baik, hebat, besar, kecil, kotor, bersih
+negara	:	baik, hebat, besar, kecil
+sabun	:	besar, kecil
+kolam	:	besar, kecil
+ruang	:	besar, kecil
+papan	:	besar, kecil
+
+//---------------------------
+//opposites
+wrd	set	opp
+besar	:	kecil
+cepat	:	lambat
+mahal	:	murah
+pintar	:	bodoh
+sakit	:	sehat
+dingin	:	panas
+banyak	:	sedikit
+pendek	:	tinggi
+baru	:	tua
+muda	:	tua
+kuat	:	lemah
+rusak	:	tetap
+rajin	:	malas
+penuh	:	kosong
+guru	:	murid
+
+//---------------------------
+//perequisites: used when validating a lesson plan
+wrd	set	prq
+
+ketakutan	:	takut
+kecepatan	:	cepat
+keselamatan	:	selamat
+jualan	:	jual
+penjualan	:	jualan
+
+// these, i don't think we need.  always validate each word in an idiom.
+//tukang roti	:	tukang, roti
+//tukang pangkas	:	tukang, pangkas
+//tukang bangunan	:	tukang, bangunan
+//tukang daging	:	tukang, daging
+//tukang kayu	:	tukang, kayu
+//tukang sapu	:	tukang, sapu
+//dokter gigi	:	dokter, gigi
+//tukang optic	:	tukang, optic
+//tukang cat	:	tukang, cat
+//tukang pipa	:	tukang, pipa
+//tukang pos	:	tukang, pos
+//asisten penjualan	:	asisten, penjualan
+//ahli bedah	:	ahli, bedah
+//teknisi komputer	:	teknisi, komputer
+//dokter hewan	:	dokter, hewan
+//tukang las	:	tukang, las
+
+$eof
+
+
+//---------------------------
+//subject verb
+sub	set	vrb
+
+//$person	ambil, angat, baca, bangun, bawa, bayar, bekerja, belajar, beli, berangkat, berarti, berbelanja, berbicara, bercerita, bercermin, berdiri, berdoa, beranang, berhasil, berhenti, beristirahat, berjalan, berkata, berlari, bermain, berpikir, bersembunyi, bertanya, berteman, bertemu, buka, coba, cuci, datang, dengar, dorong, duduk, ganggu, gendong, ingat, jadi, jatuh, jual, jumpa, keluar, kembali, las, lihat, lompat, lupa, makai, makan, mandi, mau, melihat, melompat, memakai, memasak, membawa, membeli, membuka, meminjam, meminta, memotong, memulai, mencoba, mencuci, mendengar, mendorong, mengambil, mengebom, mengecat, mengepel, mengetahuinya, mengetik, mengganggu, menggoreng, mengharap, mengitung, mengimpor, mengunci, menikah, menjadi, menjalan, menjalankan, manjawab, menulis, menunggu, menyanyi, menyewa, menyimpan, menyopir, menyuruh, merasa, merusak, minjam, minta, minum, motong, mulai, nyimpan, operasi, pangkas, pergi, perlu, pulang, punya, renang, sembunyi, suka, tahu, takut, terima, tidur, tinggal, tulis
+//surprise!  a person can do all verbs
+
+//what verbs can be used with: 
+//  animal
+//  food
+//  object
+
+//---------------------------
+//vrb nun (objects of verbs)
+vrb	set	oov
+
+ambil, mengambil	:	$thing
+angkat, berangkat	:	$thing
+baca	:	buku, arti, cerita, doa, jam, jawab, kabar, kata, kertas, papan, tanya
+bangun	:	$person, $hewan, $feeling
+bawa, membawa	:	$thing
+bayar	:	$person, nota, biaya
+belajar	:	buku
+beli, membeli	:	$thing, $hewan
+berangkat	:	$thing, $place, $person
+//berarti	:	$sentence
+berbicara	:	bahasa
+bercerita	:	cerita
+//bercermin	:	picture, image
+berdoa	:	doa
+//berhenti	:	verb: walking, running, doing, talking
+berkata	:	kata
+//bermain	:	
+berpikir	:	pikir
+// adverb phrase: about...
+bersembunyi	:	$thing, $hewan, pikir
+bertanya	:	tanya, $person
+berteman	:	$person, $hewan
+bertemu	:	$person
+buka, membuka	:	pintu, jendela, botol, buku
+//coba, mencoba	:	$verb
+cuci, mencuci	:	$thing
+dengar, mendengar	:	lagu, tanya, jawab, mobil, sepeda motor, $hewan, $person, beker 
+dorong, mendorong	:	mobil, sepeda motor
+ganggu, mengganggu	:	$person, $hewan
+gendong	:	$thing
+ingat	:	nama, waktu, tanggal, $thing
+//, $sentence
+lupa	:	nama, waktu, tanggal, $thing
+//, $sentence
+jadi, menjadi	:	$person
+jual	:	$thing, $hewan
+jumpa	:	$person
+keluar	:	kamar, rumah, desa, kota, negara, toko, $place
+las	:	logam, mobil
+//lihat, melihat	:	$noun
+makai, memakai	:	$clothing, $thing
+makan	:	makanan, masakan, $makanan
+mandi	:	$person
+mau	:	$thing
+masuk	:	kamar, rumah, desa, kota, negara, toko, $place
+memasak	:	masakan, makanan, $hewan, $makanan
+mengebom	:	$place
+mengecat	:	kamar, $bangunan, $furniture
+mengepel	:	lantai
+mengetik	:	surat, buku
+menggoreng	:	$daging, $sayur, pisang
+//, $nut
+//mengharap	:	$sentence
+menghitung	:	$thing, $hewan
+//, $people
+mengimpor	:	$thing
+mengunci	:	kamar, $bangunan
+menikah	:	perempuan, laki-laki, pacar, teman, $person
+menjalan, menjalankan
+mengimpor	:	$thing
+menyimpan	:	$thing
+merusak	:	$thing
+minjam, meminjam	:	$thing
+minta, meminta	:	tanya
+minum	:	air, susu, teh
+motong, memotong	:	kain, kayu, pohon, mentega, batu, belanja, daging, gelas, kaca, kentang, pipa, roti, alpukat, nangka
+mulai, memulai	:	pelajaran, proyek, makanan, pekerjaan, hujan
+//, $movement
+nyimpan	:	$thing
+perlu	:	$thing, $person, $hewan
+punya	:	$thing
+sembunyi, bersembunyi	:	$thing
+suka	:	$thing
+tahu, mengetahuinya	:	jawab, arti, $feeling
+terima	:	$thing
+tulis, menulis	:	buku, kata, surat
+
+//-------------------------------------
+//vrb adv nun (objects of adverbs)
+//vrb prep nun (objects of preposition)
+//preposition vs adverb
+
+verb	set	adverb
+$person $verb $object $when $how $where $why
+
+========================================================
+These are real adverbs.  They modify a verb.
+agak	how
+mungkin	how
+cukup	quantity
+lagi	quantity (when?)
+
+belum	when
+besok	when
+pernak	when
+sedang	when
+semalam	when
+sudah	when
+marih, masih	when
+nanti	when
+tadi	when
+tadi malam	when
+tadi siang	when
+tadi pagi	when
+tadi sore	when
+sekarang	when
+nanti malam	when
+nanti siang	when
+nanti pagi	when
+nanti sore	when
+2 jam yang lalu	when (2 hours before)
+
+These  (adverbs?) require an object:
+menurut
+tentang
+saka
+sampai
+
+These (adverbs?) require another verb: (which verbs?)
+akan
+boleh
+bisa, dapat
+harus
+ingin, mau
+perlu
+
+---------
+
+of
+to
+from
+with
+into
+
+
+
+
+
+
+motong, memotong	dengan	pisau, gunting 
+
+right, left
+above, below
+north, south
+east, west
+
+mentik on komputer
+mengunci	with kunci
+
+
+-------------
+conjunctions
+and
+so
+therefore
+because
+or
+but
+until
+
+-------------
+all the nouns that can follow di, ke, dari
+
+di	bathtub, $room, $bangunan, $geo
+ke	$bangunan, $geo, $event
+dari	$geo
+
+all the nouns that can follow di plus an adverb
+di bawa
+di sebalah
+di atas
+di sisi
+
+
+
+Saya takut ini mungkin membuat Nyoman cemburu.
+Saya tidak suka membuat Nyoman cemburu.
+Saya mau hormati menikah Anda dan Nyoman.
+Kapan saya menikah, saya cemburu.
+
+Purnomo
+
+
+di dalam {$container, kamar, rumah, bangunan}
+di atas {$furniture}
+
+
+$object di $where
+$person $move $object dari $where ke $where
+$person $move $object dari atas meja ke dalam laci
+$person $move $object dari dalam laci ke atas meja
+
+$person $move $object dari $where ke $where
+Ia pindah kaus kaki dari atas meja ke dalam laci.
+
+These adverbs, can be used alone or with di, ke, dari:
+dalam	inside	adv
+luar	outside	adv
+atas	on, above, over	adv
+bawah	under, below	adv
+antara	between, among	adv
+muka	front	adv
+depan	front	adv
+belakang	behind	adv
+sebelah	beside, next to	adv
+dekat	near	adv
+tengah	middle, center	adv
+
+$subjective $where $objective
+$small-object	dalam	$container
+$small-object	luar	$container
+$table-setting atas meja
+{$insect, $small-animal} bawah {$furniture, $vehicle}
+$object antara $object dan $object
+$person1 muka/depan $person2
+$person1 belakang $person2
+$person1 sebelah $person2
+{$person, $vehicle} dekat {$bangunan}
+$bangunan	tengah	$village
+$person	tengah	kamar
+
+
+
+
+These adverbs, require di, ke, dari:
+mana	where	adv
+sana	there	adv
+sini	here	adv
+
+=================
+verb list
+
+ambil, mengambil	:
+angkat, berangkat	:
+baca	:
+bangun	:
+bawa, membawa	:
+bayar	:
+bekerja	:
+belajar	:
+beli, membeli	:
+berangkat	:
+berarti	:
+berbelanja	:
+berbicara	:
+bercerita	:
+bercermin	:
+berdiri	:
+berdoa	:
+berenang	:
+berhasil	:
+berhenti	:
+beristirahat	:
+berjalan	:
+berkata	:
+berlari	:
+bermain	:
+berpikir	:
+bersembunyi	:
+bertanya	:
+berteman	:
+bertemu	:
+buka, membuka	:
+coba, mencoba	:
+cuci, mencuci	:
+datang	:
+dengar, mendengar	:
+dorong, mendorong	:
+duduk	:
+ganggu, mengganggu	:
+gendong	:
+ingat	:
+lupa	:
+jadi, menjadi	:
+jatuh	:
+jual	:
+jumpa	:
+keluar	:
+kembali	:
+las	:
+lihat, melihat	:
+lompat, melompat	:
+makai, memakai	:
+makan	:
+mandi	:
+mau	:
+masuk	:
+memasak	:
+mengebom	:
+mengecat	:
+mengepel	:
+mengetik	:
+menggoreng	:
+mengharap	:
+menghitung	:
+mengimpor	:
+mengunci	:
+menikah	:
+menjalan, menjalankan	:
+mengimpor	:
+menyimpan	:
+menunggu	:
+menyanyi	:
+menyewa	:
+menyimpan	:
+menyopir	:
+menyuruh	:
+merasa	:
+merusak	:
+minjam, meminjam	:
+minta, meminta	:
+minum	:
+motong, memotong	:
+mulai, memulai	:
+nyimpan	:
+operasi	:
+pangkas	:
+pergi	:
+perlu	:
+pulang	:
+punya	:
+renang	:
+sembunyi, bersembunyi	:
+suka	:
+tahu, mengetahuinya	:
+takut	:
+terima	:
+tidur	:
+tinggal	:
+tulis, menulis	:
+
+
+process comma-separated-list on the left
+process nested $ variables on both right and left
+
+
+
+//=================
+//object of preposition di: where in
+vrb	set	odi
+
+ambil, mengambil	:	$geo, $bangunan, $vehicle, $container
+angkat, berangkat	:
+baca	:	$geo, $bangunan
+bangun	:	$geo
+bawa, membawa	:	$geo, $bangunan, $vehicle, $container
+bayar	:	$bangunan
+bekerja	:	$geo, $bangunan
+belajar	:	sekolah, $geo, $bangunan
+beli, membeli	:	toko, $geo, $bangunan
+berangkat	:	
+berarti	:
+berbelanja	:	toko, pasar, $geo, $bangunan
+berbicara	:	sekolah, gereja, pura
+bercerita	:	sekolah, gereja, pura
+bercermin	:	mata
+berdiri	:	jalan, $bangunan
+berdoa	:	gereja, pura, rumah
+berenang	:	sungai, laut, kolam, kanal
+berhasil	:	
+berhenti	:
+beristirahat	:	tempat tidur, kursi, kamar 
+berjalan	:	jalan
+berkata	:	gereja, pura, $bangunan
+berlari	:	jalan
+bermain	:	sekolah, rumah
+berpikir	:	sekolah, pura, kamar, $vehicle
+bersembunyi	:	jalan, $bangunan, $geo
+bertanya	:	toko, kantor
+berteman	:	$bangunan, $geo
+bertemu	:	
+buka, membuka	:	$geo, $bangunan, 
+coba, mencoba	:
+cuci, mencuci	:	wastafel, sungai, laut, kolam, kanal
+datang	:	$geo, $bangunan
+dengar, mendengar	:	$bangunan
+dorong, mendorong	:	jalan
+duduk	:	kursi, $vehicle
+ganggu, mengganggu	:	kamar, kursi, $vehicle, $bangunan
+gendong	:	
+ingat	:	$bangunan, $vehicle
+lupa	:	$bangunan, $vehicle
+jadi, menjadi	:	?
+jatuh	:	$bangunan, $vehicle
+jual	:	toko, warung
+jumpa	:	jalan, $bangunan, $geo
+keluar	:	?
+kembali	:	?
+las	:	$vehicle, $bangunan
+lihat, melihat	:	jalan, $bangunan, $geo
+lompat, melompat	:	dari/ke
+makai, memakai	:	di
+makan	:	di
+mandi	:	di
+mau	:	dari/ke
+masuk	:	di (into)
+memasak	:	di
+mengebom	:	$geo, $bangunan
+mengecat	:
+mengepel	:
+mengetik	:
+menggoreng	:
+mengharap	:
+menghitung	:
+mengimpor	:
+mengunci	:
+menikah	:
+menjalan, menjalankan	:
+mengimpor	:
+menyimpan	:
+menunggu	:
+menyanyi	:
+menyewa	:
+menyimpan	:
+menyopir	:
+menyuruh	:
+merasa	:
+merusak	:
+minjam, meminjam	:
+minta, meminta	:
+minum	:
+motong, memotong	:
+mulai, memulai	:
+nyimpan	:
+operasi	:
+pangkas	:
+pergi	:
+perlu	:
+pulang	:
+punya	:
+renang	:
+sembunyi, bersembunyi	:
+suka	:
+tahu, mengetahuinya	:
+takut	:
+terima	:
+tidur	:
+tinggal	:
+tulis, menulis	:
+
+
+// jadi	so
+// jika	if
+// kemudian then
+jika $sentence kemudian $sentence
+$sentence jadi $sentence
+
+
+//=================
+// primary adverbial preposition usage
+
+ambil, mengambil	: dari/ke
+angkat, berangkat	:
+baca	:	
+bangun	:	di
+bawa, membawa	:	dari/ke
+bayar	:	for
+bekerja	:	on
+belajar	:	what
+beli, membeli	:	di
+berangkat	:	dari
+berarti	:	?
+berbelanja	:	for
+berbicara	:	
+bercerita	:	
+bercermin	:	
+berdiri	:	di
+berdoa	:	for
+berenang	:	di
+berhasil	:	at what
+berhenti	:	what verb
+beristirahat	:	di
+berjalan	:	dari/ke
+berkata	:	di
+berlari	:	dari/ke
+bermain	:	di
+berpikir	:	about, di
+bersembunyi	:	jalan, $bangunan, $geo
+bertanya	:	toko, kantor
+berteman	:	di, with whom
+bertemu	:	di, whom
+buka, membuka	:	what, ke, di
+coba, mencoba	:	what
+cuci, mencuci	:	what, di
+datang	:	di, dari
+dengar, mendengar	:	to what, di
+dorong, mendorong	:	what, dari/ke, di
+duduk	:	di, on what (Do you sit in a chair or on a chair?)
+ganggu, mengganggu	:	whom
+gendong	:	what dari/di (Carry an object in a bag?  Or carrying something while in the street?)
+ingat	:	what, how, where, when
+lupa	:	what, how, where, when
+jadi, menjadi	:	?
+jatuh	:	dari/ke, di
+jual	:	what, di
+jumpa	:	whom, di
+keluar	:	dari/ke
+kembali	:	dari/ke
+las	:	
+lihat, melihat	:
+lompat, melompat	:
+makai, memakai	:
+makan	:
+mandi	:
+mau	:
+masuk	:
+memasak	:
+mengebom	:
+mengecat	:
+mengepel	:
+mengetik	:
+menggoreng	:
+mengharap	:
+menghitung	:
+mengimpor	:
+mengunci	:
+menikah	:
+menjalan, menjalankan	:
+mengimpor	:
+menyimpan	:
+menunggu	:
+menyanyi	:
+menyewa	:
+menyimpan	:
+menyopir	:
+menyuruh	:
+merasa	:
+merusak	:
+minjam, meminjam	:
+minta, meminta	:
+minum	:
+motong, memotong	:
+mulai, memulai	:
+nyimpan	:
+operasi	:
+pangkas	:
+pergi	:
+perlu	:
+pulang	:
+punya	:
+renang	:
+sembunyi, bersembunyi	:
+suka	:
+tahu, mengetahuinya	:
+takut	:
+terima	:
+tidur	:
+tinggal	:
+tulis, menulis	:

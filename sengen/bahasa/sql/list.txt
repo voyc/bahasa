@@ -1,0 +1,3309 @@
+77 vocabcat records written
+ambil, vrb, oov, air
+ambil, vrb, oov, anjing
+ambil, vrb, oov, arti
+ambil, vrb, oov, batu
+ambil, vrb, oov, bensin
+ambil, vrb, oov, bom
+ambil, vrb, oov, cat
+ambil, vrb, oov, cek
+ambil, vrb, oov, cermin
+ambil, vrb, oov, daging
+ambil, vrb, oov, dompet
+ambil, vrb, oov, gamelan
+ambil, vrb, oov, gelas
+ambil, vrb, oov, gunting
+ambil, vrb, oov, hewan
+ambil, vrb, oov, jam
+ambil, vrb, oov, jawab
+ambil, vrb, oov, jualan
+ambil, vrb, oov, kaca
+ambil, vrb, oov, kah
+ambil, vrb, oov, kain
+ambil, vrb, oov, kalendar
+ambil, vrb, oov, kayu
+ambil, vrb, oov, kentang
+ambil, vrb, oov, keranjang
+ambil, vrb, oov, kertas
+ambil, vrb, oov, komputer
+ambil, vrb, oov, kopi
+ambil, vrb, oov, kotak
+ambil, vrb, oov, kucing
+ambil, vrb, oov, kuda
+ambil, vrb, oov, kunci
+ambil, vrb, oov, kursi
+ambil, vrb, oov, lampu
+ambil, vrb, oov, mangga
+ambil, vrb, oov, masakan
+ambil, vrb, oov, meja
+ambil, vrb, oov, mobil
+ambil, vrb, oov, motor
+ambil, vrb, oov, nyewa
+ambil, vrb, oov, papan
+ambil, vrb, oov, pel
+ambil, vrb, oov, pensil
+ambil, vrb, oov, penumpang
+ambil, vrb, oov, pipa
+ambil, vrb, oov, pisau
+ambil, vrb, oov, pos
+ambil, vrb, oov, roti
+ambil, vrb, oov, sabun
+ambil, vrb, oov, sapu
+ambil, vrb, oov, sepeda
+ambil, vrb, oov, susu
+ambil, vrb, oov, taksi
+ambil, vrb, oov, tas
+ambil, vrb, oov, uang
+mengambil, vrb, oov, air
+mengambil, vrb, oov, anjing
+mengambil, vrb, oov, arti
+mengambil, vrb, oov, batu
+mengambil, vrb, oov, bensin
+mengambil, vrb, oov, bom
+mengambil, vrb, oov, cat
+mengambil, vrb, oov, cek
+mengambil, vrb, oov, cermin
+mengambil, vrb, oov, daging
+mengambil, vrb, oov, dompet
+mengambil, vrb, oov, gamelan
+mengambil, vrb, oov, gelas
+mengambil, vrb, oov, gunting
+mengambil, vrb, oov, hewan
+mengambil, vrb, oov, jam
+mengambil, vrb, oov, jawab
+mengambil, vrb, oov, jualan
+mengambil, vrb, oov, kaca
+mengambil, vrb, oov, kah
+mengambil, vrb, oov, kain
+mengambil, vrb, oov, kalendar
+mengambil, vrb, oov, kayu
+mengambil, vrb, oov, kentang
+mengambil, vrb, oov, keranjang
+mengambil, vrb, oov, kertas
+mengambil, vrb, oov, komputer
+mengambil, vrb, oov, kopi
+mengambil, vrb, oov, kotak
+mengambil, vrb, oov, kucing
+mengambil, vrb, oov, kuda
+mengambil, vrb, oov, kunci
+mengambil, vrb, oov, kursi
+mengambil, vrb, oov, lampu
+mengambil, vrb, oov, mangga
+mengambil, vrb, oov, masakan
+mengambil, vrb, oov, meja
+mengambil, vrb, oov, mobil
+mengambil, vrb, oov, motor
+mengambil, vrb, oov, nyewa
+mengambil, vrb, oov, papan
+mengambil, vrb, oov, pel
+mengambil, vrb, oov, pensil
+mengambil, vrb, oov, penumpang
+mengambil, vrb, oov, pipa
+mengambil, vrb, oov, pisau
+mengambil, vrb, oov, pos
+mengambil, vrb, oov, roti
+mengambil, vrb, oov, sabun
+mengambil, vrb, oov, sapu
+mengambil, vrb, oov, sepeda
+mengambil, vrb, oov, susu
+mengambil, vrb, oov, taksi
+mengambil, vrb, oov, tas
+mengambil, vrb, oov, uang
+angkat, vrb, oov, air
+angkat, vrb, oov, anjing
+angkat, vrb, oov, arti
+angkat, vrb, oov, batu
+angkat, vrb, oov, bensin
+angkat, vrb, oov, bom
+angkat, vrb, oov, cat
+angkat, vrb, oov, cek
+angkat, vrb, oov, cermin
+angkat, vrb, oov, daging
+angkat, vrb, oov, dompet
+angkat, vrb, oov, gamelan
+angkat, vrb, oov, gelas
+angkat, vrb, oov, gunting
+angkat, vrb, oov, hewan
+angkat, vrb, oov, jam
+angkat, vrb, oov, jawab
+angkat, vrb, oov, jualan
+angkat, vrb, oov, kaca
+angkat, vrb, oov, kah
+angkat, vrb, oov, kain
+angkat, vrb, oov, kalendar
+angkat, vrb, oov, kayu
+angkat, vrb, oov, kentang
+angkat, vrb, oov, keranjang
+angkat, vrb, oov, kertas
+angkat, vrb, oov, komputer
+angkat, vrb, oov, kopi
+angkat, vrb, oov, kotak
+angkat, vrb, oov, kucing
+angkat, vrb, oov, kuda
+angkat, vrb, oov, kunci
+angkat, vrb, oov, kursi
+angkat, vrb, oov, lampu
+angkat, vrb, oov, mangga
+angkat, vrb, oov, masakan
+angkat, vrb, oov, meja
+angkat, vrb, oov, mobil
+angkat, vrb, oov, motor
+angkat, vrb, oov, nyewa
+angkat, vrb, oov, papan
+angkat, vrb, oov, pel
+angkat, vrb, oov, pensil
+angkat, vrb, oov, penumpang
+angkat, vrb, oov, pipa
+angkat, vrb, oov, pisau
+angkat, vrb, oov, pos
+angkat, vrb, oov, roti
+angkat, vrb, oov, sabun
+angkat, vrb, oov, sapu
+angkat, vrb, oov, sepeda
+angkat, vrb, oov, susu
+angkat, vrb, oov, taksi
+angkat, vrb, oov, tas
+angkat, vrb, oov, uang
+berangkat, vrb, oov, air
+berangkat, vrb, oov, anjing
+berangkat, vrb, oov, arti
+berangkat, vrb, oov, batu
+berangkat, vrb, oov, bensin
+berangkat, vrb, oov, bom
+berangkat, vrb, oov, cat
+berangkat, vrb, oov, cek
+berangkat, vrb, oov, cermin
+berangkat, vrb, oov, daging
+berangkat, vrb, oov, dompet
+berangkat, vrb, oov, gamelan
+berangkat, vrb, oov, gelas
+berangkat, vrb, oov, gunting
+berangkat, vrb, oov, hewan
+berangkat, vrb, oov, jam
+berangkat, vrb, oov, jawab
+berangkat, vrb, oov, jualan
+berangkat, vrb, oov, kaca
+berangkat, vrb, oov, kah
+berangkat, vrb, oov, kain
+berangkat, vrb, oov, kalendar
+berangkat, vrb, oov, kayu
+berangkat, vrb, oov, kentang
+berangkat, vrb, oov, keranjang
+berangkat, vrb, oov, kertas
+berangkat, vrb, oov, komputer
+berangkat, vrb, oov, kopi
+berangkat, vrb, oov, kotak
+berangkat, vrb, oov, kucing
+berangkat, vrb, oov, kuda
+berangkat, vrb, oov, kunci
+berangkat, vrb, oov, kursi
+berangkat, vrb, oov, lampu
+berangkat, vrb, oov, mangga
+berangkat, vrb, oov, masakan
+berangkat, vrb, oov, meja
+berangkat, vrb, oov, mobil
+berangkat, vrb, oov, motor
+berangkat, vrb, oov, nyewa
+berangkat, vrb, oov, papan
+berangkat, vrb, oov, pel
+berangkat, vrb, oov, pensil
+berangkat, vrb, oov, penumpang
+berangkat, vrb, oov, pipa
+berangkat, vrb, oov, pisau
+berangkat, vrb, oov, pos
+berangkat, vrb, oov, roti
+berangkat, vrb, oov, sabun
+berangkat, vrb, oov, sapu
+berangkat, vrb, oov, sepeda
+berangkat, vrb, oov, susu
+berangkat, vrb, oov, taksi
+berangkat, vrb, oov, tas
+berangkat, vrb, oov, uang
+baca, vrb, oov, buku
+baca, vrb, oov, arti
+baca, vrb, oov, cerita
+baca, vrb, oov, doa
+baca, vrb, oov, jam
+baca, vrb, oov, jawab
+baca, vrb, oov, kabar
+baca, vrb, oov, kata
+baca, vrb, oov, kertas
+baca, vrb, oov, papan
+baca, vrb, oov, tanya
+bangun, vrb, oov, laki-laki
+bangun, vrb, oov, perempuan
+bangun, vrb, oov, dia
+bangun, vrb, oov, kita
+bangun, vrb, oov, mereka
+bangun, vrb, oov, saya
+bangun, vrb, oov, Anda
+bangun, vrb, oov, abang
+bangun, vrb, oov, adik
+bangun, vrb, oov, anak
+bangun, vrb, oov, anak laki-laki
+bangun, vrb, oov, anak perempuan
+bangun, vrb, oov, ayah
+bangun, vrb, oov, bapak
+bangun, vrb, oov, ibu
+bangun, vrb, oov, kakak
+bangun, vrb, oov, pacar
+bangun, vrb, oov, ahli bedah
+bangun, vrb, oov, akuntan
+bangun, vrb, oov, arsitek
+bangun, vrb, oov, asisten penjualan
+bangun, vrb, oov, dokter
+bangun, vrb, oov, dokter gigi
+bangun, vrb, oov, dokter hewan
+bangun, vrb, oov, guru
+bangun, vrb, oov, guru
+bangun, vrb, oov, hakim
+bangun, vrb, oov, kasir
+bangun, vrb, oov, koki
+bangun, vrb, oov, makelar
+bangun, vrb, oov, montir
+bangun, vrb, oov, pelayan
+bangun, vrb, oov, pemadam kebakaran
+bangun, vrb, oov, pembantu
+bangun, vrb, oov, pemotret
+bangun, vrb, oov, peneliti
+bangun, vrb, oov, pengacara
+bangun, vrb, oov, penjahit
+bangun, vrb, oov, penjual ikan
+bangun, vrb, oov, perawat
+bangun, vrb, oov, perias rambut
+bangun, vrb, oov, polisi
+bangun, vrb, oov, pramugari
+bangun, vrb, oov, resepsionis
+bangun, vrb, oov, sekretaris
+bangun, vrb, oov, teknisi komputer
+bangun, vrb, oov, tukang
+bangun, vrb, oov, tukang bangunan
+bangun, vrb, oov, tukang cat
+bangun, vrb, oov, tukang daging
+bangun, vrb, oov, tukang kayu
+bangun, vrb, oov, tukang las
+bangun, vrb, oov, tukang optic
+bangun, vrb, oov, tukang pangkas
+bangun, vrb, oov, tukang pipa
+bangun, vrb, oov, tukang pos
+bangun, vrb, oov, tukang roti
+bangun, vrb, oov, tukang sapu
+bangun, vrb, oov, wartawan
+bangun, vrb, oov, murid
+bangun, vrb, oov, pelayan
+bangun, vrb, oov, pembantu
+bangun, vrb, oov, polisi
+bangun, vrb, oov, supir
+bangun, vrb, oov, tukang
+bangun, vrb, oov, Gede
+bangun, vrb, oov, Kadek
+bangun, vrb, oov, Ketut
+bangun, vrb, oov, Komang
+bangun, vrb, oov, Made
+bangun, vrb, oov, Mang
+bangun, vrb, oov, Nengah
+bangun, vrb, oov, Ni Luh
+bangun, vrb, oov, Nyoman
+bangun, vrb, oov, Putu
+bangun, vrb, oov, Tut
+bangun, vrb, oov, Wayan
+bawa, vrb, oov, air
+bawa, vrb, oov, anjing
+bawa, vrb, oov, arti
+bawa, vrb, oov, batu
+bawa, vrb, oov, bensin
+bawa, vrb, oov, bom
+bawa, vrb, oov, cat
+bawa, vrb, oov, cek
+bawa, vrb, oov, cermin
+bawa, vrb, oov, daging
+bawa, vrb, oov, dompet
+bawa, vrb, oov, gamelan
+bawa, vrb, oov, gelas
+bawa, vrb, oov, gunting
+bawa, vrb, oov, hewan
+bawa, vrb, oov, jam
+bawa, vrb, oov, jawab
+bawa, vrb, oov, jualan
+bawa, vrb, oov, kaca
+bawa, vrb, oov, kah
+bawa, vrb, oov, kain
+bawa, vrb, oov, kalendar
+bawa, vrb, oov, kayu
+bawa, vrb, oov, kentang
+bawa, vrb, oov, keranjang
+bawa, vrb, oov, kertas
+bawa, vrb, oov, komputer
+bawa, vrb, oov, kopi
+bawa, vrb, oov, kotak
+bawa, vrb, oov, kucing
+bawa, vrb, oov, kuda
+bawa, vrb, oov, kunci
+bawa, vrb, oov, kursi
+bawa, vrb, oov, lampu
+bawa, vrb, oov, mangga
+bawa, vrb, oov, masakan
+bawa, vrb, oov, meja
+bawa, vrb, oov, mobil
+bawa, vrb, oov, motor
+bawa, vrb, oov, nyewa
+bawa, vrb, oov, papan
+bawa, vrb, oov, pel
+bawa, vrb, oov, pensil
+bawa, vrb, oov, penumpang
+bawa, vrb, oov, pipa
+bawa, vrb, oov, pisau
+bawa, vrb, oov, pos
+bawa, vrb, oov, roti
+bawa, vrb, oov, sabun
+bawa, vrb, oov, sapu
+bawa, vrb, oov, sepeda
+bawa, vrb, oov, susu
+bawa, vrb, oov, taksi
+bawa, vrb, oov, tas
+bawa, vrb, oov, uang
+membawa, vrb, oov, air
+membawa, vrb, oov, anjing
+membawa, vrb, oov, arti
+membawa, vrb, oov, batu
+membawa, vrb, oov, bensin
+membawa, vrb, oov, bom
+membawa, vrb, oov, cat
+membawa, vrb, oov, cek
+membawa, vrb, oov, cermin
+membawa, vrb, oov, daging
+membawa, vrb, oov, dompet
+membawa, vrb, oov, gamelan
+membawa, vrb, oov, gelas
+membawa, vrb, oov, gunting
+membawa, vrb, oov, hewan
+membawa, vrb, oov, jam
+membawa, vrb, oov, jawab
+membawa, vrb, oov, jualan
+membawa, vrb, oov, kaca
+membawa, vrb, oov, kah
+membawa, vrb, oov, kain
+membawa, vrb, oov, kalendar
+membawa, vrb, oov, kayu
+membawa, vrb, oov, kentang
+membawa, vrb, oov, keranjang
+membawa, vrb, oov, kertas
+membawa, vrb, oov, komputer
+membawa, vrb, oov, kopi
+membawa, vrb, oov, kotak
+membawa, vrb, oov, kucing
+membawa, vrb, oov, kuda
+membawa, vrb, oov, kunci
+membawa, vrb, oov, kursi
+membawa, vrb, oov, lampu
+membawa, vrb, oov, mangga
+membawa, vrb, oov, masakan
+membawa, vrb, oov, meja
+membawa, vrb, oov, mobil
+membawa, vrb, oov, motor
+membawa, vrb, oov, nyewa
+membawa, vrb, oov, papan
+membawa, vrb, oov, pel
+membawa, vrb, oov, pensil
+membawa, vrb, oov, penumpang
+membawa, vrb, oov, pipa
+membawa, vrb, oov, pisau
+membawa, vrb, oov, pos
+membawa, vrb, oov, roti
+membawa, vrb, oov, sabun
+membawa, vrb, oov, sapu
+membawa, vrb, oov, sepeda
+membawa, vrb, oov, susu
+membawa, vrb, oov, taksi
+membawa, vrb, oov, tas
+membawa, vrb, oov, uang
+bayar, vrb, oov, laki-laki
+bayar, vrb, oov, perempuan
+bayar, vrb, oov, dia
+bayar, vrb, oov, kita
+bayar, vrb, oov, mereka
+bayar, vrb, oov, saya
+bayar, vrb, oov, Anda
+bayar, vrb, oov, abang
+bayar, vrb, oov, adik
+bayar, vrb, oov, anak
+bayar, vrb, oov, anak laki-laki
+bayar, vrb, oov, anak perempuan
+bayar, vrb, oov, ayah
+bayar, vrb, oov, bapak
+bayar, vrb, oov, ibu
+bayar, vrb, oov, kakak
+bayar, vrb, oov, pacar
+bayar, vrb, oov, ahli bedah
+bayar, vrb, oov, akuntan
+bayar, vrb, oov, arsitek
+bayar, vrb, oov, asisten penjualan
+bayar, vrb, oov, dokter
+bayar, vrb, oov, dokter gigi
+bayar, vrb, oov, dokter hewan
+bayar, vrb, oov, guru
+bayar, vrb, oov, guru
+bayar, vrb, oov, hakim
+bayar, vrb, oov, kasir
+bayar, vrb, oov, koki
+bayar, vrb, oov, makelar
+bayar, vrb, oov, montir
+bayar, vrb, oov, pelayan
+bayar, vrb, oov, pemadam kebakaran
+bayar, vrb, oov, pembantu
+bayar, vrb, oov, pemotret
+bayar, vrb, oov, peneliti
+bayar, vrb, oov, pengacara
+bayar, vrb, oov, penjahit
+bayar, vrb, oov, penjual ikan
+bayar, vrb, oov, perawat
+bayar, vrb, oov, perias rambut
+bayar, vrb, oov, polisi
+bayar, vrb, oov, pramugari
+bayar, vrb, oov, resepsionis
+bayar, vrb, oov, sekretaris
+bayar, vrb, oov, teknisi komputer
+bayar, vrb, oov, tukang
+bayar, vrb, oov, tukang bangunan
+bayar, vrb, oov, tukang cat
+bayar, vrb, oov, tukang daging
+bayar, vrb, oov, tukang kayu
+bayar, vrb, oov, tukang las
+bayar, vrb, oov, tukang optic
+bayar, vrb, oov, tukang pangkas
+bayar, vrb, oov, tukang pipa
+bayar, vrb, oov, tukang pos
+bayar, vrb, oov, tukang roti
+bayar, vrb, oov, tukang sapu
+bayar, vrb, oov, wartawan
+bayar, vrb, oov, murid
+bayar, vrb, oov, pelayan
+bayar, vrb, oov, pembantu
+bayar, vrb, oov, polisi
+bayar, vrb, oov, supir
+bayar, vrb, oov, tukang
+bayar, vrb, oov, Gede
+bayar, vrb, oov, Kadek
+bayar, vrb, oov, Ketut
+bayar, vrb, oov, Komang
+bayar, vrb, oov, Made
+bayar, vrb, oov, Mang
+bayar, vrb, oov, Nengah
+bayar, vrb, oov, Ni Luh
+bayar, vrb, oov, Nyoman
+bayar, vrb, oov, Putu
+bayar, vrb, oov, Tut
+bayar, vrb, oov, Wayan
+belajar, vrb, oov, buku
+beli, vrb, oov, air
+beli, vrb, oov, anjing
+beli, vrb, oov, arti
+beli, vrb, oov, batu
+beli, vrb, oov, bensin
+beli, vrb, oov, bom
+beli, vrb, oov, cat
+beli, vrb, oov, cek
+beli, vrb, oov, cermin
+beli, vrb, oov, daging
+beli, vrb, oov, dompet
+beli, vrb, oov, gamelan
+beli, vrb, oov, gelas
+beli, vrb, oov, gunting
+beli, vrb, oov, hewan
+beli, vrb, oov, jam
+beli, vrb, oov, jawab
+beli, vrb, oov, jualan
+beli, vrb, oov, kaca
+beli, vrb, oov, kah
+beli, vrb, oov, kain
+beli, vrb, oov, kalendar
+beli, vrb, oov, kayu
+beli, vrb, oov, kentang
+beli, vrb, oov, keranjang
+beli, vrb, oov, kertas
+beli, vrb, oov, komputer
+beli, vrb, oov, kopi
+beli, vrb, oov, kotak
+beli, vrb, oov, kucing
+beli, vrb, oov, kuda
+beli, vrb, oov, kunci
+beli, vrb, oov, kursi
+beli, vrb, oov, lampu
+beli, vrb, oov, mangga
+beli, vrb, oov, masakan
+beli, vrb, oov, meja
+beli, vrb, oov, mobil
+beli, vrb, oov, motor
+beli, vrb, oov, nyewa
+beli, vrb, oov, papan
+beli, vrb, oov, pel
+beli, vrb, oov, pensil
+beli, vrb, oov, penumpang
+beli, vrb, oov, pipa
+beli, vrb, oov, pisau
+beli, vrb, oov, pos
+beli, vrb, oov, roti
+beli, vrb, oov, sabun
+beli, vrb, oov, sapu
+beli, vrb, oov, sepeda
+beli, vrb, oov, susu
+beli, vrb, oov, taksi
+beli, vrb, oov, tas
+beli, vrb, oov, uang
+beli, vrb, oov, anjing
+beli, vrb, oov, kucing
+beli, vrb, oov, kuda
+membeli, vrb, oov, air
+membeli, vrb, oov, anjing
+membeli, vrb, oov, arti
+membeli, vrb, oov, batu
+membeli, vrb, oov, bensin
+membeli, vrb, oov, bom
+membeli, vrb, oov, cat
+membeli, vrb, oov, cek
+membeli, vrb, oov, cermin
+membeli, vrb, oov, daging
+membeli, vrb, oov, dompet
+membeli, vrb, oov, gamelan
+membeli, vrb, oov, gelas
+membeli, vrb, oov, gunting
+membeli, vrb, oov, hewan
+membeli, vrb, oov, jam
+membeli, vrb, oov, jawab
+membeli, vrb, oov, jualan
+membeli, vrb, oov, kaca
+membeli, vrb, oov, kah
+membeli, vrb, oov, kain
+membeli, vrb, oov, kalendar
+membeli, vrb, oov, kayu
+membeli, vrb, oov, kentang
+membeli, vrb, oov, keranjang
+membeli, vrb, oov, kertas
+membeli, vrb, oov, komputer
+membeli, vrb, oov, kopi
+membeli, vrb, oov, kotak
+membeli, vrb, oov, kucing
+membeli, vrb, oov, kuda
+membeli, vrb, oov, kunci
+membeli, vrb, oov, kursi
+membeli, vrb, oov, lampu
+membeli, vrb, oov, mangga
+membeli, vrb, oov, masakan
+membeli, vrb, oov, meja
+membeli, vrb, oov, mobil
+membeli, vrb, oov, motor
+membeli, vrb, oov, nyewa
+membeli, vrb, oov, papan
+membeli, vrb, oov, pel
+membeli, vrb, oov, pensil
+membeli, vrb, oov, penumpang
+membeli, vrb, oov, pipa
+membeli, vrb, oov, pisau
+membeli, vrb, oov, pos
+membeli, vrb, oov, roti
+membeli, vrb, oov, sabun
+membeli, vrb, oov, sapu
+membeli, vrb, oov, sepeda
+membeli, vrb, oov, susu
+membeli, vrb, oov, taksi
+membeli, vrb, oov, tas
+membeli, vrb, oov, uang
+membeli, vrb, oov, anjing
+membeli, vrb, oov, kucing
+membeli, vrb, oov, kuda
+berangkat, vrb, oov, air
+berangkat, vrb, oov, anjing
+berangkat, vrb, oov, arti
+berangkat, vrb, oov, batu
+berangkat, vrb, oov, bensin
+berangkat, vrb, oov, bom
+berangkat, vrb, oov, cat
+berangkat, vrb, oov, cek
+berangkat, vrb, oov, cermin
+berangkat, vrb, oov, daging
+berangkat, vrb, oov, dompet
+berangkat, vrb, oov, gamelan
+berangkat, vrb, oov, gelas
+berangkat, vrb, oov, gunting
+berangkat, vrb, oov, hewan
+berangkat, vrb, oov, jam
+berangkat, vrb, oov, jawab
+berangkat, vrb, oov, jualan
+berangkat, vrb, oov, kaca
+berangkat, vrb, oov, kah
+berangkat, vrb, oov, kain
+berangkat, vrb, oov, kalendar
+berangkat, vrb, oov, kayu
+berangkat, vrb, oov, kentang
+berangkat, vrb, oov, keranjang
+berangkat, vrb, oov, kertas
+berangkat, vrb, oov, komputer
+berangkat, vrb, oov, kopi
+berangkat, vrb, oov, kotak
+berangkat, vrb, oov, kucing
+berangkat, vrb, oov, kuda
+berangkat, vrb, oov, kunci
+berangkat, vrb, oov, kursi
+berangkat, vrb, oov, lampu
+berangkat, vrb, oov, mangga
+berangkat, vrb, oov, masakan
+berangkat, vrb, oov, meja
+berangkat, vrb, oov, mobil
+berangkat, vrb, oov, motor
+berangkat, vrb, oov, nyewa
+berangkat, vrb, oov, papan
+berangkat, vrb, oov, pel
+berangkat, vrb, oov, pensil
+berangkat, vrb, oov, penumpang
+berangkat, vrb, oov, pipa
+berangkat, vrb, oov, pisau
+berangkat, vrb, oov, pos
+berangkat, vrb, oov, roti
+berangkat, vrb, oov, sabun
+berangkat, vrb, oov, sapu
+berangkat, vrb, oov, sepeda
+berangkat, vrb, oov, susu
+berangkat, vrb, oov, taksi
+berangkat, vrb, oov, tas
+berangkat, vrb, oov, uang
+berangkat, vrb, oov, Indonesia
+berangkat, vrb, oov, Perancis
+berangkat, vrb, oov, Belanda
+berangkat, vrb, oov, Italia
+berangkat, vrb, oov, Jerman
+berangkat, vrb, oov, Amerika
+berangkat, vrb, oov, Padang Bai
+berangkat, vrb, oov, Ubud
+berangkat, vrb, oov, Gilikanut
+berangkat, vrb, oov, Uluwatu
+berangkat, vrb, oov, Singaraja
+berangkat, vrb, oov, Denpasar
+berangkat, vrb, oov, Gianyar
+berangkat, vrb, oov, Amlapura
+berangkat, vrb, oov, Negara
+berangkat, vrb, oov, Tabanan
+berangkat, vrb, oov, Bangli
+berangkat, vrb, oov, Mangupura
+berangkat, vrb, oov, Semarapura
+berangkat, vrb, oov, Bali
+berangkat, vrb, oov, Java
+berangkat, vrb, oov, Sumatra
+berangkat, vrb, oov, Sulewesi
+berangkat, vrb, oov, Borneo
+berbicara, vrb, oov, bahasa
+bercerita, vrb, oov, cerita
+berdoa, vrb, oov, doa
+berkata, vrb, oov, kata
+berpikir, vrb, oov, pikir
+bersembunyi, vrb, oov, air
+bersembunyi, vrb, oov, anjing
+bersembunyi, vrb, oov, arti
+bersembunyi, vrb, oov, batu
+bersembunyi, vrb, oov, bensin
+bersembunyi, vrb, oov, bom
+bersembunyi, vrb, oov, cat
+bersembunyi, vrb, oov, cek
+bersembunyi, vrb, oov, cermin
+bersembunyi, vrb, oov, daging
+bersembunyi, vrb, oov, dompet
+bersembunyi, vrb, oov, gamelan
+bersembunyi, vrb, oov, gelas
+bersembunyi, vrb, oov, gunting
+bersembunyi, vrb, oov, hewan
+bersembunyi, vrb, oov, jam
+bersembunyi, vrb, oov, jawab
+bersembunyi, vrb, oov, jualan
+bersembunyi, vrb, oov, kaca
+bersembunyi, vrb, oov, kah
+bersembunyi, vrb, oov, kain
+bersembunyi, vrb, oov, kalendar
+bersembunyi, vrb, oov, kayu
+bersembunyi, vrb, oov, kentang
+bersembunyi, vrb, oov, keranjang
+bersembunyi, vrb, oov, kertas
+bersembunyi, vrb, oov, komputer
+bersembunyi, vrb, oov, kopi
+bersembunyi, vrb, oov, kotak
+bersembunyi, vrb, oov, kucing
+bersembunyi, vrb, oov, kuda
+bersembunyi, vrb, oov, kunci
+bersembunyi, vrb, oov, kursi
+bersembunyi, vrb, oov, lampu
+bersembunyi, vrb, oov, mangga
+bersembunyi, vrb, oov, masakan
+bersembunyi, vrb, oov, meja
+bersembunyi, vrb, oov, mobil
+bersembunyi, vrb, oov, motor
+bersembunyi, vrb, oov, nyewa
+bersembunyi, vrb, oov, papan
+bersembunyi, vrb, oov, pel
+bersembunyi, vrb, oov, pensil
+bersembunyi, vrb, oov, penumpang
+bersembunyi, vrb, oov, pipa
+bersembunyi, vrb, oov, pisau
+bersembunyi, vrb, oov, pos
+bersembunyi, vrb, oov, roti
+bersembunyi, vrb, oov, sabun
+bersembunyi, vrb, oov, sapu
+bersembunyi, vrb, oov, sepeda
+bersembunyi, vrb, oov, susu
+bersembunyi, vrb, oov, taksi
+bersembunyi, vrb, oov, tas
+bersembunyi, vrb, oov, uang
+bersembunyi, vrb, oov, anjing
+bersembunyi, vrb, oov, kucing
+bersembunyi, vrb, oov, kuda
+bersembunyi, vrb, oov, pikir
+bertanya, vrb, oov, tanya
+bertanya, vrb, oov, laki-laki
+bertanya, vrb, oov, perempuan
+bertanya, vrb, oov, dia
+bertanya, vrb, oov, kita
+bertanya, vrb, oov, mereka
+bertanya, vrb, oov, saya
+bertanya, vrb, oov, Anda
+bertanya, vrb, oov, abang
+bertanya, vrb, oov, adik
+bertanya, vrb, oov, anak
+bertanya, vrb, oov, anak laki-laki
+bertanya, vrb, oov, anak perempuan
+bertanya, vrb, oov, ayah
+bertanya, vrb, oov, bapak
+bertanya, vrb, oov, ibu
+bertanya, vrb, oov, kakak
+bertanya, vrb, oov, pacar
+bertanya, vrb, oov, ahli bedah
+bertanya, vrb, oov, akuntan
+bertanya, vrb, oov, arsitek
+bertanya, vrb, oov, asisten penjualan
+bertanya, vrb, oov, dokter
+bertanya, vrb, oov, dokter gigi
+bertanya, vrb, oov, dokter hewan
+bertanya, vrb, oov, guru
+bertanya, vrb, oov, guru
+bertanya, vrb, oov, hakim
+bertanya, vrb, oov, kasir
+bertanya, vrb, oov, koki
+bertanya, vrb, oov, makelar
+bertanya, vrb, oov, montir
+bertanya, vrb, oov, pelayan
+bertanya, vrb, oov, pemadam kebakaran
+bertanya, vrb, oov, pembantu
+bertanya, vrb, oov, pemotret
+bertanya, vrb, oov, peneliti
+bertanya, vrb, oov, pengacara
+bertanya, vrb, oov, penjahit
+bertanya, vrb, oov, penjual ikan
+bertanya, vrb, oov, perawat
+bertanya, vrb, oov, perias rambut
+bertanya, vrb, oov, polisi
+bertanya, vrb, oov, pramugari
+bertanya, vrb, oov, resepsionis
+bertanya, vrb, oov, sekretaris
+bertanya, vrb, oov, teknisi komputer
+bertanya, vrb, oov, tukang
+bertanya, vrb, oov, tukang bangunan
+bertanya, vrb, oov, tukang cat
+bertanya, vrb, oov, tukang daging
+bertanya, vrb, oov, tukang kayu
+bertanya, vrb, oov, tukang las
+bertanya, vrb, oov, tukang optic
+bertanya, vrb, oov, tukang pangkas
+bertanya, vrb, oov, tukang pipa
+bertanya, vrb, oov, tukang pos
+bertanya, vrb, oov, tukang roti
+bertanya, vrb, oov, tukang sapu
+bertanya, vrb, oov, wartawan
+bertanya, vrb, oov, murid
+bertanya, vrb, oov, pelayan
+bertanya, vrb, oov, pembantu
+bertanya, vrb, oov, polisi
+bertanya, vrb, oov, supir
+bertanya, vrb, oov, tukang
+bertanya, vrb, oov, Gede
+bertanya, vrb, oov, Kadek
+bertanya, vrb, oov, Ketut
+bertanya, vrb, oov, Komang
+bertanya, vrb, oov, Made
+bertanya, vrb, oov, Mang
+bertanya, vrb, oov, Nengah
+bertanya, vrb, oov, Ni Luh
+bertanya, vrb, oov, Nyoman
+bertanya, vrb, oov, Putu
+bertanya, vrb, oov, Tut
+bertanya, vrb, oov, Wayan
+berteman, vrb, oov, laki-laki
+berteman, vrb, oov, perempuan
+berteman, vrb, oov, dia
+berteman, vrb, oov, kita
+berteman, vrb, oov, mereka
+berteman, vrb, oov, saya
+berteman, vrb, oov, Anda
+berteman, vrb, oov, abang
+berteman, vrb, oov, adik
+berteman, vrb, oov, anak
+berteman, vrb, oov, anak laki-laki
+berteman, vrb, oov, anak perempuan
+berteman, vrb, oov, ayah
+berteman, vrb, oov, bapak
+berteman, vrb, oov, ibu
+berteman, vrb, oov, kakak
+berteman, vrb, oov, pacar
+berteman, vrb, oov, ahli bedah
+berteman, vrb, oov, akuntan
+berteman, vrb, oov, arsitek
+berteman, vrb, oov, asisten penjualan
+berteman, vrb, oov, dokter
+berteman, vrb, oov, dokter gigi
+berteman, vrb, oov, dokter hewan
+berteman, vrb, oov, guru
+berteman, vrb, oov, guru
+berteman, vrb, oov, hakim
+berteman, vrb, oov, kasir
+berteman, vrb, oov, koki
+berteman, vrb, oov, makelar
+berteman, vrb, oov, montir
+berteman, vrb, oov, pelayan
+berteman, vrb, oov, pemadam kebakaran
+berteman, vrb, oov, pembantu
+berteman, vrb, oov, pemotret
+berteman, vrb, oov, peneliti
+berteman, vrb, oov, pengacara
+berteman, vrb, oov, penjahit
+berteman, vrb, oov, penjual ikan
+berteman, vrb, oov, perawat
+berteman, vrb, oov, perias rambut
+berteman, vrb, oov, polisi
+berteman, vrb, oov, pramugari
+berteman, vrb, oov, resepsionis
+berteman, vrb, oov, sekretaris
+berteman, vrb, oov, teknisi komputer
+berteman, vrb, oov, tukang
+berteman, vrb, oov, tukang bangunan
+berteman, vrb, oov, tukang cat
+berteman, vrb, oov, tukang daging
+berteman, vrb, oov, tukang kayu
+berteman, vrb, oov, tukang las
+berteman, vrb, oov, tukang optic
+berteman, vrb, oov, tukang pangkas
+berteman, vrb, oov, tukang pipa
+berteman, vrb, oov, tukang pos
+berteman, vrb, oov, tukang roti
+berteman, vrb, oov, tukang sapu
+berteman, vrb, oov, wartawan
+berteman, vrb, oov, murid
+berteman, vrb, oov, pelayan
+berteman, vrb, oov, pembantu
+berteman, vrb, oov, polisi
+berteman, vrb, oov, supir
+berteman, vrb, oov, tukang
+berteman, vrb, oov, Gede
+berteman, vrb, oov, Kadek
+berteman, vrb, oov, Ketut
+berteman, vrb, oov, Komang
+berteman, vrb, oov, Made
+berteman, vrb, oov, Mang
+berteman, vrb, oov, Nengah
+berteman, vrb, oov, Ni Luh
+berteman, vrb, oov, Nyoman
+berteman, vrb, oov, Putu
+berteman, vrb, oov, Tut
+berteman, vrb, oov, Wayan
+bertemu, vrb, oov, laki-laki
+bertemu, vrb, oov, perempuan
+bertemu, vrb, oov, dia
+bertemu, vrb, oov, kita
+bertemu, vrb, oov, mereka
+bertemu, vrb, oov, saya
+bertemu, vrb, oov, Anda
+bertemu, vrb, oov, abang
+bertemu, vrb, oov, adik
+bertemu, vrb, oov, anak
+bertemu, vrb, oov, anak laki-laki
+bertemu, vrb, oov, anak perempuan
+bertemu, vrb, oov, ayah
+bertemu, vrb, oov, bapak
+bertemu, vrb, oov, ibu
+bertemu, vrb, oov, kakak
+bertemu, vrb, oov, pacar
+bertemu, vrb, oov, ahli bedah
+bertemu, vrb, oov, akuntan
+bertemu, vrb, oov, arsitek
+bertemu, vrb, oov, asisten penjualan
+bertemu, vrb, oov, dokter
+bertemu, vrb, oov, dokter gigi
+bertemu, vrb, oov, dokter hewan
+bertemu, vrb, oov, guru
+bertemu, vrb, oov, guru
+bertemu, vrb, oov, hakim
+bertemu, vrb, oov, kasir
+bertemu, vrb, oov, koki
+bertemu, vrb, oov, makelar
+bertemu, vrb, oov, montir
+bertemu, vrb, oov, pelayan
+bertemu, vrb, oov, pemadam kebakaran
+bertemu, vrb, oov, pembantu
+bertemu, vrb, oov, pemotret
+bertemu, vrb, oov, peneliti
+bertemu, vrb, oov, pengacara
+bertemu, vrb, oov, penjahit
+bertemu, vrb, oov, penjual ikan
+bertemu, vrb, oov, perawat
+bertemu, vrb, oov, perias rambut
+bertemu, vrb, oov, polisi
+bertemu, vrb, oov, pramugari
+bertemu, vrb, oov, resepsionis
+bertemu, vrb, oov, sekretaris
+bertemu, vrb, oov, teknisi komputer
+bertemu, vrb, oov, tukang
+bertemu, vrb, oov, tukang bangunan
+bertemu, vrb, oov, tukang cat
+bertemu, vrb, oov, tukang daging
+bertemu, vrb, oov, tukang kayu
+bertemu, vrb, oov, tukang las
+bertemu, vrb, oov, tukang optic
+bertemu, vrb, oov, tukang pangkas
+bertemu, vrb, oov, tukang pipa
+bertemu, vrb, oov, tukang pos
+bertemu, vrb, oov, tukang roti
+bertemu, vrb, oov, tukang sapu
+bertemu, vrb, oov, wartawan
+bertemu, vrb, oov, murid
+bertemu, vrb, oov, pelayan
+bertemu, vrb, oov, pembantu
+bertemu, vrb, oov, polisi
+bertemu, vrb, oov, supir
+bertemu, vrb, oov, tukang
+bertemu, vrb, oov, Gede
+bertemu, vrb, oov, Kadek
+bertemu, vrb, oov, Ketut
+bertemu, vrb, oov, Komang
+bertemu, vrb, oov, Made
+bertemu, vrb, oov, Mang
+bertemu, vrb, oov, Nengah
+bertemu, vrb, oov, Ni Luh
+bertemu, vrb, oov, Nyoman
+bertemu, vrb, oov, Putu
+bertemu, vrb, oov, Tut
+bertemu, vrb, oov, Wayan
+buka, vrb, oov, pintu
+buka, vrb, oov, jendela
+buka, vrb, oov, botol
+buka, vrb, oov, buku
+membuka, vrb, oov, pintu
+membuka, vrb, oov, jendela
+membuka, vrb, oov, botol
+membuka, vrb, oov, buku
+cuci, vrb, oov, air
+cuci, vrb, oov, anjing
+cuci, vrb, oov, arti
+cuci, vrb, oov, batu
+cuci, vrb, oov, bensin
+cuci, vrb, oov, bom
+cuci, vrb, oov, cat
+cuci, vrb, oov, cek
+cuci, vrb, oov, cermin
+cuci, vrb, oov, daging
+cuci, vrb, oov, dompet
+cuci, vrb, oov, gamelan
+cuci, vrb, oov, gelas
+cuci, vrb, oov, gunting
+cuci, vrb, oov, hewan
+cuci, vrb, oov, jam
+cuci, vrb, oov, jawab
+cuci, vrb, oov, jualan
+cuci, vrb, oov, kaca
+cuci, vrb, oov, kah
+cuci, vrb, oov, kain
+cuci, vrb, oov, kalendar
+cuci, vrb, oov, kayu
+cuci, vrb, oov, kentang
+cuci, vrb, oov, keranjang
+cuci, vrb, oov, kertas
+cuci, vrb, oov, komputer
+cuci, vrb, oov, kopi
+cuci, vrb, oov, kotak
+cuci, vrb, oov, kucing
+cuci, vrb, oov, kuda
+cuci, vrb, oov, kunci
+cuci, vrb, oov, kursi
+cuci, vrb, oov, lampu
+cuci, vrb, oov, mangga
+cuci, vrb, oov, masakan
+cuci, vrb, oov, meja
+cuci, vrb, oov, mobil
+cuci, vrb, oov, motor
+cuci, vrb, oov, nyewa
+cuci, vrb, oov, papan
+cuci, vrb, oov, pel
+cuci, vrb, oov, pensil
+cuci, vrb, oov, penumpang
+cuci, vrb, oov, pipa
+cuci, vrb, oov, pisau
+cuci, vrb, oov, pos
+cuci, vrb, oov, roti
+cuci, vrb, oov, sabun
+cuci, vrb, oov, sapu
+cuci, vrb, oov, sepeda
+cuci, vrb, oov, susu
+cuci, vrb, oov, taksi
+cuci, vrb, oov, tas
+cuci, vrb, oov, uang
+mencuci, vrb, oov, air
+mencuci, vrb, oov, anjing
+mencuci, vrb, oov, arti
+mencuci, vrb, oov, batu
+mencuci, vrb, oov, bensin
+mencuci, vrb, oov, bom
+mencuci, vrb, oov, cat
+mencuci, vrb, oov, cek
+mencuci, vrb, oov, cermin
+mencuci, vrb, oov, daging
+mencuci, vrb, oov, dompet
+mencuci, vrb, oov, gamelan
+mencuci, vrb, oov, gelas
+mencuci, vrb, oov, gunting
+mencuci, vrb, oov, hewan
+mencuci, vrb, oov, jam
+mencuci, vrb, oov, jawab
+mencuci, vrb, oov, jualan
+mencuci, vrb, oov, kaca
+mencuci, vrb, oov, kah
+mencuci, vrb, oov, kain
+mencuci, vrb, oov, kalendar
+mencuci, vrb, oov, kayu
+mencuci, vrb, oov, kentang
+mencuci, vrb, oov, keranjang
+mencuci, vrb, oov, kertas
+mencuci, vrb, oov, komputer
+mencuci, vrb, oov, kopi
+mencuci, vrb, oov, kotak
+mencuci, vrb, oov, kucing
+mencuci, vrb, oov, kuda
+mencuci, vrb, oov, kunci
+mencuci, vrb, oov, kursi
+mencuci, vrb, oov, lampu
+mencuci, vrb, oov, mangga
+mencuci, vrb, oov, masakan
+mencuci, vrb, oov, meja
+mencuci, vrb, oov, mobil
+mencuci, vrb, oov, motor
+mencuci, vrb, oov, nyewa
+mencuci, vrb, oov, papan
+mencuci, vrb, oov, pel
+mencuci, vrb, oov, pensil
+mencuci, vrb, oov, penumpang
+mencuci, vrb, oov, pipa
+mencuci, vrb, oov, pisau
+mencuci, vrb, oov, pos
+mencuci, vrb, oov, roti
+mencuci, vrb, oov, sabun
+mencuci, vrb, oov, sapu
+mencuci, vrb, oov, sepeda
+mencuci, vrb, oov, susu
+mencuci, vrb, oov, taksi
+mencuci, vrb, oov, tas
+mencuci, vrb, oov, uang
+dengar, vrb, oov, lagu
+dengar, vrb, oov, tanya
+dengar, vrb, oov, jawab
+dengar, vrb, oov, mobil
+dengar, vrb, oov, sepeda motor
+dengar, vrb, oov, anjing
+dengar, vrb, oov, kucing
+dengar, vrb, oov, kuda
+dengar, vrb, oov, laki-laki
+dengar, vrb, oov, perempuan
+dengar, vrb, oov, dia
+dengar, vrb, oov, kita
+dengar, vrb, oov, mereka
+dengar, vrb, oov, saya
+dengar, vrb, oov, Anda
+dengar, vrb, oov, abang
+dengar, vrb, oov, adik
+dengar, vrb, oov, anak
+dengar, vrb, oov, anak laki-laki
+dengar, vrb, oov, anak perempuan
+dengar, vrb, oov, ayah
+dengar, vrb, oov, bapak
+dengar, vrb, oov, ibu
+dengar, vrb, oov, kakak
+dengar, vrb, oov, pacar
+dengar, vrb, oov, ahli bedah
+dengar, vrb, oov, akuntan
+dengar, vrb, oov, arsitek
+dengar, vrb, oov, asisten penjualan
+dengar, vrb, oov, dokter
+dengar, vrb, oov, dokter gigi
+dengar, vrb, oov, dokter hewan
+dengar, vrb, oov, guru
+dengar, vrb, oov, guru
+dengar, vrb, oov, hakim
+dengar, vrb, oov, kasir
+dengar, vrb, oov, koki
+dengar, vrb, oov, makelar
+dengar, vrb, oov, montir
+dengar, vrb, oov, pelayan
+dengar, vrb, oov, pemadam kebakaran
+dengar, vrb, oov, pembantu
+dengar, vrb, oov, pemotret
+dengar, vrb, oov, peneliti
+dengar, vrb, oov, pengacara
+dengar, vrb, oov, penjahit
+dengar, vrb, oov, penjual ikan
+dengar, vrb, oov, perawat
+dengar, vrb, oov, perias rambut
+dengar, vrb, oov, polisi
+dengar, vrb, oov, pramugari
+dengar, vrb, oov, resepsionis
+dengar, vrb, oov, sekretaris
+dengar, vrb, oov, teknisi komputer
+dengar, vrb, oov, tukang
+dengar, vrb, oov, tukang bangunan
+dengar, vrb, oov, tukang cat
+dengar, vrb, oov, tukang daging
+dengar, vrb, oov, tukang kayu
+dengar, vrb, oov, tukang las
+dengar, vrb, oov, tukang optic
+dengar, vrb, oov, tukang pangkas
+dengar, vrb, oov, tukang pipa
+dengar, vrb, oov, tukang pos
+dengar, vrb, oov, tukang roti
+dengar, vrb, oov, tukang sapu
+dengar, vrb, oov, wartawan
+dengar, vrb, oov, murid
+dengar, vrb, oov, pelayan
+dengar, vrb, oov, pembantu
+dengar, vrb, oov, polisi
+dengar, vrb, oov, supir
+dengar, vrb, oov, tukang
+dengar, vrb, oov, Gede
+dengar, vrb, oov, Kadek
+dengar, vrb, oov, Ketut
+dengar, vrb, oov, Komang
+dengar, vrb, oov, Made
+dengar, vrb, oov, Mang
+dengar, vrb, oov, Nengah
+dengar, vrb, oov, Ni Luh
+dengar, vrb, oov, Nyoman
+dengar, vrb, oov, Putu
+dengar, vrb, oov, Tut
+dengar, vrb, oov, Wayan
+mendengar, vrb, oov, lagu
+mendengar, vrb, oov, tanya
+mendengar, vrb, oov, jawab
+mendengar, vrb, oov, mobil
+mendengar, vrb, oov, sepeda motor
+mendengar, vrb, oov, anjing
+mendengar, vrb, oov, kucing
+mendengar, vrb, oov, kuda
+mendengar, vrb, oov, laki-laki
+mendengar, vrb, oov, perempuan
+mendengar, vrb, oov, dia
+mendengar, vrb, oov, kita
+mendengar, vrb, oov, mereka
+mendengar, vrb, oov, saya
+mendengar, vrb, oov, Anda
+mendengar, vrb, oov, abang
+mendengar, vrb, oov, adik
+mendengar, vrb, oov, anak
+mendengar, vrb, oov, anak laki-laki
+mendengar, vrb, oov, anak perempuan
+mendengar, vrb, oov, ayah
+mendengar, vrb, oov, bapak
+mendengar, vrb, oov, ibu
+mendengar, vrb, oov, kakak
+mendengar, vrb, oov, pacar
+mendengar, vrb, oov, ahli bedah
+mendengar, vrb, oov, akuntan
+mendengar, vrb, oov, arsitek
+mendengar, vrb, oov, asisten penjualan
+mendengar, vrb, oov, dokter
+mendengar, vrb, oov, dokter gigi
+mendengar, vrb, oov, dokter hewan
+mendengar, vrb, oov, guru
+mendengar, vrb, oov, guru
+mendengar, vrb, oov, hakim
+mendengar, vrb, oov, kasir
+mendengar, vrb, oov, koki
+mendengar, vrb, oov, makelar
+mendengar, vrb, oov, montir
+mendengar, vrb, oov, pelayan
+mendengar, vrb, oov, pemadam kebakaran
+mendengar, vrb, oov, pembantu
+mendengar, vrb, oov, pemotret
+mendengar, vrb, oov, peneliti
+mendengar, vrb, oov, pengacara
+mendengar, vrb, oov, penjahit
+mendengar, vrb, oov, penjual ikan
+mendengar, vrb, oov, perawat
+mendengar, vrb, oov, perias rambut
+mendengar, vrb, oov, polisi
+mendengar, vrb, oov, pramugari
+mendengar, vrb, oov, resepsionis
+mendengar, vrb, oov, sekretaris
+mendengar, vrb, oov, teknisi komputer
+mendengar, vrb, oov, tukang
+mendengar, vrb, oov, tukang bangunan
+mendengar, vrb, oov, tukang cat
+mendengar, vrb, oov, tukang daging
+mendengar, vrb, oov, tukang kayu
+mendengar, vrb, oov, tukang las
+mendengar, vrb, oov, tukang optic
+mendengar, vrb, oov, tukang pangkas
+mendengar, vrb, oov, tukang pipa
+mendengar, vrb, oov, tukang pos
+mendengar, vrb, oov, tukang roti
+mendengar, vrb, oov, tukang sapu
+mendengar, vrb, oov, wartawan
+mendengar, vrb, oov, murid
+mendengar, vrb, oov, pelayan
+mendengar, vrb, oov, pembantu
+mendengar, vrb, oov, polisi
+mendengar, vrb, oov, supir
+mendengar, vrb, oov, tukang
+mendengar, vrb, oov, Gede
+mendengar, vrb, oov, Kadek
+mendengar, vrb, oov, Ketut
+mendengar, vrb, oov, Komang
+mendengar, vrb, oov, Made
+mendengar, vrb, oov, Mang
+mendengar, vrb, oov, Nengah
+mendengar, vrb, oov, Ni Luh
+mendengar, vrb, oov, Nyoman
+mendengar, vrb, oov, Putu
+mendengar, vrb, oov, Tut
+mendengar, vrb, oov, Wayan
+dorong, vrb, oov, mobil
+dorong, vrb, oov, sepeda motor
+mendorong, vrb, oov, mobil
+mendorong, vrb, oov, sepeda motor
+ganggu, vrb, oov, laki-laki
+ganggu, vrb, oov, perempuan
+ganggu, vrb, oov, dia
+ganggu, vrb, oov, kita
+ganggu, vrb, oov, mereka
+ganggu, vrb, oov, saya
+ganggu, vrb, oov, Anda
+ganggu, vrb, oov, abang
+ganggu, vrb, oov, adik
+ganggu, vrb, oov, anak
+ganggu, vrb, oov, anak laki-laki
+ganggu, vrb, oov, anak perempuan
+ganggu, vrb, oov, ayah
+ganggu, vrb, oov, bapak
+ganggu, vrb, oov, ibu
+ganggu, vrb, oov, kakak
+ganggu, vrb, oov, pacar
+ganggu, vrb, oov, ahli bedah
+ganggu, vrb, oov, akuntan
+ganggu, vrb, oov, arsitek
+ganggu, vrb, oov, asisten penjualan
+ganggu, vrb, oov, dokter
+ganggu, vrb, oov, dokter gigi
+ganggu, vrb, oov, dokter hewan
+ganggu, vrb, oov, guru
+ganggu, vrb, oov, guru
+ganggu, vrb, oov, hakim
+ganggu, vrb, oov, kasir
+ganggu, vrb, oov, koki
+ganggu, vrb, oov, makelar
+ganggu, vrb, oov, montir
+ganggu, vrb, oov, pelayan
+ganggu, vrb, oov, pemadam kebakaran
+ganggu, vrb, oov, pembantu
+ganggu, vrb, oov, pemotret
+ganggu, vrb, oov, peneliti
+ganggu, vrb, oov, pengacara
+ganggu, vrb, oov, penjahit
+ganggu, vrb, oov, penjual ikan
+ganggu, vrb, oov, perawat
+ganggu, vrb, oov, perias rambut
+ganggu, vrb, oov, polisi
+ganggu, vrb, oov, pramugari
+ganggu, vrb, oov, resepsionis
+ganggu, vrb, oov, sekretaris
+ganggu, vrb, oov, teknisi komputer
+ganggu, vrb, oov, tukang
+ganggu, vrb, oov, tukang bangunan
+ganggu, vrb, oov, tukang cat
+ganggu, vrb, oov, tukang daging
+ganggu, vrb, oov, tukang kayu
+ganggu, vrb, oov, tukang las
+ganggu, vrb, oov, tukang optic
+ganggu, vrb, oov, tukang pangkas
+ganggu, vrb, oov, tukang pipa
+ganggu, vrb, oov, tukang pos
+ganggu, vrb, oov, tukang roti
+ganggu, vrb, oov, tukang sapu
+ganggu, vrb, oov, wartawan
+ganggu, vrb, oov, murid
+ganggu, vrb, oov, pelayan
+ganggu, vrb, oov, pembantu
+ganggu, vrb, oov, polisi
+ganggu, vrb, oov, supir
+ganggu, vrb, oov, tukang
+ganggu, vrb, oov, Gede
+ganggu, vrb, oov, Kadek
+ganggu, vrb, oov, Ketut
+ganggu, vrb, oov, Komang
+ganggu, vrb, oov, Made
+ganggu, vrb, oov, Mang
+ganggu, vrb, oov, Nengah
+ganggu, vrb, oov, Ni Luh
+ganggu, vrb, oov, Nyoman
+ganggu, vrb, oov, Putu
+ganggu, vrb, oov, Tut
+ganggu, vrb, oov, Wayan
+mengganggu, vrb, oov, laki-laki
+mengganggu, vrb, oov, perempuan
+mengganggu, vrb, oov, dia
+mengganggu, vrb, oov, kita
+mengganggu, vrb, oov, mereka
+mengganggu, vrb, oov, saya
+mengganggu, vrb, oov, Anda
+mengganggu, vrb, oov, abang
+mengganggu, vrb, oov, adik
+mengganggu, vrb, oov, anak
+mengganggu, vrb, oov, anak laki-laki
+mengganggu, vrb, oov, anak perempuan
+mengganggu, vrb, oov, ayah
+mengganggu, vrb, oov, bapak
+mengganggu, vrb, oov, ibu
+mengganggu, vrb, oov, kakak
+mengganggu, vrb, oov, pacar
+mengganggu, vrb, oov, ahli bedah
+mengganggu, vrb, oov, akuntan
+mengganggu, vrb, oov, arsitek
+mengganggu, vrb, oov, asisten penjualan
+mengganggu, vrb, oov, dokter
+mengganggu, vrb, oov, dokter gigi
+mengganggu, vrb, oov, dokter hewan
+mengganggu, vrb, oov, guru
+mengganggu, vrb, oov, guru
+mengganggu, vrb, oov, hakim
+mengganggu, vrb, oov, kasir
+mengganggu, vrb, oov, koki
+mengganggu, vrb, oov, makelar
+mengganggu, vrb, oov, montir
+mengganggu, vrb, oov, pelayan
+mengganggu, vrb, oov, pemadam kebakaran
+mengganggu, vrb, oov, pembantu
+mengganggu, vrb, oov, pemotret
+mengganggu, vrb, oov, peneliti
+mengganggu, vrb, oov, pengacara
+mengganggu, vrb, oov, penjahit
+mengganggu, vrb, oov, penjual ikan
+mengganggu, vrb, oov, perawat
+mengganggu, vrb, oov, perias rambut
+mengganggu, vrb, oov, polisi
+mengganggu, vrb, oov, pramugari
+mengganggu, vrb, oov, resepsionis
+mengganggu, vrb, oov, sekretaris
+mengganggu, vrb, oov, teknisi komputer
+mengganggu, vrb, oov, tukang
+mengganggu, vrb, oov, tukang bangunan
+mengganggu, vrb, oov, tukang cat
+mengganggu, vrb, oov, tukang daging
+mengganggu, vrb, oov, tukang kayu
+mengganggu, vrb, oov, tukang las
+mengganggu, vrb, oov, tukang optic
+mengganggu, vrb, oov, tukang pangkas
+mengganggu, vrb, oov, tukang pipa
+mengganggu, vrb, oov, tukang pos
+mengganggu, vrb, oov, tukang roti
+mengganggu, vrb, oov, tukang sapu
+mengganggu, vrb, oov, wartawan
+mengganggu, vrb, oov, murid
+mengganggu, vrb, oov, pelayan
+mengganggu, vrb, oov, pembantu
+mengganggu, vrb, oov, polisi
+mengganggu, vrb, oov, supir
+mengganggu, vrb, oov, tukang
+mengganggu, vrb, oov, Gede
+mengganggu, vrb, oov, Kadek
+mengganggu, vrb, oov, Ketut
+mengganggu, vrb, oov, Komang
+mengganggu, vrb, oov, Made
+mengganggu, vrb, oov, Mang
+mengganggu, vrb, oov, Nengah
+mengganggu, vrb, oov, Ni Luh
+mengganggu, vrb, oov, Nyoman
+mengganggu, vrb, oov, Putu
+mengganggu, vrb, oov, Tut
+mengganggu, vrb, oov, Wayan
+gendong, vrb, oov, air
+gendong, vrb, oov, anjing
+gendong, vrb, oov, arti
+gendong, vrb, oov, batu
+gendong, vrb, oov, bensin
+gendong, vrb, oov, bom
+gendong, vrb, oov, cat
+gendong, vrb, oov, cek
+gendong, vrb, oov, cermin
+gendong, vrb, oov, daging
+gendong, vrb, oov, dompet
+gendong, vrb, oov, gamelan
+gendong, vrb, oov, gelas
+gendong, vrb, oov, gunting
+gendong, vrb, oov, hewan
+gendong, vrb, oov, jam
+gendong, vrb, oov, jawab
+gendong, vrb, oov, jualan
+gendong, vrb, oov, kaca
+gendong, vrb, oov, kah
+gendong, vrb, oov, kain
+gendong, vrb, oov, kalendar
+gendong, vrb, oov, kayu
+gendong, vrb, oov, kentang
+gendong, vrb, oov, keranjang
+gendong, vrb, oov, kertas
+gendong, vrb, oov, komputer
+gendong, vrb, oov, kopi
+gendong, vrb, oov, kotak
+gendong, vrb, oov, kucing
+gendong, vrb, oov, kuda
+gendong, vrb, oov, kunci
+gendong, vrb, oov, kursi
+gendong, vrb, oov, lampu
+gendong, vrb, oov, mangga
+gendong, vrb, oov, masakan
+gendong, vrb, oov, meja
+gendong, vrb, oov, mobil
+gendong, vrb, oov, motor
+gendong, vrb, oov, nyewa
+gendong, vrb, oov, papan
+gendong, vrb, oov, pel
+gendong, vrb, oov, pensil
+gendong, vrb, oov, penumpang
+gendong, vrb, oov, pipa
+gendong, vrb, oov, pisau
+gendong, vrb, oov, pos
+gendong, vrb, oov, roti
+gendong, vrb, oov, sabun
+gendong, vrb, oov, sapu
+gendong, vrb, oov, sepeda
+gendong, vrb, oov, susu
+gendong, vrb, oov, taksi
+gendong, vrb, oov, tas
+gendong, vrb, oov, uang
+ingat, vrb, oov, nama
+ingat, vrb, oov, waktu
+ingat, vrb, oov, tanggal
+ingat, vrb, oov, air
+ingat, vrb, oov, anjing
+ingat, vrb, oov, arti
+ingat, vrb, oov, batu
+ingat, vrb, oov, bensin
+ingat, vrb, oov, bom
+ingat, vrb, oov, cat
+ingat, vrb, oov, cek
+ingat, vrb, oov, cermin
+ingat, vrb, oov, daging
+ingat, vrb, oov, dompet
+ingat, vrb, oov, gamelan
+ingat, vrb, oov, gelas
+ingat, vrb, oov, gunting
+ingat, vrb, oov, hewan
+ingat, vrb, oov, jam
+ingat, vrb, oov, jawab
+ingat, vrb, oov, jualan
+ingat, vrb, oov, kaca
+ingat, vrb, oov, kah
+ingat, vrb, oov, kain
+ingat, vrb, oov, kalendar
+ingat, vrb, oov, kayu
+ingat, vrb, oov, kentang
+ingat, vrb, oov, keranjang
+ingat, vrb, oov, kertas
+ingat, vrb, oov, komputer
+ingat, vrb, oov, kopi
+ingat, vrb, oov, kotak
+ingat, vrb, oov, kucing
+ingat, vrb, oov, kuda
+ingat, vrb, oov, kunci
+ingat, vrb, oov, kursi
+ingat, vrb, oov, lampu
+ingat, vrb, oov, mangga
+ingat, vrb, oov, masakan
+ingat, vrb, oov, meja
+ingat, vrb, oov, mobil
+ingat, vrb, oov, motor
+ingat, vrb, oov, nyewa
+ingat, vrb, oov, papan
+ingat, vrb, oov, pel
+ingat, vrb, oov, pensil
+ingat, vrb, oov, penumpang
+ingat, vrb, oov, pipa
+ingat, vrb, oov, pisau
+ingat, vrb, oov, pos
+ingat, vrb, oov, roti
+ingat, vrb, oov, sabun
+ingat, vrb, oov, sapu
+ingat, vrb, oov, sepeda
+ingat, vrb, oov, susu
+ingat, vrb, oov, taksi
+ingat, vrb, oov, tas
+ingat, vrb, oov, uang
+lupa, vrb, oov, nama
+lupa, vrb, oov, waktu
+lupa, vrb, oov, tanggal
+lupa, vrb, oov, air
+lupa, vrb, oov, anjing
+lupa, vrb, oov, arti
+lupa, vrb, oov, batu
+lupa, vrb, oov, bensin
+lupa, vrb, oov, bom
+lupa, vrb, oov, cat
+lupa, vrb, oov, cek
+lupa, vrb, oov, cermin
+lupa, vrb, oov, daging
+lupa, vrb, oov, dompet
+lupa, vrb, oov, gamelan
+lupa, vrb, oov, gelas
+lupa, vrb, oov, gunting
+lupa, vrb, oov, hewan
+lupa, vrb, oov, jam
+lupa, vrb, oov, jawab
+lupa, vrb, oov, jualan
+lupa, vrb, oov, kaca
+lupa, vrb, oov, kah
+lupa, vrb, oov, kain
+lupa, vrb, oov, kalendar
+lupa, vrb, oov, kayu
+lupa, vrb, oov, kentang
+lupa, vrb, oov, keranjang
+lupa, vrb, oov, kertas
+lupa, vrb, oov, komputer
+lupa, vrb, oov, kopi
+lupa, vrb, oov, kotak
+lupa, vrb, oov, kucing
+lupa, vrb, oov, kuda
+lupa, vrb, oov, kunci
+lupa, vrb, oov, kursi
+lupa, vrb, oov, lampu
+lupa, vrb, oov, mangga
+lupa, vrb, oov, masakan
+lupa, vrb, oov, meja
+lupa, vrb, oov, mobil
+lupa, vrb, oov, motor
+lupa, vrb, oov, nyewa
+lupa, vrb, oov, papan
+lupa, vrb, oov, pel
+lupa, vrb, oov, pensil
+lupa, vrb, oov, penumpang
+lupa, vrb, oov, pipa
+lupa, vrb, oov, pisau
+lupa, vrb, oov, pos
+lupa, vrb, oov, roti
+lupa, vrb, oov, sabun
+lupa, vrb, oov, sapu
+lupa, vrb, oov, sepeda
+lupa, vrb, oov, susu
+lupa, vrb, oov, taksi
+lupa, vrb, oov, tas
+lupa, vrb, oov, uang
+jadi, vrb, oov, laki-laki
+jadi, vrb, oov, perempuan
+jadi, vrb, oov, dia
+jadi, vrb, oov, kita
+jadi, vrb, oov, mereka
+jadi, vrb, oov, saya
+jadi, vrb, oov, Anda
+jadi, vrb, oov, abang
+jadi, vrb, oov, adik
+jadi, vrb, oov, anak
+jadi, vrb, oov, anak laki-laki
+jadi, vrb, oov, anak perempuan
+jadi, vrb, oov, ayah
+jadi, vrb, oov, bapak
+jadi, vrb, oov, ibu
+jadi, vrb, oov, kakak
+jadi, vrb, oov, pacar
+jadi, vrb, oov, ahli bedah
+jadi, vrb, oov, akuntan
+jadi, vrb, oov, arsitek
+jadi, vrb, oov, asisten penjualan
+jadi, vrb, oov, dokter
+jadi, vrb, oov, dokter gigi
+jadi, vrb, oov, dokter hewan
+jadi, vrb, oov, guru
+jadi, vrb, oov, guru
+jadi, vrb, oov, hakim
+jadi, vrb, oov, kasir
+jadi, vrb, oov, koki
+jadi, vrb, oov, makelar
+jadi, vrb, oov, montir
+jadi, vrb, oov, pelayan
+jadi, vrb, oov, pemadam kebakaran
+jadi, vrb, oov, pembantu
+jadi, vrb, oov, pemotret
+jadi, vrb, oov, peneliti
+jadi, vrb, oov, pengacara
+jadi, vrb, oov, penjahit
+jadi, vrb, oov, penjual ikan
+jadi, vrb, oov, perawat
+jadi, vrb, oov, perias rambut
+jadi, vrb, oov, polisi
+jadi, vrb, oov, pramugari
+jadi, vrb, oov, resepsionis
+jadi, vrb, oov, sekretaris
+jadi, vrb, oov, teknisi komputer
+jadi, vrb, oov, tukang
+jadi, vrb, oov, tukang bangunan
+jadi, vrb, oov, tukang cat
+jadi, vrb, oov, tukang daging
+jadi, vrb, oov, tukang kayu
+jadi, vrb, oov, tukang las
+jadi, vrb, oov, tukang optic
+jadi, vrb, oov, tukang pangkas
+jadi, vrb, oov, tukang pipa
+jadi, vrb, oov, tukang pos
+jadi, vrb, oov, tukang roti
+jadi, vrb, oov, tukang sapu
+jadi, vrb, oov, wartawan
+jadi, vrb, oov, murid
+jadi, vrb, oov, pelayan
+jadi, vrb, oov, pembantu
+jadi, vrb, oov, polisi
+jadi, vrb, oov, supir
+jadi, vrb, oov, tukang
+jadi, vrb, oov, Gede
+jadi, vrb, oov, Kadek
+jadi, vrb, oov, Ketut
+jadi, vrb, oov, Komang
+jadi, vrb, oov, Made
+jadi, vrb, oov, Mang
+jadi, vrb, oov, Nengah
+jadi, vrb, oov, Ni Luh
+jadi, vrb, oov, Nyoman
+jadi, vrb, oov, Putu
+jadi, vrb, oov, Tut
+jadi, vrb, oov, Wayan
+menjadi, vrb, oov, laki-laki
+menjadi, vrb, oov, perempuan
+menjadi, vrb, oov, dia
+menjadi, vrb, oov, kita
+menjadi, vrb, oov, mereka
+menjadi, vrb, oov, saya
+menjadi, vrb, oov, Anda
+menjadi, vrb, oov, abang
+menjadi, vrb, oov, adik
+menjadi, vrb, oov, anak
+menjadi, vrb, oov, anak laki-laki
+menjadi, vrb, oov, anak perempuan
+menjadi, vrb, oov, ayah
+menjadi, vrb, oov, bapak
+menjadi, vrb, oov, ibu
+menjadi, vrb, oov, kakak
+menjadi, vrb, oov, pacar
+menjadi, vrb, oov, ahli bedah
+menjadi, vrb, oov, akuntan
+menjadi, vrb, oov, arsitek
+menjadi, vrb, oov, asisten penjualan
+menjadi, vrb, oov, dokter
+menjadi, vrb, oov, dokter gigi
+menjadi, vrb, oov, dokter hewan
+menjadi, vrb, oov, guru
+menjadi, vrb, oov, guru
+menjadi, vrb, oov, hakim
+menjadi, vrb, oov, kasir
+menjadi, vrb, oov, koki
+menjadi, vrb, oov, makelar
+menjadi, vrb, oov, montir
+menjadi, vrb, oov, pelayan
+menjadi, vrb, oov, pemadam kebakaran
+menjadi, vrb, oov, pembantu
+menjadi, vrb, oov, pemotret
+menjadi, vrb, oov, peneliti
+menjadi, vrb, oov, pengacara
+menjadi, vrb, oov, penjahit
+menjadi, vrb, oov, penjual ikan
+menjadi, vrb, oov, perawat
+menjadi, vrb, oov, perias rambut
+menjadi, vrb, oov, polisi
+menjadi, vrb, oov, pramugari
+menjadi, vrb, oov, resepsionis
+menjadi, vrb, oov, sekretaris
+menjadi, vrb, oov, teknisi komputer
+menjadi, vrb, oov, tukang
+menjadi, vrb, oov, tukang bangunan
+menjadi, vrb, oov, tukang cat
+menjadi, vrb, oov, tukang daging
+menjadi, vrb, oov, tukang kayu
+menjadi, vrb, oov, tukang las
+menjadi, vrb, oov, tukang optic
+menjadi, vrb, oov, tukang pangkas
+menjadi, vrb, oov, tukang pipa
+menjadi, vrb, oov, tukang pos
+menjadi, vrb, oov, tukang roti
+menjadi, vrb, oov, tukang sapu
+menjadi, vrb, oov, wartawan
+menjadi, vrb, oov, murid
+menjadi, vrb, oov, pelayan
+menjadi, vrb, oov, pembantu
+menjadi, vrb, oov, polisi
+menjadi, vrb, oov, supir
+menjadi, vrb, oov, tukang
+menjadi, vrb, oov, Gede
+menjadi, vrb, oov, Kadek
+menjadi, vrb, oov, Ketut
+menjadi, vrb, oov, Komang
+menjadi, vrb, oov, Made
+menjadi, vrb, oov, Mang
+menjadi, vrb, oov, Nengah
+menjadi, vrb, oov, Ni Luh
+menjadi, vrb, oov, Nyoman
+menjadi, vrb, oov, Putu
+menjadi, vrb, oov, Tut
+menjadi, vrb, oov, Wayan
+jual, vrb, oov, air
+jual, vrb, oov, anjing
+jual, vrb, oov, arti
+jual, vrb, oov, batu
+jual, vrb, oov, bensin
+jual, vrb, oov, bom
+jual, vrb, oov, cat
+jual, vrb, oov, cek
+jual, vrb, oov, cermin
+jual, vrb, oov, daging
+jual, vrb, oov, dompet
+jual, vrb, oov, gamelan
+jual, vrb, oov, gelas
+jual, vrb, oov, gunting
+jual, vrb, oov, hewan
+jual, vrb, oov, jam
+jual, vrb, oov, jawab
+jual, vrb, oov, jualan
+jual, vrb, oov, kaca
+jual, vrb, oov, kah
+jual, vrb, oov, kain
+jual, vrb, oov, kalendar
+jual, vrb, oov, kayu
+jual, vrb, oov, kentang
+jual, vrb, oov, keranjang
+jual, vrb, oov, kertas
+jual, vrb, oov, komputer
+jual, vrb, oov, kopi
+jual, vrb, oov, kotak
+jual, vrb, oov, kucing
+jual, vrb, oov, kuda
+jual, vrb, oov, kunci
+jual, vrb, oov, kursi
+jual, vrb, oov, lampu
+jual, vrb, oov, mangga
+jual, vrb, oov, masakan
+jual, vrb, oov, meja
+jual, vrb, oov, mobil
+jual, vrb, oov, motor
+jual, vrb, oov, nyewa
+jual, vrb, oov, papan
+jual, vrb, oov, pel
+jual, vrb, oov, pensil
+jual, vrb, oov, penumpang
+jual, vrb, oov, pipa
+jual, vrb, oov, pisau
+jual, vrb, oov, pos
+jual, vrb, oov, roti
+jual, vrb, oov, sabun
+jual, vrb, oov, sapu
+jual, vrb, oov, sepeda
+jual, vrb, oov, susu
+jual, vrb, oov, taksi
+jual, vrb, oov, tas
+jual, vrb, oov, uang
+jual, vrb, oov, anjing
+jual, vrb, oov, kucing
+jual, vrb, oov, kuda
+jumpa, vrb, oov, laki-laki
+jumpa, vrb, oov, perempuan
+jumpa, vrb, oov, dia
+jumpa, vrb, oov, kita
+jumpa, vrb, oov, mereka
+jumpa, vrb, oov, saya
+jumpa, vrb, oov, Anda
+jumpa, vrb, oov, abang
+jumpa, vrb, oov, adik
+jumpa, vrb, oov, anak
+jumpa, vrb, oov, anak laki-laki
+jumpa, vrb, oov, anak perempuan
+jumpa, vrb, oov, ayah
+jumpa, vrb, oov, bapak
+jumpa, vrb, oov, ibu
+jumpa, vrb, oov, kakak
+jumpa, vrb, oov, pacar
+jumpa, vrb, oov, ahli bedah
+jumpa, vrb, oov, akuntan
+jumpa, vrb, oov, arsitek
+jumpa, vrb, oov, asisten penjualan
+jumpa, vrb, oov, dokter
+jumpa, vrb, oov, dokter gigi
+jumpa, vrb, oov, dokter hewan
+jumpa, vrb, oov, guru
+jumpa, vrb, oov, guru
+jumpa, vrb, oov, hakim
+jumpa, vrb, oov, kasir
+jumpa, vrb, oov, koki
+jumpa, vrb, oov, makelar
+jumpa, vrb, oov, montir
+jumpa, vrb, oov, pelayan
+jumpa, vrb, oov, pemadam kebakaran
+jumpa, vrb, oov, pembantu
+jumpa, vrb, oov, pemotret
+jumpa, vrb, oov, peneliti
+jumpa, vrb, oov, pengacara
+jumpa, vrb, oov, penjahit
+jumpa, vrb, oov, penjual ikan
+jumpa, vrb, oov, perawat
+jumpa, vrb, oov, perias rambut
+jumpa, vrb, oov, polisi
+jumpa, vrb, oov, pramugari
+jumpa, vrb, oov, resepsionis
+jumpa, vrb, oov, sekretaris
+jumpa, vrb, oov, teknisi komputer
+jumpa, vrb, oov, tukang
+jumpa, vrb, oov, tukang bangunan
+jumpa, vrb, oov, tukang cat
+jumpa, vrb, oov, tukang daging
+jumpa, vrb, oov, tukang kayu
+jumpa, vrb, oov, tukang las
+jumpa, vrb, oov, tukang optic
+jumpa, vrb, oov, tukang pangkas
+jumpa, vrb, oov, tukang pipa
+jumpa, vrb, oov, tukang pos
+jumpa, vrb, oov, tukang roti
+jumpa, vrb, oov, tukang sapu
+jumpa, vrb, oov, wartawan
+jumpa, vrb, oov, murid
+jumpa, vrb, oov, pelayan
+jumpa, vrb, oov, pembantu
+jumpa, vrb, oov, polisi
+jumpa, vrb, oov, supir
+jumpa, vrb, oov, tukang
+jumpa, vrb, oov, Gede
+jumpa, vrb, oov, Kadek
+jumpa, vrb, oov, Ketut
+jumpa, vrb, oov, Komang
+jumpa, vrb, oov, Made
+jumpa, vrb, oov, Mang
+jumpa, vrb, oov, Nengah
+jumpa, vrb, oov, Ni Luh
+jumpa, vrb, oov, Nyoman
+jumpa, vrb, oov, Putu
+jumpa, vrb, oov, Tut
+jumpa, vrb, oov, Wayan
+keluar, vrb, oov, kamar
+keluar, vrb, oov, rumah
+keluar, vrb, oov, desa
+keluar, vrb, oov, kota
+keluar, vrb, oov, negara
+keluar, vrb, oov, toko
+keluar, vrb, oov, Indonesia
+keluar, vrb, oov, Perancis
+keluar, vrb, oov, Belanda
+keluar, vrb, oov, Italia
+keluar, vrb, oov, Jerman
+keluar, vrb, oov, Amerika
+keluar, vrb, oov, Padang Bai
+keluar, vrb, oov, Ubud
+keluar, vrb, oov, Gilikanut
+keluar, vrb, oov, Uluwatu
+keluar, vrb, oov, Singaraja
+keluar, vrb, oov, Denpasar
+keluar, vrb, oov, Gianyar
+keluar, vrb, oov, Amlapura
+keluar, vrb, oov, Negara
+keluar, vrb, oov, Tabanan
+keluar, vrb, oov, Bangli
+keluar, vrb, oov, Mangupura
+keluar, vrb, oov, Semarapura
+keluar, vrb, oov, Bali
+keluar, vrb, oov, Java
+keluar, vrb, oov, Sumatra
+keluar, vrb, oov, Sulewesi
+keluar, vrb, oov, Borneo
+las, vrb, oov, logam
+las, vrb, oov, mobil
+makai, vrb, oov, sepatu
+makai, vrb, oov, topi
+makai, vrb, oov, kaus
+makai, vrb, oov, celana
+makai, vrb, oov, air
+makai, vrb, oov, anjing
+makai, vrb, oov, arti
+makai, vrb, oov, batu
+makai, vrb, oov, bensin
+makai, vrb, oov, bom
+makai, vrb, oov, cat
+makai, vrb, oov, cek
+makai, vrb, oov, cermin
+makai, vrb, oov, daging
+makai, vrb, oov, dompet
+makai, vrb, oov, gamelan
+makai, vrb, oov, gelas
+makai, vrb, oov, gunting
+makai, vrb, oov, hewan
+makai, vrb, oov, jam
+makai, vrb, oov, jawab
+makai, vrb, oov, jualan
+makai, vrb, oov, kaca
+makai, vrb, oov, kah
+makai, vrb, oov, kain
+makai, vrb, oov, kalendar
+makai, vrb, oov, kayu
+makai, vrb, oov, kentang
+makai, vrb, oov, keranjang
+makai, vrb, oov, kertas
+makai, vrb, oov, komputer
+makai, vrb, oov, kopi
+makai, vrb, oov, kotak
+makai, vrb, oov, kucing
+makai, vrb, oov, kuda
+makai, vrb, oov, kunci
+makai, vrb, oov, kursi
+makai, vrb, oov, lampu
+makai, vrb, oov, mangga
+makai, vrb, oov, masakan
+makai, vrb, oov, meja
+makai, vrb, oov, mobil
+makai, vrb, oov, motor
+makai, vrb, oov, nyewa
+makai, vrb, oov, papan
+makai, vrb, oov, pel
+makai, vrb, oov, pensil
+makai, vrb, oov, penumpang
+makai, vrb, oov, pipa
+makai, vrb, oov, pisau
+makai, vrb, oov, pos
+makai, vrb, oov, roti
+makai, vrb, oov, sabun
+makai, vrb, oov, sapu
+makai, vrb, oov, sepeda
+makai, vrb, oov, susu
+makai, vrb, oov, taksi
+makai, vrb, oov, tas
+makai, vrb, oov, uang
+memakai, vrb, oov, sepatu
+memakai, vrb, oov, topi
+memakai, vrb, oov, kaus
+memakai, vrb, oov, celana
+memakai, vrb, oov, air
+memakai, vrb, oov, anjing
+memakai, vrb, oov, arti
+memakai, vrb, oov, batu
+memakai, vrb, oov, bensin
+memakai, vrb, oov, bom
+memakai, vrb, oov, cat
+memakai, vrb, oov, cek
+memakai, vrb, oov, cermin
+memakai, vrb, oov, daging
+memakai, vrb, oov, dompet
+memakai, vrb, oov, gamelan
+memakai, vrb, oov, gelas
+memakai, vrb, oov, gunting
+memakai, vrb, oov, hewan
+memakai, vrb, oov, jam
+memakai, vrb, oov, jawab
+memakai, vrb, oov, jualan
+memakai, vrb, oov, kaca
+memakai, vrb, oov, kah
+memakai, vrb, oov, kain
+memakai, vrb, oov, kalendar
+memakai, vrb, oov, kayu
+memakai, vrb, oov, kentang
+memakai, vrb, oov, keranjang
+memakai, vrb, oov, kertas
+memakai, vrb, oov, komputer
+memakai, vrb, oov, kopi
+memakai, vrb, oov, kotak
+memakai, vrb, oov, kucing
+memakai, vrb, oov, kuda
+memakai, vrb, oov, kunci
+memakai, vrb, oov, kursi
+memakai, vrb, oov, lampu
+memakai, vrb, oov, mangga
+memakai, vrb, oov, masakan
+memakai, vrb, oov, meja
+memakai, vrb, oov, mobil
+memakai, vrb, oov, motor
+memakai, vrb, oov, nyewa
+memakai, vrb, oov, papan
+memakai, vrb, oov, pel
+memakai, vrb, oov, pensil
+memakai, vrb, oov, penumpang
+memakai, vrb, oov, pipa
+memakai, vrb, oov, pisau
+memakai, vrb, oov, pos
+memakai, vrb, oov, roti
+memakai, vrb, oov, sabun
+memakai, vrb, oov, sapu
+memakai, vrb, oov, sepeda
+memakai, vrb, oov, susu
+memakai, vrb, oov, taksi
+memakai, vrb, oov, tas
+memakai, vrb, oov, uang
+makan, vrb, oov, makanan
+makan, vrb, oov, masakan
+makan, vrb, oov, ayam
+makan, vrb, oov, sapi
+makan, vrb, oov, babi
+makan, vrb, oov, alpukat
+makan, vrb, oov, nangka
+makan, vrb, oov, mangga
+makan, vrb, oov, tomat
+makan, vrb, oov, kacang
+makan, vrb, oov, mete
+makan, vrb, oov, gula
+makan, vrb, oov, ayam goreng saus tiram
+makan, vrb, oov, ayam lalapan
+makan, vrb, oov, ayam bakar
+makan, vrb, oov, sapi lada hitam
+makan, vrb, oov, ayam asam manis
+makan, vrb, oov, es buah
+makan, vrb, oov, es
+makan, vrb, oov, mentega
+makan, vrb, oov, ikan
+mandi, vrb, oov, laki-laki
+mandi, vrb, oov, perempuan
+mandi, vrb, oov, dia
+mandi, vrb, oov, kita
+mandi, vrb, oov, mereka
+mandi, vrb, oov, saya
+mandi, vrb, oov, Anda
+mandi, vrb, oov, abang
+mandi, vrb, oov, adik
+mandi, vrb, oov, anak
+mandi, vrb, oov, anak laki-laki
+mandi, vrb, oov, anak perempuan
+mandi, vrb, oov, ayah
+mandi, vrb, oov, bapak
+mandi, vrb, oov, ibu
+mandi, vrb, oov, kakak
+mandi, vrb, oov, pacar
+mandi, vrb, oov, ahli bedah
+mandi, vrb, oov, akuntan
+mandi, vrb, oov, arsitek
+mandi, vrb, oov, asisten penjualan
+mandi, vrb, oov, dokter
+mandi, vrb, oov, dokter gigi
+mandi, vrb, oov, dokter hewan
+mandi, vrb, oov, guru
+mandi, vrb, oov, guru
+mandi, vrb, oov, hakim
+mandi, vrb, oov, kasir
+mandi, vrb, oov, koki
+mandi, vrb, oov, makelar
+mandi, vrb, oov, montir
+mandi, vrb, oov, pelayan
+mandi, vrb, oov, pemadam kebakaran
+mandi, vrb, oov, pembantu
+mandi, vrb, oov, pemotret
+mandi, vrb, oov, peneliti
+mandi, vrb, oov, pengacara
+mandi, vrb, oov, penjahit
+mandi, vrb, oov, penjual ikan
+mandi, vrb, oov, perawat
+mandi, vrb, oov, perias rambut
+mandi, vrb, oov, polisi
+mandi, vrb, oov, pramugari
+mandi, vrb, oov, resepsionis
+mandi, vrb, oov, sekretaris
+mandi, vrb, oov, teknisi komputer
+mandi, vrb, oov, tukang
+mandi, vrb, oov, tukang bangunan
+mandi, vrb, oov, tukang cat
+mandi, vrb, oov, tukang daging
+mandi, vrb, oov, tukang kayu
+mandi, vrb, oov, tukang las
+mandi, vrb, oov, tukang optic
+mandi, vrb, oov, tukang pangkas
+mandi, vrb, oov, tukang pipa
+mandi, vrb, oov, tukang pos
+mandi, vrb, oov, tukang roti
+mandi, vrb, oov, tukang sapu
+mandi, vrb, oov, wartawan
+mandi, vrb, oov, murid
+mandi, vrb, oov, pelayan
+mandi, vrb, oov, pembantu
+mandi, vrb, oov, polisi
+mandi, vrb, oov, supir
+mandi, vrb, oov, tukang
+mandi, vrb, oov, Gede
+mandi, vrb, oov, Kadek
+mandi, vrb, oov, Ketut
+mandi, vrb, oov, Komang
+mandi, vrb, oov, Made
+mandi, vrb, oov, Mang
+mandi, vrb, oov, Nengah
+mandi, vrb, oov, Ni Luh
+mandi, vrb, oov, Nyoman
+mandi, vrb, oov, Putu
+mandi, vrb, oov, Tut
+mandi, vrb, oov, Wayan
+mau, vrb, oov, air
+mau, vrb, oov, anjing
+mau, vrb, oov, arti
+mau, vrb, oov, batu
+mau, vrb, oov, bensin
+mau, vrb, oov, bom
+mau, vrb, oov, cat
+mau, vrb, oov, cek
+mau, vrb, oov, cermin
+mau, vrb, oov, daging
+mau, vrb, oov, dompet
+mau, vrb, oov, gamelan
+mau, vrb, oov, gelas
+mau, vrb, oov, gunting
+mau, vrb, oov, hewan
+mau, vrb, oov, jam
+mau, vrb, oov, jawab
+mau, vrb, oov, jualan
+mau, vrb, oov, kaca
+mau, vrb, oov, kah
+mau, vrb, oov, kain
+mau, vrb, oov, kalendar
+mau, vrb, oov, kayu
+mau, vrb, oov, kentang
+mau, vrb, oov, keranjang
+mau, vrb, oov, kertas
+mau, vrb, oov, komputer
+mau, vrb, oov, kopi
+mau, vrb, oov, kotak
+mau, vrb, oov, kucing
+mau, vrb, oov, kuda
+mau, vrb, oov, kunci
+mau, vrb, oov, kursi
+mau, vrb, oov, lampu
+mau, vrb, oov, mangga
+mau, vrb, oov, masakan
+mau, vrb, oov, meja
+mau, vrb, oov, mobil
+mau, vrb, oov, motor
+mau, vrb, oov, nyewa
+mau, vrb, oov, papan
+mau, vrb, oov, pel
+mau, vrb, oov, pensil
+mau, vrb, oov, penumpang
+mau, vrb, oov, pipa
+mau, vrb, oov, pisau
+mau, vrb, oov, pos
+mau, vrb, oov, roti
+mau, vrb, oov, sabun
+mau, vrb, oov, sapu
+mau, vrb, oov, sepeda
+mau, vrb, oov, susu
+mau, vrb, oov, taksi
+mau, vrb, oov, tas
+mau, vrb, oov, uang
+masuk, vrb, oov, kamar
+masuk, vrb, oov, rumah
+masuk, vrb, oov, desa
+masuk, vrb, oov, kota
+masuk, vrb, oov, negara
+masuk, vrb, oov, toko
+masuk, vrb, oov, Indonesia
+masuk, vrb, oov, Perancis
+masuk, vrb, oov, Belanda
+masuk, vrb, oov, Italia
+masuk, vrb, oov, Jerman
+masuk, vrb, oov, Amerika
+masuk, vrb, oov, Padang Bai
+masuk, vrb, oov, Ubud
+masuk, vrb, oov, Gilikanut
+masuk, vrb, oov, Uluwatu
+masuk, vrb, oov, Singaraja
+masuk, vrb, oov, Denpasar
+masuk, vrb, oov, Gianyar
+masuk, vrb, oov, Amlapura
+masuk, vrb, oov, Negara
+masuk, vrb, oov, Tabanan
+masuk, vrb, oov, Bangli
+masuk, vrb, oov, Mangupura
+masuk, vrb, oov, Semarapura
+masuk, vrb, oov, Bali
+masuk, vrb, oov, Java
+masuk, vrb, oov, Sumatra
+masuk, vrb, oov, Sulewesi
+masuk, vrb, oov, Borneo
+memasak, vrb, oov, masakan
+memasak, vrb, oov, makanan
+memasak, vrb, oov, anjing
+memasak, vrb, oov, kucing
+memasak, vrb, oov, kuda
+memasak, vrb, oov, ayam
+memasak, vrb, oov, sapi
+memasak, vrb, oov, babi
+memasak, vrb, oov, alpukat
+memasak, vrb, oov, nangka
+memasak, vrb, oov, mangga
+memasak, vrb, oov, tomat
+memasak, vrb, oov, kacang
+memasak, vrb, oov, mete
+memasak, vrb, oov, gula
+memasak, vrb, oov, ayam goreng saus tiram
+memasak, vrb, oov, ayam lalapan
+memasak, vrb, oov, ayam bakar
+memasak, vrb, oov, sapi lada hitam
+memasak, vrb, oov, ayam asam manis
+memasak, vrb, oov, es buah
+memasak, vrb, oov, es
+memasak, vrb, oov, mentega
+memasak, vrb, oov, ikan
+mengebom, vrb, oov, Indonesia
+mengebom, vrb, oov, Perancis
+mengebom, vrb, oov, Belanda
+mengebom, vrb, oov, Italia
+mengebom, vrb, oov, Jerman
+mengebom, vrb, oov, Amerika
+mengebom, vrb, oov, Padang Bai
+mengebom, vrb, oov, Ubud
+mengebom, vrb, oov, Gilikanut
+mengebom, vrb, oov, Uluwatu
+mengebom, vrb, oov, Singaraja
+mengebom, vrb, oov, Denpasar
+mengebom, vrb, oov, Gianyar
+mengebom, vrb, oov, Amlapura
+mengebom, vrb, oov, Negara
+mengebom, vrb, oov, Tabanan
+mengebom, vrb, oov, Bangli
+mengebom, vrb, oov, Mangupura
+mengebom, vrb, oov, Semarapura
+mengebom, vrb, oov, Bali
+mengebom, vrb, oov, Java
+mengebom, vrb, oov, Sumatra
+mengebom, vrb, oov, Sulewesi
+mengebom, vrb, oov, Borneo
+mengecat, vrb, oov, kamar
+mengecat, vrb, oov, rumah
+mengecat, vrb, oov, bangunan
+mengecat, vrb, oov, gereja
+mengecat, vrb, oov, kantor
+mengecat, vrb, oov, sekolah
+mengecat, vrb, oov, bank
+mengecat, vrb, oov, toko
+mengecat, vrb, oov, warung
+mengecat, vrb, oov, meja
+mengecat, vrb, oov, kursi
+mengecat, vrb, oov, lemari
+mengecat, vrb, oov, lampu
+mengecat, vrb, oov, bak cuci
+mengepel, vrb, oov, lantai
+mengetik, vrb, oov, surat
+mengetik, vrb, oov, buku
+menggoreng, vrb, oov, ayam
+menggoreng, vrb, oov, sapi
+menggoreng, vrb, oov, babi
+menggoreng, vrb, oov, tomat
+menggoreng, vrb, oov, pisang
+menghitung, vrb, oov, air
+menghitung, vrb, oov, anjing
+menghitung, vrb, oov, arti
+menghitung, vrb, oov, batu
+menghitung, vrb, oov, bensin
+menghitung, vrb, oov, bom
+menghitung, vrb, oov, cat
+menghitung, vrb, oov, cek
+menghitung, vrb, oov, cermin
+menghitung, vrb, oov, daging
+menghitung, vrb, oov, dompet
+menghitung, vrb, oov, gamelan
+menghitung, vrb, oov, gelas
+menghitung, vrb, oov, gunting
+menghitung, vrb, oov, hewan
+menghitung, vrb, oov, jam
+menghitung, vrb, oov, jawab
+menghitung, vrb, oov, jualan
+menghitung, vrb, oov, kaca
+menghitung, vrb, oov, kah
+menghitung, vrb, oov, kain
+menghitung, vrb, oov, kalendar
+menghitung, vrb, oov, kayu
+menghitung, vrb, oov, kentang
+menghitung, vrb, oov, keranjang
+menghitung, vrb, oov, kertas
+menghitung, vrb, oov, komputer
+menghitung, vrb, oov, kopi
+menghitung, vrb, oov, kotak
+menghitung, vrb, oov, kucing
+menghitung, vrb, oov, kuda
+menghitung, vrb, oov, kunci
+menghitung, vrb, oov, kursi
+menghitung, vrb, oov, lampu
+menghitung, vrb, oov, mangga
+menghitung, vrb, oov, masakan
+menghitung, vrb, oov, meja
+menghitung, vrb, oov, mobil
+menghitung, vrb, oov, motor
+menghitung, vrb, oov, nyewa
+menghitung, vrb, oov, papan
+menghitung, vrb, oov, pel
+menghitung, vrb, oov, pensil
+menghitung, vrb, oov, penumpang
+menghitung, vrb, oov, pipa
+menghitung, vrb, oov, pisau
+menghitung, vrb, oov, pos
+menghitung, vrb, oov, roti
+menghitung, vrb, oov, sabun
+menghitung, vrb, oov, sapu
+menghitung, vrb, oov, sepeda
+menghitung, vrb, oov, susu
+menghitung, vrb, oov, taksi
+menghitung, vrb, oov, tas
+menghitung, vrb, oov, uang
+menghitung, vrb, oov, anjing
+menghitung, vrb, oov, kucing
+menghitung, vrb, oov, kuda
+mengimpor, vrb, oov, air
+mengimpor, vrb, oov, anjing
+mengimpor, vrb, oov, arti
+mengimpor, vrb, oov, batu
+mengimpor, vrb, oov, bensin
+mengimpor, vrb, oov, bom
+mengimpor, vrb, oov, cat
+mengimpor, vrb, oov, cek
+mengimpor, vrb, oov, cermin
+mengimpor, vrb, oov, daging
+mengimpor, vrb, oov, dompet
+mengimpor, vrb, oov, gamelan
+mengimpor, vrb, oov, gelas
+mengimpor, vrb, oov, gunting
+mengimpor, vrb, oov, hewan
+mengimpor, vrb, oov, jam
+mengimpor, vrb, oov, jawab
+mengimpor, vrb, oov, jualan
+mengimpor, vrb, oov, kaca
+mengimpor, vrb, oov, kah
+mengimpor, vrb, oov, kain
+mengimpor, vrb, oov, kalendar
+mengimpor, vrb, oov, kayu
+mengimpor, vrb, oov, kentang
+mengimpor, vrb, oov, keranjang
+mengimpor, vrb, oov, kertas
+mengimpor, vrb, oov, komputer
+mengimpor, vrb, oov, kopi
+mengimpor, vrb, oov, kotak
+mengimpor, vrb, oov, kucing
+mengimpor, vrb, oov, kuda
+mengimpor, vrb, oov, kunci
+mengimpor, vrb, oov, kursi
+mengimpor, vrb, oov, lampu
+mengimpor, vrb, oov, mangga
+mengimpor, vrb, oov, masakan
+mengimpor, vrb, oov, meja
+mengimpor, vrb, oov, mobil
+mengimpor, vrb, oov, motor
+mengimpor, vrb, oov, nyewa
+mengimpor, vrb, oov, papan
+mengimpor, vrb, oov, pel
+mengimpor, vrb, oov, pensil
+mengimpor, vrb, oov, penumpang
+mengimpor, vrb, oov, pipa
+mengimpor, vrb, oov, pisau
+mengimpor, vrb, oov, pos
+mengimpor, vrb, oov, roti
+mengimpor, vrb, oov, sabun
+mengimpor, vrb, oov, sapu
+mengimpor, vrb, oov, sepeda
+mengimpor, vrb, oov, susu
+mengimpor, vrb, oov, taksi
+mengimpor, vrb, oov, tas
+mengimpor, vrb, oov, uang
+mengunci, vrb, oov, kamar
+mengunci, vrb, oov, rumah
+mengunci, vrb, oov, bangunan
+mengunci, vrb, oov, gereja
+mengunci, vrb, oov, kantor
+mengunci, vrb, oov, sekolah
+mengunci, vrb, oov, bank
+mengunci, vrb, oov, toko
+mengunci, vrb, oov, warung
+menikah, vrb, oov, perempuan
+menikah, vrb, oov, laki-laki
+menikah, vrb, oov, pacar
+menikah, vrb, oov, teman
+menikah, vrb, oov, laki-laki
+menikah, vrb, oov, perempuan
+menikah, vrb, oov, dia
+menikah, vrb, oov, kita
+menikah, vrb, oov, mereka
+menikah, vrb, oov, saya
+menikah, vrb, oov, Anda
+menikah, vrb, oov, abang
+menikah, vrb, oov, adik
+menikah, vrb, oov, anak
+menikah, vrb, oov, anak laki-laki
+menikah, vrb, oov, anak perempuan
+menikah, vrb, oov, ayah
+menikah, vrb, oov, bapak
+menikah, vrb, oov, ibu
+menikah, vrb, oov, kakak
+menikah, vrb, oov, pacar
+menikah, vrb, oov, ahli bedah
+menikah, vrb, oov, akuntan
+menikah, vrb, oov, arsitek
+menikah, vrb, oov, asisten penjualan
+menikah, vrb, oov, dokter
+menikah, vrb, oov, dokter gigi
+menikah, vrb, oov, dokter hewan
+menikah, vrb, oov, guru
+menikah, vrb, oov, guru
+menikah, vrb, oov, hakim
+menikah, vrb, oov, kasir
+menikah, vrb, oov, koki
+menikah, vrb, oov, makelar
+menikah, vrb, oov, montir
+menikah, vrb, oov, pelayan
+menikah, vrb, oov, pemadam kebakaran
+menikah, vrb, oov, pembantu
+menikah, vrb, oov, pemotret
+menikah, vrb, oov, peneliti
+menikah, vrb, oov, pengacara
+menikah, vrb, oov, penjahit
+menikah, vrb, oov, penjual ikan
+menikah, vrb, oov, perawat
+menikah, vrb, oov, perias rambut
+menikah, vrb, oov, polisi
+menikah, vrb, oov, pramugari
+menikah, vrb, oov, resepsionis
+menikah, vrb, oov, sekretaris
+menikah, vrb, oov, teknisi komputer
+menikah, vrb, oov, tukang
+menikah, vrb, oov, tukang bangunan
+menikah, vrb, oov, tukang cat
+menikah, vrb, oov, tukang daging
+menikah, vrb, oov, tukang kayu
+menikah, vrb, oov, tukang las
+menikah, vrb, oov, tukang optic
+menikah, vrb, oov, tukang pangkas
+menikah, vrb, oov, tukang pipa
+menikah, vrb, oov, tukang pos
+menikah, vrb, oov, tukang roti
+menikah, vrb, oov, tukang sapu
+menikah, vrb, oov, wartawan
+menikah, vrb, oov, murid
+menikah, vrb, oov, pelayan
+menikah, vrb, oov, pembantu
+menikah, vrb, oov, polisi
+menikah, vrb, oov, supir
+menikah, vrb, oov, tukang
+menikah, vrb, oov, Gede
+menikah, vrb, oov, Kadek
+menikah, vrb, oov, Ketut
+menikah, vrb, oov, Komang
+menikah, vrb, oov, Made
+menikah, vrb, oov, Mang
+menikah, vrb, oov, Nengah
+menikah, vrb, oov, Ni Luh
+menikah, vrb, oov, Nyoman
+menikah, vrb, oov, Putu
+menikah, vrb, oov, Tut
+menikah, vrb, oov, Wayan
+mengimpor, vrb, oov, air
+mengimpor, vrb, oov, anjing
+mengimpor, vrb, oov, arti
+mengimpor, vrb, oov, batu
+mengimpor, vrb, oov, bensin
+mengimpor, vrb, oov, bom
+mengimpor, vrb, oov, cat
+mengimpor, vrb, oov, cek
+mengimpor, vrb, oov, cermin
+mengimpor, vrb, oov, daging
+mengimpor, vrb, oov, dompet
+mengimpor, vrb, oov, gamelan
+mengimpor, vrb, oov, gelas
+mengimpor, vrb, oov, gunting
+mengimpor, vrb, oov, hewan
+mengimpor, vrb, oov, jam
+mengimpor, vrb, oov, jawab
+mengimpor, vrb, oov, jualan
+mengimpor, vrb, oov, kaca
+mengimpor, vrb, oov, kah
+mengimpor, vrb, oov, kain
+mengimpor, vrb, oov, kalendar
+mengimpor, vrb, oov, kayu
+mengimpor, vrb, oov, kentang
+mengimpor, vrb, oov, keranjang
+mengimpor, vrb, oov, kertas
+mengimpor, vrb, oov, komputer
+mengimpor, vrb, oov, kopi
+mengimpor, vrb, oov, kotak
+mengimpor, vrb, oov, kucing
+mengimpor, vrb, oov, kuda
+mengimpor, vrb, oov, kunci
+mengimpor, vrb, oov, kursi
+mengimpor, vrb, oov, lampu
+mengimpor, vrb, oov, mangga
+mengimpor, vrb, oov, masakan
+mengimpor, vrb, oov, meja
+mengimpor, vrb, oov, mobil
+mengimpor, vrb, oov, motor
+mengimpor, vrb, oov, nyewa
+mengimpor, vrb, oov, papan
+mengimpor, vrb, oov, pel
+mengimpor, vrb, oov, pensil
+mengimpor, vrb, oov, penumpang
+mengimpor, vrb, oov, pipa
+mengimpor, vrb, oov, pisau
+mengimpor, vrb, oov, pos
+mengimpor, vrb, oov, roti
+mengimpor, vrb, oov, sabun
+mengimpor, vrb, oov, sapu
+mengimpor, vrb, oov, sepeda
+mengimpor, vrb, oov, susu
+mengimpor, vrb, oov, taksi
+mengimpor, vrb, oov, tas
+mengimpor, vrb, oov, uang
+menyimpan, vrb, oov, air
+menyimpan, vrb, oov, anjing
+menyimpan, vrb, oov, arti
+menyimpan, vrb, oov, batu
+menyimpan, vrb, oov, bensin
+menyimpan, vrb, oov, bom
+menyimpan, vrb, oov, cat
+menyimpan, vrb, oov, cek
+menyimpan, vrb, oov, cermin
+menyimpan, vrb, oov, daging
+menyimpan, vrb, oov, dompet
+menyimpan, vrb, oov, gamelan
+menyimpan, vrb, oov, gelas
+menyimpan, vrb, oov, gunting
+menyimpan, vrb, oov, hewan
+menyimpan, vrb, oov, jam
+menyimpan, vrb, oov, jawab
+menyimpan, vrb, oov, jualan
+menyimpan, vrb, oov, kaca
+menyimpan, vrb, oov, kah
+menyimpan, vrb, oov, kain
+menyimpan, vrb, oov, kalendar
+menyimpan, vrb, oov, kayu
+menyimpan, vrb, oov, kentang
+menyimpan, vrb, oov, keranjang
+menyimpan, vrb, oov, kertas
+menyimpan, vrb, oov, komputer
+menyimpan, vrb, oov, kopi
+menyimpan, vrb, oov, kotak
+menyimpan, vrb, oov, kucing
+menyimpan, vrb, oov, kuda
+menyimpan, vrb, oov, kunci
+menyimpan, vrb, oov, kursi
+menyimpan, vrb, oov, lampu
+menyimpan, vrb, oov, mangga
+menyimpan, vrb, oov, masakan
+menyimpan, vrb, oov, meja
+menyimpan, vrb, oov, mobil
+menyimpan, vrb, oov, motor
+menyimpan, vrb, oov, nyewa
+menyimpan, vrb, oov, papan
+menyimpan, vrb, oov, pel
+menyimpan, vrb, oov, pensil
+menyimpan, vrb, oov, penumpang
+menyimpan, vrb, oov, pipa
+menyimpan, vrb, oov, pisau
+menyimpan, vrb, oov, pos
+menyimpan, vrb, oov, roti
+menyimpan, vrb, oov, sabun
+menyimpan, vrb, oov, sapu
+menyimpan, vrb, oov, sepeda
+menyimpan, vrb, oov, susu
+menyimpan, vrb, oov, taksi
+menyimpan, vrb, oov, tas
+menyimpan, vrb, oov, uang
+merusak, vrb, oov, air
+merusak, vrb, oov, anjing
+merusak, vrb, oov, arti
+merusak, vrb, oov, batu
+merusak, vrb, oov, bensin
+merusak, vrb, oov, bom
+merusak, vrb, oov, cat
+merusak, vrb, oov, cek
+merusak, vrb, oov, cermin
+merusak, vrb, oov, daging
+merusak, vrb, oov, dompet
+merusak, vrb, oov, gamelan
+merusak, vrb, oov, gelas
+merusak, vrb, oov, gunting
+merusak, vrb, oov, hewan
+merusak, vrb, oov, jam
+merusak, vrb, oov, jawab
+merusak, vrb, oov, jualan
+merusak, vrb, oov, kaca
+merusak, vrb, oov, kah
+merusak, vrb, oov, kain
+merusak, vrb, oov, kalendar
+merusak, vrb, oov, kayu
+merusak, vrb, oov, kentang
+merusak, vrb, oov, keranjang
+merusak, vrb, oov, kertas
+merusak, vrb, oov, komputer
+merusak, vrb, oov, kopi
+merusak, vrb, oov, kotak
+merusak, vrb, oov, kucing
+merusak, vrb, oov, kuda
+merusak, vrb, oov, kunci
+merusak, vrb, oov, kursi
+merusak, vrb, oov, lampu
+merusak, vrb, oov, mangga
+merusak, vrb, oov, masakan
+merusak, vrb, oov, meja
+merusak, vrb, oov, mobil
+merusak, vrb, oov, motor
+merusak, vrb, oov, nyewa
+merusak, vrb, oov, papan
+merusak, vrb, oov, pel
+merusak, vrb, oov, pensil
+merusak, vrb, oov, penumpang
+merusak, vrb, oov, pipa
+merusak, vrb, oov, pisau
+merusak, vrb, oov, pos
+merusak, vrb, oov, roti
+merusak, vrb, oov, sabun
+merusak, vrb, oov, sapu
+merusak, vrb, oov, sepeda
+merusak, vrb, oov, susu
+merusak, vrb, oov, taksi
+merusak, vrb, oov, tas
+merusak, vrb, oov, uang
+minjam, vrb, oov, air
+minjam, vrb, oov, anjing
+minjam, vrb, oov, arti
+minjam, vrb, oov, batu
+minjam, vrb, oov, bensin
+minjam, vrb, oov, bom
+minjam, vrb, oov, cat
+minjam, vrb, oov, cek
+minjam, vrb, oov, cermin
+minjam, vrb, oov, daging
+minjam, vrb, oov, dompet
+minjam, vrb, oov, gamelan
+minjam, vrb, oov, gelas
+minjam, vrb, oov, gunting
+minjam, vrb, oov, hewan
+minjam, vrb, oov, jam
+minjam, vrb, oov, jawab
+minjam, vrb, oov, jualan
+minjam, vrb, oov, kaca
+minjam, vrb, oov, kah
+minjam, vrb, oov, kain
+minjam, vrb, oov, kalendar
+minjam, vrb, oov, kayu
+minjam, vrb, oov, kentang
+minjam, vrb, oov, keranjang
+minjam, vrb, oov, kertas
+minjam, vrb, oov, komputer
+minjam, vrb, oov, kopi
+minjam, vrb, oov, kotak
+minjam, vrb, oov, kucing
+minjam, vrb, oov, kuda
+minjam, vrb, oov, kunci
+minjam, vrb, oov, kursi
+minjam, vrb, oov, lampu
+minjam, vrb, oov, mangga
+minjam, vrb, oov, masakan
+minjam, vrb, oov, meja
+minjam, vrb, oov, mobil
+minjam, vrb, oov, motor
+minjam, vrb, oov, nyewa
+minjam, vrb, oov, papan
+minjam, vrb, oov, pel
+minjam, vrb, oov, pensil
+minjam, vrb, oov, penumpang
+minjam, vrb, oov, pipa
+minjam, vrb, oov, pisau
+minjam, vrb, oov, pos
+minjam, vrb, oov, roti
+minjam, vrb, oov, sabun
+minjam, vrb, oov, sapu
+minjam, vrb, oov, sepeda
+minjam, vrb, oov, susu
+minjam, vrb, oov, taksi
+minjam, vrb, oov, tas
+minjam, vrb, oov, uang
+meminjam, vrb, oov, air
+meminjam, vrb, oov, anjing
+meminjam, vrb, oov, arti
+meminjam, vrb, oov, batu
+meminjam, vrb, oov, bensin
+meminjam, vrb, oov, bom
+meminjam, vrb, oov, cat
+meminjam, vrb, oov, cek
+meminjam, vrb, oov, cermin
+meminjam, vrb, oov, daging
+meminjam, vrb, oov, dompet
+meminjam, vrb, oov, gamelan
+meminjam, vrb, oov, gelas
+meminjam, vrb, oov, gunting
+meminjam, vrb, oov, hewan
+meminjam, vrb, oov, jam
+meminjam, vrb, oov, jawab
+meminjam, vrb, oov, jualan
+meminjam, vrb, oov, kaca
+meminjam, vrb, oov, kah
+meminjam, vrb, oov, kain
+meminjam, vrb, oov, kalendar
+meminjam, vrb, oov, kayu
+meminjam, vrb, oov, kentang
+meminjam, vrb, oov, keranjang
+meminjam, vrb, oov, kertas
+meminjam, vrb, oov, komputer
+meminjam, vrb, oov, kopi
+meminjam, vrb, oov, kotak
+meminjam, vrb, oov, kucing
+meminjam, vrb, oov, kuda
+meminjam, vrb, oov, kunci
+meminjam, vrb, oov, kursi
+meminjam, vrb, oov, lampu
+meminjam, vrb, oov, mangga
+meminjam, vrb, oov, masakan
+meminjam, vrb, oov, meja
+meminjam, vrb, oov, mobil
+meminjam, vrb, oov, motor
+meminjam, vrb, oov, nyewa
+meminjam, vrb, oov, papan
+meminjam, vrb, oov, pel
+meminjam, vrb, oov, pensil
+meminjam, vrb, oov, penumpang
+meminjam, vrb, oov, pipa
+meminjam, vrb, oov, pisau
+meminjam, vrb, oov, pos
+meminjam, vrb, oov, roti
+meminjam, vrb, oov, sabun
+meminjam, vrb, oov, sapu
+meminjam, vrb, oov, sepeda
+meminjam, vrb, oov, susu
+meminjam, vrb, oov, taksi
+meminjam, vrb, oov, tas
+meminjam, vrb, oov, uang
+minta, vrb, oov, tanya
+meminta, vrb, oov, tanya
+minum, vrb, oov, air
+minum, vrb, oov, susu
+minum, vrb, oov, teh
+motong, vrb, oov, kain
+motong, vrb, oov, kayu
+motong, vrb, oov, pohon
+motong, vrb, oov, mentega
+motong, vrb, oov, batu
+motong, vrb, oov, belanja
+motong, vrb, oov, daging
+motong, vrb, oov, gelas
+motong, vrb, oov, kaca
+motong, vrb, oov, kentang
+motong, vrb, oov, pipa
+motong, vrb, oov, roti
+motong, vrb, oov, alpukat
+motong, vrb, oov, nangka
+memotong, vrb, oov, kain
+memotong, vrb, oov, kayu
+memotong, vrb, oov, pohon
+memotong, vrb, oov, mentega
+memotong, vrb, oov, batu
+memotong, vrb, oov, belanja
+memotong, vrb, oov, daging
+memotong, vrb, oov, gelas
+memotong, vrb, oov, kaca
+memotong, vrb, oov, kentang
+memotong, vrb, oov, pipa
+memotong, vrb, oov, roti
+memotong, vrb, oov, alpukat
+memotong, vrb, oov, nangka
+mulai, vrb, oov, pelajaran
+mulai, vrb, oov, proyek
+mulai, vrb, oov, makanan
+mulai, vrb, oov, pekerjaan
+mulai, vrb, oov, hujan
+memulai, vrb, oov, pelajaran
+memulai, vrb, oov, proyek
+memulai, vrb, oov, makanan
+memulai, vrb, oov, pekerjaan
+memulai, vrb, oov, hujan
+nyimpan, vrb, oov, air
+nyimpan, vrb, oov, anjing
+nyimpan, vrb, oov, arti
+nyimpan, vrb, oov, batu
+nyimpan, vrb, oov, bensin
+nyimpan, vrb, oov, bom
+nyimpan, vrb, oov, cat
+nyimpan, vrb, oov, cek
+nyimpan, vrb, oov, cermin
+nyimpan, vrb, oov, daging
+nyimpan, vrb, oov, dompet
+nyimpan, vrb, oov, gamelan
+nyimpan, vrb, oov, gelas
+nyimpan, vrb, oov, gunting
+nyimpan, vrb, oov, hewan
+nyimpan, vrb, oov, jam
+nyimpan, vrb, oov, jawab
+nyimpan, vrb, oov, jualan
+nyimpan, vrb, oov, kaca
+nyimpan, vrb, oov, kah
+nyimpan, vrb, oov, kain
+nyimpan, vrb, oov, kalendar
+nyimpan, vrb, oov, kayu
+nyimpan, vrb, oov, kentang
+nyimpan, vrb, oov, keranjang
+nyimpan, vrb, oov, kertas
+nyimpan, vrb, oov, komputer
+nyimpan, vrb, oov, kopi
+nyimpan, vrb, oov, kotak
+nyimpan, vrb, oov, kucing
+nyimpan, vrb, oov, kuda
+nyimpan, vrb, oov, kunci
+nyimpan, vrb, oov, kursi
+nyimpan, vrb, oov, lampu
+nyimpan, vrb, oov, mangga
+nyimpan, vrb, oov, masakan
+nyimpan, vrb, oov, meja
+nyimpan, vrb, oov, mobil
+nyimpan, vrb, oov, motor
+nyimpan, vrb, oov, nyewa
+nyimpan, vrb, oov, papan
+nyimpan, vrb, oov, pel
+nyimpan, vrb, oov, pensil
+nyimpan, vrb, oov, penumpang
+nyimpan, vrb, oov, pipa
+nyimpan, vrb, oov, pisau
+nyimpan, vrb, oov, pos
+nyimpan, vrb, oov, roti
+nyimpan, vrb, oov, sabun
+nyimpan, vrb, oov, sapu
+nyimpan, vrb, oov, sepeda
+nyimpan, vrb, oov, susu
+nyimpan, vrb, oov, taksi
+nyimpan, vrb, oov, tas
+nyimpan, vrb, oov, uang
+perlu, vrb, oov, air
+perlu, vrb, oov, anjing
+perlu, vrb, oov, arti
+perlu, vrb, oov, batu
+perlu, vrb, oov, bensin
+perlu, vrb, oov, bom
+perlu, vrb, oov, cat
+perlu, vrb, oov, cek
+perlu, vrb, oov, cermin
+perlu, vrb, oov, daging
+perlu, vrb, oov, dompet
+perlu, vrb, oov, gamelan
+perlu, vrb, oov, gelas
+perlu, vrb, oov, gunting
+perlu, vrb, oov, hewan
+perlu, vrb, oov, jam
+perlu, vrb, oov, jawab
+perlu, vrb, oov, jualan
+perlu, vrb, oov, kaca
+perlu, vrb, oov, kah
+perlu, vrb, oov, kain
+perlu, vrb, oov, kalendar
+perlu, vrb, oov, kayu
+perlu, vrb, oov, kentang
+perlu, vrb, oov, keranjang
+perlu, vrb, oov, kertas
+perlu, vrb, oov, komputer
+perlu, vrb, oov, kopi
+perlu, vrb, oov, kotak
+perlu, vrb, oov, kucing
+perlu, vrb, oov, kuda
+perlu, vrb, oov, kunci
+perlu, vrb, oov, kursi
+perlu, vrb, oov, lampu
+perlu, vrb, oov, mangga
+perlu, vrb, oov, masakan
+perlu, vrb, oov, meja
+perlu, vrb, oov, mobil
+perlu, vrb, oov, motor
+perlu, vrb, oov, nyewa
+perlu, vrb, oov, papan
+perlu, vrb, oov, pel
+perlu, vrb, oov, pensil
+perlu, vrb, oov, penumpang
+perlu, vrb, oov, pipa
+perlu, vrb, oov, pisau
+perlu, vrb, oov, pos
+perlu, vrb, oov, roti
+perlu, vrb, oov, sabun
+perlu, vrb, oov, sapu
+perlu, vrb, oov, sepeda
+perlu, vrb, oov, susu
+perlu, vrb, oov, taksi
+perlu, vrb, oov, tas
+perlu, vrb, oov, uang
+perlu, vrb, oov, laki-laki
+perlu, vrb, oov, perempuan
+perlu, vrb, oov, dia
+perlu, vrb, oov, kita
+perlu, vrb, oov, mereka
+perlu, vrb, oov, saya
+perlu, vrb, oov, Anda
+perlu, vrb, oov, abang
+perlu, vrb, oov, adik
+perlu, vrb, oov, anak
+perlu, vrb, oov, anak laki-laki
+perlu, vrb, oov, anak perempuan
+perlu, vrb, oov, ayah
+perlu, vrb, oov, bapak
+perlu, vrb, oov, ibu
+perlu, vrb, oov, kakak
+perlu, vrb, oov, pacar
+perlu, vrb, oov, ahli bedah
+perlu, vrb, oov, akuntan
+perlu, vrb, oov, arsitek
+perlu, vrb, oov, asisten penjualan
+perlu, vrb, oov, dokter
+perlu, vrb, oov, dokter gigi
+perlu, vrb, oov, dokter hewan
+perlu, vrb, oov, guru
+perlu, vrb, oov, guru
+perlu, vrb, oov, hakim
+perlu, vrb, oov, kasir
+perlu, vrb, oov, koki
+perlu, vrb, oov, makelar
+perlu, vrb, oov, montir
+perlu, vrb, oov, pelayan
+perlu, vrb, oov, pemadam kebakaran
+perlu, vrb, oov, pembantu
+perlu, vrb, oov, pemotret
+perlu, vrb, oov, peneliti
+perlu, vrb, oov, pengacara
+perlu, vrb, oov, penjahit
+perlu, vrb, oov, penjual ikan
+perlu, vrb, oov, perawat
+perlu, vrb, oov, perias rambut
+perlu, vrb, oov, polisi
+perlu, vrb, oov, pramugari
+perlu, vrb, oov, resepsionis
+perlu, vrb, oov, sekretaris
+perlu, vrb, oov, teknisi komputer
+perlu, vrb, oov, tukang
+perlu, vrb, oov, tukang bangunan
+perlu, vrb, oov, tukang cat
+perlu, vrb, oov, tukang daging
+perlu, vrb, oov, tukang kayu
+perlu, vrb, oov, tukang las
+perlu, vrb, oov, tukang optic
+perlu, vrb, oov, tukang pangkas
+perlu, vrb, oov, tukang pipa
+perlu, vrb, oov, tukang pos
+perlu, vrb, oov, tukang roti
+perlu, vrb, oov, tukang sapu
+perlu, vrb, oov, wartawan
+perlu, vrb, oov, murid
+perlu, vrb, oov, pelayan
+perlu, vrb, oov, pembantu
+perlu, vrb, oov, polisi
+perlu, vrb, oov, supir
+perlu, vrb, oov, tukang
+perlu, vrb, oov, Gede
+perlu, vrb, oov, Kadek
+perlu, vrb, oov, Ketut
+perlu, vrb, oov, Komang
+perlu, vrb, oov, Made
+perlu, vrb, oov, Mang
+perlu, vrb, oov, Nengah
+perlu, vrb, oov, Ni Luh
+perlu, vrb, oov, Nyoman
+perlu, vrb, oov, Putu
+perlu, vrb, oov, Tut
+perlu, vrb, oov, Wayan
+punya, vrb, oov, air
+punya, vrb, oov, anjing
+punya, vrb, oov, arti
+punya, vrb, oov, batu
+punya, vrb, oov, bensin
+punya, vrb, oov, bom
+punya, vrb, oov, cat
+punya, vrb, oov, cek
+punya, vrb, oov, cermin
+punya, vrb, oov, daging
+punya, vrb, oov, dompet
+punya, vrb, oov, gamelan
+punya, vrb, oov, gelas
+punya, vrb, oov, gunting
+punya, vrb, oov, hewan
+punya, vrb, oov, jam
+punya, vrb, oov, jawab
+punya, vrb, oov, jualan
+punya, vrb, oov, kaca
+punya, vrb, oov, kah
+punya, vrb, oov, kain
+punya, vrb, oov, kalendar
+punya, vrb, oov, kayu
+punya, vrb, oov, kentang
+punya, vrb, oov, keranjang
+punya, vrb, oov, kertas
+punya, vrb, oov, komputer
+punya, vrb, oov, kopi
+punya, vrb, oov, kotak
+punya, vrb, oov, kucing
+punya, vrb, oov, kuda
+punya, vrb, oov, kunci
+punya, vrb, oov, kursi
+punya, vrb, oov, lampu
+punya, vrb, oov, mangga
+punya, vrb, oov, masakan
+punya, vrb, oov, meja
+punya, vrb, oov, mobil
+punya, vrb, oov, motor
+punya, vrb, oov, nyewa
+punya, vrb, oov, papan
+punya, vrb, oov, pel
+punya, vrb, oov, pensil
+punya, vrb, oov, penumpang
+punya, vrb, oov, pipa
+punya, vrb, oov, pisau
+punya, vrb, oov, pos
+punya, vrb, oov, roti
+punya, vrb, oov, sabun
+punya, vrb, oov, sapu
+punya, vrb, oov, sepeda
+punya, vrb, oov, susu
+punya, vrb, oov, taksi
+punya, vrb, oov, tas
+punya, vrb, oov, uang
+sembunyi, vrb, oov, air
+sembunyi, vrb, oov, anjing
+sembunyi, vrb, oov, arti
+sembunyi, vrb, oov, batu
+sembunyi, vrb, oov, bensin
+sembunyi, vrb, oov, bom
+sembunyi, vrb, oov, cat
+sembunyi, vrb, oov, cek
+sembunyi, vrb, oov, cermin
+sembunyi, vrb, oov, daging
+sembunyi, vrb, oov, dompet
+sembunyi, vrb, oov, gamelan
+sembunyi, vrb, oov, gelas
+sembunyi, vrb, oov, gunting
+sembunyi, vrb, oov, hewan
+sembunyi, vrb, oov, jam
+sembunyi, vrb, oov, jawab
+sembunyi, vrb, oov, jualan
+sembunyi, vrb, oov, kaca
+sembunyi, vrb, oov, kah
+sembunyi, vrb, oov, kain
+sembunyi, vrb, oov, kalendar
+sembunyi, vrb, oov, kayu
+sembunyi, vrb, oov, kentang
+sembunyi, vrb, oov, keranjang
+sembunyi, vrb, oov, kertas
+sembunyi, vrb, oov, komputer
+sembunyi, vrb, oov, kopi
+sembunyi, vrb, oov, kotak
+sembunyi, vrb, oov, kucing
+sembunyi, vrb, oov, kuda
+sembunyi, vrb, oov, kunci
+sembunyi, vrb, oov, kursi
+sembunyi, vrb, oov, lampu
+sembunyi, vrb, oov, mangga
+sembunyi, vrb, oov, masakan
+sembunyi, vrb, oov, meja
+sembunyi, vrb, oov, mobil
+sembunyi, vrb, oov, motor
+sembunyi, vrb, oov, nyewa
+sembunyi, vrb, oov, papan
+sembunyi, vrb, oov, pel
+sembunyi, vrb, oov, pensil
+sembunyi, vrb, oov, penumpang
+sembunyi, vrb, oov, pipa
+sembunyi, vrb, oov, pisau
+sembunyi, vrb, oov, pos
+sembunyi, vrb, oov, roti
+sembunyi, vrb, oov, sabun
+sembunyi, vrb, oov, sapu
+sembunyi, vrb, oov, sepeda
+sembunyi, vrb, oov, susu
+sembunyi, vrb, oov, taksi
+sembunyi, vrb, oov, tas
+sembunyi, vrb, oov, uang
+bersembunyi, vrb, oov, air
+bersembunyi, vrb, oov, anjing
+bersembunyi, vrb, oov, arti
+bersembunyi, vrb, oov, batu
+bersembunyi, vrb, oov, bensin
+bersembunyi, vrb, oov, bom
+bersembunyi, vrb, oov, cat
+bersembunyi, vrb, oov, cek
+bersembunyi, vrb, oov, cermin
+bersembunyi, vrb, oov, daging
+bersembunyi, vrb, oov, dompet
+bersembunyi, vrb, oov, gamelan
+bersembunyi, vrb, oov, gelas
+bersembunyi, vrb, oov, gunting
+bersembunyi, vrb, oov, hewan
+bersembunyi, vrb, oov, jam
+bersembunyi, vrb, oov, jawab
+bersembunyi, vrb, oov, jualan
+bersembunyi, vrb, oov, kaca
+bersembunyi, vrb, oov, kah
+bersembunyi, vrb, oov, kain
+bersembunyi, vrb, oov, kalendar
+bersembunyi, vrb, oov, kayu
+bersembunyi, vrb, oov, kentang
+bersembunyi, vrb, oov, keranjang
+bersembunyi, vrb, oov, kertas
+bersembunyi, vrb, oov, komputer
+bersembunyi, vrb, oov, kopi
+bersembunyi, vrb, oov, kotak
+bersembunyi, vrb, oov, kucing
+bersembunyi, vrb, oov, kuda
+bersembunyi, vrb, oov, kunci
+bersembunyi, vrb, oov, kursi
+bersembunyi, vrb, oov, lampu
+bersembunyi, vrb, oov, mangga
+bersembunyi, vrb, oov, masakan
+bersembunyi, vrb, oov, meja
+bersembunyi, vrb, oov, mobil
+bersembunyi, vrb, oov, motor
+bersembunyi, vrb, oov, nyewa
+bersembunyi, vrb, oov, papan
+bersembunyi, vrb, oov, pel
+bersembunyi, vrb, oov, pensil
+bersembunyi, vrb, oov, penumpang
+bersembunyi, vrb, oov, pipa
+bersembunyi, vrb, oov, pisau
+bersembunyi, vrb, oov, pos
+bersembunyi, vrb, oov, roti
+bersembunyi, vrb, oov, sabun
+bersembunyi, vrb, oov, sapu
+bersembunyi, vrb, oov, sepeda
+bersembunyi, vrb, oov, susu
+bersembunyi, vrb, oov, taksi
+bersembunyi, vrb, oov, tas
+bersembunyi, vrb, oov, uang
+suka, vrb, oov, air
+suka, vrb, oov, anjing
+suka, vrb, oov, arti
+suka, vrb, oov, batu
+suka, vrb, oov, bensin
+suka, vrb, oov, bom
+suka, vrb, oov, cat
+suka, vrb, oov, cek
+suka, vrb, oov, cermin
+suka, vrb, oov, daging
+suka, vrb, oov, dompet
+suka, vrb, oov, gamelan
+suka, vrb, oov, gelas
+suka, vrb, oov, gunting
+suka, vrb, oov, hewan
+suka, vrb, oov, jam
+suka, vrb, oov, jawab
+suka, vrb, oov, jualan
+suka, vrb, oov, kaca
+suka, vrb, oov, kah
+suka, vrb, oov, kain
+suka, vrb, oov, kalendar
+suka, vrb, oov, kayu
+suka, vrb, oov, kentang
+suka, vrb, oov, keranjang
+suka, vrb, oov, kertas
+suka, vrb, oov, komputer
+suka, vrb, oov, kopi
+suka, vrb, oov, kotak
+suka, vrb, oov, kucing
+suka, vrb, oov, kuda
+suka, vrb, oov, kunci
+suka, vrb, oov, kursi
+suka, vrb, oov, lampu
+suka, vrb, oov, mangga
+suka, vrb, oov, masakan
+suka, vrb, oov, meja
+suka, vrb, oov, mobil
+suka, vrb, oov, motor
+suka, vrb, oov, nyewa
+suka, vrb, oov, papan
+suka, vrb, oov, pel
+suka, vrb, oov, pensil
+suka, vrb, oov, penumpang
+suka, vrb, oov, pipa
+suka, vrb, oov, pisau
+suka, vrb, oov, pos
+suka, vrb, oov, roti
+suka, vrb, oov, sabun
+suka, vrb, oov, sapu
+suka, vrb, oov, sepeda
+suka, vrb, oov, susu
+suka, vrb, oov, taksi
+suka, vrb, oov, tas
+suka, vrb, oov, uang
+tahu, vrb, oov, jawab
+tahu, vrb, oov, arti
+tahu, vrb, oov, harap
+tahu, vrb, oov, berharap
+tahu, vrb, oov, kasih
+tahu, vrb, oov, ketakutan
+tahu, vrb, oov, harap
+tahu, vrb, oov, murung
+tahu, vrb, oov, cemas
+tahu, vrb, oov, damai
+mengetahuinya, vrb, oov, jawab
+mengetahuinya, vrb, oov, arti
+mengetahuinya, vrb, oov, harap
+mengetahuinya, vrb, oov, berharap
+mengetahuinya, vrb, oov, kasih
+mengetahuinya, vrb, oov, ketakutan
+mengetahuinya, vrb, oov, harap
+mengetahuinya, vrb, oov, murung
+mengetahuinya, vrb, oov, cemas
+mengetahuinya, vrb, oov, damai
+terima, vrb, oov, air
+terima, vrb, oov, anjing
+terima, vrb, oov, arti
+terima, vrb, oov, batu
+terima, vrb, oov, bensin
+terima, vrb, oov, bom
+terima, vrb, oov, cat
+terima, vrb, oov, cek
+terima, vrb, oov, cermin
+terima, vrb, oov, daging
+terima, vrb, oov, dompet
+terima, vrb, oov, gamelan
+terima, vrb, oov, gelas
+terima, vrb, oov, gunting
+terima, vrb, oov, hewan
+terima, vrb, oov, jam
+terima, vrb, oov, jawab
+terima, vrb, oov, jualan
+terima, vrb, oov, kaca
+terima, vrb, oov, kah
+terima, vrb, oov, kain
+terima, vrb, oov, kalendar
+terima, vrb, oov, kayu
+terima, vrb, oov, kentang
+terima, vrb, oov, keranjang
+terima, vrb, oov, kertas
+terima, vrb, oov, komputer
+terima, vrb, oov, kopi
+terima, vrb, oov, kotak
+terima, vrb, oov, kucing
+terima, vrb, oov, kuda
+terima, vrb, oov, kunci
+terima, vrb, oov, kursi
+terima, vrb, oov, lampu
+terima, vrb, oov, mangga
+terima, vrb, oov, masakan
+terima, vrb, oov, meja
+terima, vrb, oov, mobil
+terima, vrb, oov, motor
+terima, vrb, oov, nyewa
+terima, vrb, oov, papan
+terima, vrb, oov, pel
+terima, vrb, oov, pensil
+terima, vrb, oov, penumpang
+terima, vrb, oov, pipa
+terima, vrb, oov, pisau
+terima, vrb, oov, pos
+terima, vrb, oov, roti
+terima, vrb, oov, sabun
+terima, vrb, oov, sapu
+terima, vrb, oov, sepeda
+terima, vrb, oov, susu
+terima, vrb, oov, taksi
+terima, vrb, oov, tas
+terima, vrb, oov, uang
+tulis, vrb, oov, buku
+tulis, vrb, oov, kata
+tulis, vrb, oov, surat
+menulis, vrb, oov, buku
+menulis, vrb, oov, kata
+menulis, vrb, oov, surat
+match eof on line 310
+4650 records inserted from match
+5410 records inserted total

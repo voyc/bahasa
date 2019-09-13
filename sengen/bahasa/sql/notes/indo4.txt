@@ -1,0 +1,73 @@
+apa	what
+siapa	who
+ke mana	where to
+di mana	where
+kapan	when
+mengapa	why
+bagaimana	how
+berapa	how much, how many
+ini	this
+itu	that
+lagi	else
+hari	day
+besok	tomorrow
+yang	which
+anda	you
+cari	look
+perkulan	need
+datang	come
+tas	bat
+menelepon	calling
+ikut	come along
+dengan	with
+pergi	go
+tujuan	destination
+tujuannya	destination
+sekarang	now
+berlibur	vacation
+bus	bus
+dibawa	taken, brought
+tinggal	stay
+teman	friend
+lahir	born
+tempatnya	place
+pasport	passport
+saya	I, me, my, mine
+dokter	doctor
+terdekat	nearest
+akan	will
+selesai	finished
+pesta	party
+dimulai	begin
+dibangun	build, construct
+kita	we
+ke	from
+duduk	sit
+mereka	they
+tertawa	laugh
+hendak	want
+harganya	price
+mahal	expensive
+terlambat	late
+gembira	happy
+keadaannya	situation
+rasa	taste
+rasanya	taste
+caranya	how
+cuaca	weather
+di	in
+wajah	face
+harganya	price
+anak	children
+biayanya	cost
+sana	there
+beratnya	weight
+jaraknya	distance
+lama	long
+sini	here
+km	km
+kg	kg
+durian	durian, a fruit
+Bandung	a place
+Jakarta	the capital city of Indonesia
+Borobudur	a landmark in Indonesia

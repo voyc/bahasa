@@ -1,0 +1,137 @@
+
+kakek	grandfather
+nenek	grandmother
+bapak	father
+ibu	mother
+paman	uncle
+om	uncle
+tante	aunt
+bibi	aunt
+kakak	older sibling
+adik	younger sibling
+abang	elder brother
+saudara	brother
+Tuan	Mr.
+Nyonya	Mrs.
+Nona	Ms.
+sus	sister
+lurah
+docter	doctor
+Professor
+Jenderal
+Kapten
+Mantri
+Pendeta
+Guru
+Suster
+Haji
+Kiayi
+Bung
+Mas
+Mbakyu
+Mbok
+Bli
+Gek
+Gus
+
+Saya	I, me, mine
+Aku	I
+Anda	you
+kamu	you
+engkau	you
+kau	you
+kalian	you
+dia	he/she
+ia	he/she
+beliau	he/she
+mereka	they
+kami	we, excluding the listener
+kita	we, including the listener
+
+kemarin	yesterday
+besok	tomorrow
+saat ini	right now
+setiap hari	everyday
+hari ini	today
+pagi ini	this morning
+sore ini	this afternoon
+malam ini	tonight
+kemarin malam	last night
+tahun depan	next year
+Sabtu depan	next Saturday
+bulan depan	next month
+bulan lalu	last month
+kemarin pagi	yesterday morning
+setiap hari	every day
+kemarin sore	yesterday afternoon
+kemarin lusa	the day before yesterday
+besok lusa	the day after tomorrow
+minggu lalu	last week
+minggu ini	this week
+minggu depan	next week
+tua hari hang lalu	two days ago
+lima tahun yang lalu	five years ago
+last weekend	akhir pekan lalu
+dalam lima tahun	in five years
+setelah kelas kemarin	after class yesterday
+dalam dua minggu	in two weeks
+tiga jam yang lalu	three hours ago
+dalam tiga hari	in three days
+
+detik	second
+minit	minute
+jam	hour
+hari	day
+minggu	week
+akhir pekan	weekend
+bulan	month
+tahun	year
+semester	six months
+windu	eight months
+abad	century
+
+
+depan	next
+lalau	previous
+
+dalam	in (the future)
+setelah	after
+
+Senin	Monday
+Selas	Tuesday
+Rabu	Wednesday
+Kamis	Thursday
+Jumat	Friday
+Sabtu	Saturday
+Minggu	Sunday
+
+Januari	January
+Februari	February
+Maret	March
+April	April
+Mei	May
+Juni	June
+Juli	July
+Agustus	August
+September	September
+Oktober	October
+Nopember	November
+Desember	December
+
+tambah	plus, add
+kurang	minus, subtract
+kali	times, multiply
+bagi	divided by
+sama dengan	equals, total
+
+jam satu pas	at 1:00
+jam setengah dua	at 1:30
+jam dua kurang lima belas menit	at 1:45
+jam satu lewat lima belas menit	at 1:15
+
+Jam berapa sekarang?	What time is it?
+Jam berapa anda mulai bekerja?	What time do you start work?
+
+lewat	through
+
+

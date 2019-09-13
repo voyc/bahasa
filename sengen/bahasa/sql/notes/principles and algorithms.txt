@@ -1,0 +1,133 @@
+practice
+	present, practice, present, practice
+build on what the user already knows
+	vocabulary : sentences
+	present the vocabulary first
+	then choose sentences using all presented vocabulary
+	choose sentences where 1 word is working and all other words are mastered
+keep it real
+	polite phrases, protocol
+	conversations
+	useful street-smart information
+sound, visual, kinetic
+reading, writing, speaking, listening
+
+Keep track of running right/wrong percentage.
+Adjust the size of the working set accordingly.
+
+
+do a see dick and jane run type of indonesian reader.
+
+build sample sentences and ask Gracesima if they are correct
+
+Connect.
+with others by truly listening
+to  him in his language
+English-speaking people coming to Indonesia.
+
+Connect on a deeper level
+find an alternative way of being
+
+Register now to save your progress.
+Congratulations.  You have completed the introductory course.  You are now ready to visit Indonesia.
+To keep learning more of the Indonesian language, give us your credit card number.
+
+
+keep the working set smaller until the student is ramped up
+raise and lower the working set size dynamically depending on user's state
+give one
+give two
+back to one 
+back to two
+three
+two
+one
+three
+
+
+when generating a sentence
+first get the the sentence structure mastered using all mastered components
+After that, use it to test one word at a time.  Use all mastered components except for one working.
+
+Working - < 30
+Review - 30 - 60
+Mastered - > 60
+
+number of rights
+number of wrongs
+total tries
+
+right/tries
+what about most recent tries
+what about rule to get n right in a row
+keep that rule until it's mastered.  Then go to percent mastered.
+those that took more tries will have a lower percent mastered value.
+
+
+ini $noun	this $noun
+itu $noun	that $noun
+ini $noun dan itu $noun	this $noun and that $noun
+Ini bukan $noun, tetapi $noun.	This is not a $noun, but a $noun.
+
+While these sentence structures are in working set, use mastered components.
+When the sentence structure moves to review, use working and review components.
+When getting vocabulary, get a set of mastered components smartly.
+Go to the server sql query for every sentence?
+Recently mastered.
+For review mastered.
+Keep things in review longer.
+Change review-mastered to a percent mastered.
+Change work-review-mastered to percent mastered.
+Set arbitrary percent cutoff for work/review/mastered distinction.
+
+
+?	$noun is on the $noun.
+?	$noun is in the $noun.
+
+----------------
+
+-----------------
+
+return from login
+    current program, reversibility, and reverseflag
+    all programs for this user
+    all programs
+let user pick different program
+let user choose reverse or not - add reverse state to progress
+let user reset program, start over (reversed or not) - delete records from progress table
+add auto-reverse? - add reverse state to progress
+options:
+	program
+	reverse
+	reset
+	show internals
+layout:
+	set fixed height of boxes, so the button positions stay constant
+
+review percentage - how often to review this word, depending on how long it took to learn it
+
+before the next set, make a presentation
+    add a table, set or presentation, setid, 
+    link to presentation
+    presentation can be html page, including audio or video
+    congratulations, you are ready for the next set, click here to see
+
+prepare the presentation for indo 4, questions
+    present the vocabulary
+    and some of the sentence structure
+
+----------------------
+
+word
+phrase
+sentence
+
+reverse word
+reverse phrase
+reverse sentences
+
+keep practicing until the percentages are up where you want them
+before introducing new material
+
+we know how to practice words and phrases, with hardcoded sequences
+how do we practice sentences, all generated

@@ -1,0 +1,16 @@
+$nun1 $vrb1	$vrb1 $nun1	pat	nnc
+$nun1 $nun2	$nun1 $nun1	pat	nnc
+$nun1 $adj1	$adj1 $nun1	pat	nnp
+$nun1 $dem1	$dem1 $nun1	pat	nnp
+$nun1 $pos1	$pos1 $nun1	pat	nnp
+$nun1 $adj1 $adj2	$adj2 $adj1 $nun1	pat	nnp
+$nun1 $adj1 $dem1	$dem1 $adj1 $nun1	pat	nnp
+$nun1 $adj1 $pos1	$pos1 $adj1 $nun1	pat	nnp
+$nun1 $adj1 $adj2 $dem1	$dem1 $adj2 $adj1 $nun1	pat	nnp
+$nun1 $adj1 $adj2 $pos1	$pos1 $adj2 $adj1 $nun1	pat	nnp
+$nun1 $pos1 $pos2	$pos2 $pos1 $nun1	pat	nnp
+$nun1 $adj1 $pos1 $pos2	$pos2 $pos1 $adj1 $nun1	pat	nnp
+$dem1 $nun1	$dem1 is a $nun1	pat	sen
+ada $nun1	there is a $nun1	pat	sen
+$nun1 $nun2	$nun1 is a $nun2	pat	sen
+$nun1 $adj1	$nun1 is $adj1	pat	sen

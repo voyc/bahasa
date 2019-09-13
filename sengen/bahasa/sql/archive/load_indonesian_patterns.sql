@@ -1,0 +1,16 @@
+insert into bahasa.pattern values ( 1, 'nnc', '$nun1 $vrb1', '$vrb1 $nun1');
+insert into bahasa.pattern values ( 2, 'nnc', '$nun1 $nun2', '$nun1 $nun1');
+insert into bahasa.pattern values ( 3, 'nnp', '$nun1 $adj1', '$adj1 $nun1');
+insert into bahasa.pattern values ( 4, 'nnp', '$nun1 $dem1', '$dem1 $nun1');
+insert into bahasa.pattern values ( 5, 'nnp', '$nun1 $pos1', '$pos1 $nun1');
+insert into bahasa.pattern values ( 6, 'nnp', '$nun1 $adj1 $adj2', '$adj2 $adj1 $nun1');
+insert into bahasa.pattern values ( 7, 'nnp', '$nun1 $adj1 $dem1', '$dem1 $adj1 $nun1');
+insert into bahasa.pattern values ( 8, 'nnp', '$nun1 $adj1 $pos1', '$pos1 $adj1 $nun1');
+insert into bahasa.pattern values ( 9, 'nnp', '$nun1 $adj1 $adj2 $dem1', '$dem1 $adj2 $adj1 $nun1');
+insert into bahasa.pattern values (10, 'nnp', '$nun1 $adj1 $adj2 $pos1', '$pos1 $adj2 $adj1 $nun1');
+insert into bahasa.pattern values (11, 'nnp', '$nun1 $pos1 $pos2', '$pos2 $pos1 $nun1');
+insert into bahasa.pattern values (12, 'nnp', '$nun1 $adj1 $pos1 $pos2', '$pos2 $pos1 $adj1 $nun1');
+insert into bahasa.pattern values (13, 'sen', '$dem1 $nun1', '$dem1 is a $nun1');
+insert into bahasa.pattern values (14, 'sen', 'ada $nun1', 'there is a $nun1');
+insert into bahasa.pattern values (15, 'sen', '$nun1 $nun2', '$nun1 is a $nun2');
+insert into bahasa.pattern values (16, 'sen', '$nun1 $adj1', '$nun1 is $adj1');

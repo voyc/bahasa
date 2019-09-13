@@ -1,0 +1,703 @@
+$nun1 $vrb1	$vrb1 $nun1	pat	nnc
+$nun1 $nun2	$nun1 $nun1	pat	nnc
+$nun1 $adj1	$adj1 $nun1	pat	nnp
+$nun1 $dem1	$dem1 $nun1	pat	nnp
+$nun1 $pos1	$pos1 $nun1	pat	nnp
+$nun1 $adj1 $adj2	$adj2 $adj1 $nun1	pat	nnp
+$nun1 $adj1 $dem1	$dem1 $adj1 $nun1	pat	nnp
+$nun1 $adj1 $pos1	$pos1 $adj1 $nun1	pat	nnp
+$nun1 $adj1 $adj2 $dem1	$dem1 $adj2 $adj1 $nun1	pat	nnp
+$nun1 $adj1 $adj2 $pos1	$pos1 $adj2 $adj1 $nun1	pat	nnp
+$nun1 $pos1 $pos2	$pos2 $pos1 $nun1	pat	nnp
+$nun1 $adj1 $pos1 $pos2	$pos2 $pos1 $adj1 $nun1	pat	nnp
+$dem1 $nun1	$dem1 is a $nun1	pat	sen
+ada $nun1	there is a $nun1	pat	sen
+$nun1 $nun2	$nun1 is a $nun2	pat	sen
+$nun1 $adj1	$nun1 is $adj1	pat	sen
+apa	what	unk
+saya	I	pro		I, me, my, mine
+Anda	you	pro		you, your, yours
+dia	he	pro
+kita	we	pro
+mereka	they	pro
+sama	same	unk
+selamat	greeting	unk
+meja	table	nun
+pagi	morning	nun
+ini	this	dem
+roti	bread	nun
+besok	tomorrow	adv
+itu	that	dem
+jumpa	meet	vrb
+sampai	until	adv
+cuaca	weather	nun
+guru	teacher	nun	job
+dengar	listen	vrb
+dengan	with	prp
+gamelan	gamelan	nun
+mangga	mango	nun
+sore	afternoon	nun
+kabar	news	nun
+halo	hello	unk
+jalan	road	nun
+mobil	automobile	nun
+sepeda	bicycle	nun
+rumah	house	nun
+kantor	office	nun
+sekolah	school	nun
+toko	shop	nun
+kebun	garden	nun
+pohon	tree	nun
+anjing	dog	nun
+kucing	cat	nun
+kuda	horse	nun
+kamar	room	nun
+kursi	chair	nun
+lampu	lamp	nun
+lemari	cupboard	nun
+gelas	glass	nun
+jam	clock	nun
+buku	book	nun
+kertas	paper	nun
+pensil	pencil	nun
+tas	bag	nun
+laki-laki	man	nun	fam
+perempuan	woman	nun	fam
+anak	child	nun	fam
+anak laki-laki	boy	nun	fam
+anak perempuan	girl	nun	fam
+ayah	father	nun	fam
+ibu	mother	nun	fam
+abang	elder brother	nun	fam
+kakak	elder sibling	nun	fam
+adik	younger sibling	nun	fam
+murid	pupil	nun	per
+pelayan	waiter	nun	per
+pembantu	servant	nun	per
+polisi	policeman	nun	per
+supir	driver	nun	per
+tukang	workman	nun	per
+gereja	church	nun
+warung	small shop	nun
+kunci	key	nun
+atap	roof	nun
+batu	stone	nun
+jendela	window	nun
+pagar	fence	nun
+bensin	petrol	nun
+tanah	earth	nun
+gunting	scissors	nun
+kaca	glass	nun		glass, pane
+kain	cloth	nun		cloth, material
+pisau	knife	nun
+keranjang	basket	nun
+kotak	box	nun
+susu	milk	nun
+mentega	butter	nun
+kentang	potato	nun
+air	water	nun
+hitam	black	adj	clr
+putih	white	adj	clr
+coklat	brown	adj	clr
+biru	blue	adj	clr
+jigau	green	adj	clr
+merah	red	adj	clr
+kuning	yellow	adj	clr
+jingga	pink	adj	clr
+ungu	purple	adj	clr
+abu-abu	gray	adj	clr
+enak	delicious	adj	tst
+manis	sweet	adj	tst
+pedas	spicy	adj	tst
+asam	sour	adj	tst
+asin	salty	adj	tst
+lezat	delicious	adj	tst
+segar	fresh	adj	tst
+nikmat	tasty	adj	tst
+ahit	bitter	adj	tst
+tawar	plain	adj	tst
+baik	good	adj
+cantik	beautiful	adj
+hebat	great	adj
+besar	big	adj	1
+kecil	small	adj	1
+cepat	fast	adj	2
+lambat	slow	adj	2
+mahal	expensive	adj	3
+murah	cheap	adj	3
+pintar	smart	adj	4
+bodoh	stupid	adj	4
+sakit	sick	adj	5
+sehat	healthy	adj	5
+dingin	cold	adj	6
+panas	hot	adj	6
+banyak	many	adj	7
+sedikit	few	adj	7
+pendek	short	adj	8
+tinggi	tall	adj	8
+baru	new	adj	9
+tua	old	adj	9
+muda	young	adj	9
+kuat	strong	adj	10
+lemah	weak	adj	10
+rusak	broken	adj	11
+tetap	fixed	adj	11
+rajin	diligent	adj	12
+malas	lazy	adj	12
+penuh	full	adj	13
+kosong	empty	adj	13
+penumpang	passenger	nun
+parkir	parking lot	nun
+perpastakan	library	nun
+tutup	lid	nun
+desa	village	nun
+kota	city	nun
+negara	nation	nun
+sangat	very	qty
+sekali	very	adj
+sabun	soap	nun
+mandi	bathe	vrb
+cuci	wash	vrb
+kolam	pool	nun
+renang	swim	vrb
+tidur	sleep	vrb
+ruang	space	nun
+operasi	operate	vrb
+papan	board	nun
+tulis	write	vrb
+kotor	dirty	adj
+bersih	clean	adj
+suka	like	vrb
+mau	want	vrb
+perlu	need	vrb
+baca	read	vrb
+menulis	write	vrb
+lihat	see	vrb		to see, to look at
+duduk	sit	vrb
+berdiri	stand	vrb
+tinggal	stay	vrb		to live, to stay
+datang	arrive	vrb
+berjalan	walk	vrb
+menjalan	run	vrb
+pergi	go	vrb
+kembali	return	vrb
+menunggu	wait	vrb
+berhenti	stop	vrb
+beristirahat	rest	vrb
+menyopir	drive	vrb
+tahu	know	vrb
+ingat	remember	vrb
+lupa	forget	vrb
+makan	eat	vrb
+minum	drink	vrb
+masuk	enter	vrb
+mulai	start	vrb		to start, to begin
+punya	have	vrb
+berbicara	speak	vrb
+bangun	wake up	vrb
+belajar	study	vrb
+bekerja	work	vrb
+bermain	play	vrb
+mengunci	lock	vrb
+sedang	currently	adv
+akan	will	adv
+sudah	already	adv
+belum	not yet	adv
+pernak	ever	adv
+marih	still	adv
+ingin	want	adv
+harus	must	adv
+perlu	need	adv		necessary
+saka	like	adv
+boleh	may	adv
+dapat	can	adv
+mungkin	maybe	adv
+agak	so-so	adv
+cukup	enough	adv
+bercermin	reflect	vrb		to mirror
+gendong	carry	vrb
+keluar	exit	vrb
+pulang	go home	vrb
+jatuh	fall	vrb
+doa	prayer	nun
+berdoa	pray	vrb
+berhasil	succeed	vrb
+berkata	say	vrb
+berlari	run	vrb
+berpikir	think	vrb
+berenang	swim	vrb
+bertanya	ask	vrb
+bertemu	meet	vrb
+membawa	bring	vrb		to bring, carry
+membuka	open	vrb
+membeli	buy	vrb
+memakai	wear	vrb		to wear, to use
+memotong	cut	vrb
+meminjam	borrow	vrb
+melihat	see	vrb		to see, to lookat
+melompat	jump	vrb
+meminta	ask	vrb		to ask for something
+menikah	marry	vrb
+menikah	marry	vrb
+menyanyi	sing	vrb
+merusak	break	vrb
+merasa	feel	vrb
+mencuci	wash	vrb
+mencoba	try	vrb
+mendorong	push	vrb
+mendengar	hear	vrb
+menjadi	become	vrb
+menjawab	answer	vrb
+mengambil	take	vrb
+mengimpor	import	vrb
+menggoreng	fry	vrb
+mengganggu	disturb	vrb
+mengharap	hope	vrb
+mengetik	type	vrb
+menyimpan	keep	vrb
+menyuruh	command	vrb
+mengecat	paint	vrb
+mengebom	bomb	vrb
+mengecek	check	vrb
+mengepel	mop	vrb
+kasih	love	nun
+ada	there is	unk
+apa ini	what is this	idi	qst
+apa itu	what is that	idi	qst
+selamat pagi	good morning	idi	grt
+selamat sore	good evening	idi	grt
+apa kabar	how are you	idi	gst
+mati	dead	adj
+semalam	overnight	adv
+pacar	girlfriend	nun	fam
+masih	still	adv
+berumur	aged	adj
+begitu	so	con
+tinggi	high	adj
+ibukota	capitol	nun
+berteman	make friends	vrb
+lagi	more	adv
+uang	money	nun
+dompet	wallet	nun
+seorang	a	art
+kosong	empty	adj
+menurut	according to	adv
+ganteng	handsome	adj
+bekas	former	adj
+ramah	friendly	adj
+tentang	about	adv
+akuntan	accountant	nun	job
+tukang	artisan	nun	job
+tukang roti	baker	nun	job
+tukang pangkas	barber	nun	job
+tukang bangunan	carpenter	nun	job
+tukang daging	butcher	nun	job
+tukang kayu	carpenter	nun	job
+kasir	cashier	nun	job
+pembantu	servant	nun	job
+koki	cook	nun	job
+tukang sapu	janitor	nun	job
+dokter gigi	dentist	nun	job
+dokter	doctor	nun	job
+montir	mechanic	nun	job
+arsitek	artist	nun	job
+pemadam kebakaran	fireman	nun	job
+penjual ikan	fish merchant	nun	job
+pramugari	stewardess	nun	job
+perias rambut	hair stylist	nun	job
+hakim	judge	nun	job
+pengacara	lawyer	nun	job
+perawat	nurse	nun	job
+tukang optic	optometrist	nun	job
+tukang cat	painter	nun	job
+pemotret	photographer	nun	job
+tukang pipa	plumber	nun	job
+polisi	policeman	nun	job
+tukang pos	postman	nun	job
+resepsionis	receptionist	nun	job
+wartawan	journalist	nun	job
+asisten penjualan	sales assistant	nun	job
+makelar	broker	nun	job
+peneliti	researcher	nun	job
+sekretaris	secretary	nun	job
+ahli bedah	surgeon	nun	job
+penjahit	tailor	nun	job
+guru	teacher	nun	job
+teknisi komputer	computer technician	nun	job
+dokter hewan	vetenarian	nun	job
+pelayan	waiter	nun	job
+tukang las	welder	nun	job
+ketakutan	fear	nun
+takut	fear	vrb
+kecepatan	speed	nun
+cepat	fast	adj
+pangkas	cut	vrb
+bangunan	building	nun
+daging	meat	nun
+kayu	timber	nun
+sapu	broom	nun
+gigi	tooth	nun
+optic	optic	adj
+cat	paint	nun
+pipa	pipe	nun
+pos	post	nun
+jual	sell	vrb
+jualan	goods	nun
+penjualan	sale	nun
+ahli	expert	nun
+bedah	surgical	adj
+teknisi	technician	nun
+komputer	computer	nun
+hewan	animal	nun
+las	weld	vrb
+matahari	sun	nun
+matahari pagi	morning sun	idi
+tiduk	no	neg
+musik	music	nun
+sampai jumpa	until we meet	idi
+sampai besok	until tomorrow	idi
+taksi	taxi	nun
+kopi	coffee	nun
+hotel	hotel	nun
+wifi	wifi	nun
+Januari	January	nun	mon
+motor	motor	nun
+arkeologi	archaeology	nun
+kalendar	calendar	nun
+konser	concert	nun
+gratis	free	adj
+lokal	local	adj
+internet	internet	nun
+internet akses	internet access	nun
+beker	alarm	nun
+pekerjaan	job	nun
+bagus	good	adj
+tolong	please	unk
+silahkan	please	unk
+terima	receive	vrb
+bapak	father	nun	fam
+permissi	excuse me	idi
+maaf	sorry	idi
+terima kasih	thank you	idi
+lain kali	another time	idi
+teduk sekarang	not now	idi
+bukan	not	neg	
+tapi	but	con
+Wokalayan	Wokalayan	nun	pnm
+Yan	Yan	nun	pnm
+Made	Made	nun	pnm
+Nyoman	Nyoman	nun	pnm
+Komang	Komang	nun	pnm
+Mang	Mang	nun	pnm
+Ketut	Ketut	nun	pnm
+Tut	Tut	nun	pnm
+Wayan	Wayan	nun	pnm
+Putu	Putu	nun	pnm
+Gede	Gede	nun	pnm
+Ni Luh	Ni Luh	nun	pnm
+Made	Made	nun	pnm
+Kadek	Kadel	nun	pnm
+Nengah	Negah	nun	pnm
+cepatan	velocity	nun
+keselamatan	safety	nun
+terhitung	counted	adj
+berharap	hope	vrb
+mengusikmu	nuisance	nun
+memulai	start	vrb
+mencintaimu	love you	idi
+dalam diam	in silence	idi
+merindukanmu	miss you	idi
+bertahan	last	adj
+rasa	flavor	nun
+mengetahuinya	know	vrb
+gula	sugar	nun	fod
+alpukat	avocado	nun	fod
+nangka	jackfruit	nun	fod
+es	ice	nun	fod
+hujan	rain	nun
+bayar	pay	vrb
+dibayar	paid	adj
+menjalankan	run	vrb
+minta	ask	vrb
+nyi	singing	nun
+nyanyian	singing	nun
+lanja	shopping	nun
+belanja	expenditure	nun
+berbelanja	shop	vrb
+perbelanjaan	shopping	nun
+bunyi	sound	nun
+sembunyi	hide	vrb
+bersembunyi	hide	vrb
+masak	cooked	adj
+memasak	cook	vrb
+masakan	dish	nun
+kah	glue	nun
+nikah	marriage	nun
+menikah	marry	vrb
+menikah	married	adj
+cermin	mirror	nun
+arti	meaning	nun
+berarti	mean	vrb
+cerita	story	nun
+bercerita	tell	vrb
+hasil	result	nun
+kata	word	nun
+lari	run	nun
+pikir	thought	nun
+tanya	question	nun
+temu	intersection	nun
+angkat	lift	vrb
+berangkat	leave	vrb
+bawa	bring	vrb
+buka	open	vrb
+nyimpan	keep	vrb
+beli	buy	vrb
+makai	wear	vrb
+motong	cut	vrb
+minjam	borrow	vrb
+lompat	jump	nun
+coba	try	vrb
+dorong	push	vrb
+jadi	become	vrb		many meanings
+ambil	take	vrb
+ganggu	bother	vrb
+jawab	answer	nun
+impor	import	nun
+harap	hope	nun
+murung	depressed	adj
+cemas	anxious	adj
+damai	at peace	adj
+hitung	arithmetic	nun
+menghitung	count	vrb
+tik	tick	nun
+ruh	spirit	nun
+bom	bomb	nun
+cek	check	nun
+pel	pill	nun
+nyewa	tenant	nun
+menyewa	rent	vrb
+goreng	fried	adj
+bahasa	language	nun
+bandar	port	nun
+barang	goods	nun
+belakang	back	nun
+bersama	with	prp
+dalam	in	prp
+dan	and	cnj
+depan	front	adj
+di	in	prp
+indah	beautiful	adj
+istirahat	rest	nun
+istri	wife	nun
+juga	also	adv
+kali	time	nun
+kami	we	pro
+kanan	right	adj
+ke	to	prp
+kemarin	yesterday	adv
+kenal	know	vrb
+kiri	left	adj
+lalu	last	adj
+makanan	food	nun
+mendapat	get	vrb
+nah	well	int
+nyonya	Mrs.	adj
+orang	person	nun
+pesawat	plane	nun
+pukul	time	nun
+satu	one	adj	num
+semua	all	adj	qty
+senang	happy	adj
+tahun	year	nun
+taruh	place	vrb
+tepat	exactly	adv
+teriak	shout	nun
+tertawa	laugh	nun
+tetapi	but	cnj
+tiap	each	adj
+tingkat	level	nun
+udara	air	nun
+waktu	time	nun
+yang	which	cnj
+koper	suitcase	nun
+aku	I	pro
+alat	tool	nun
+antara	beween	adv
+atas	on	prp
+ayoh	come on	int
+bawah	under	adj
+bersama-sama	together	adv
+betul	correct	adj
+betul-betul	really	adv
+dari	from	prp
+dekat	close	adj
+ember	bucket	nun
+engkau	you	pro
+gadis	girl	nun	per
+ikut	participate	vrb
+kepada	to	prp
+lantai	floor	nun
+lebih	more	adv
+mana	where	adv
+mencari	search	vrb
+menolongmu	help	vrb
+plastik	plastic	adj
+saja	only	adv
+sana	there	adv
+sebagainya	so	cnj
+sini	here	adv
+tangga	ladder	nun
+tempatnya	place nun
+tentu	of	prp
+tidak	no	adv
+tiga	three	adj	num
+turun	down	adv
+naik	up	adv
+turun-naik	down-up	adv
+ya	yes	unk
+barat	west
+timur	east
+utara	north
+selatan	south
+kanan	right
+kiri	left
+segera	immediately
+persis	exactly
+pesisir	coast
+semenanjung	peninsula
+antara	between
+ombak	wave
+tambah	plus
+sama dengan	equals
+kurang	minus
+selama	during
+Pasifik	Pacific
+sekitar	approximately
+di atas	above
+mengangkat	raised
+depan	front
+kembali	back
+terhadap	against	
+jurang	cliff
+luas	wide
+di seluruh	across
+lebar	width
+lama	long
+meluas	extends
+seluruh	entire
+restoran	restaurant
+baris	row
+di belakang	behind
+dimana	where
+customers	pelanggan
+action	tindakan
+sementara	while
+mendukung	support	vrb
+bumbu	spice	nun
+nota	note	nun
+biaya	fee	nun
+Padang Bai	Padang Bai
+Ubud	Ubud      
+Gilikanut	Gilikanut 
+Uluwatu	Uluwatu   
+Singaradja	Singaradja
+mendung	cloudy	adj
+awan	cloud	nun
+pintu	door	nun
+botol	bottle	nun
+air botol	bottled water	nun
+lagu	song	nun
+sepeda motor	motorbike	nun
+nama	name	nun
+tanggal	date	nun
+waktu	time	nun
+garpu	fork	nun
+sendok	spoon	nun
+serbet	napkin	nun
+cangkir	cup	nun
+pelat	plate	nun
+mangkuk	bowl	nun
+celana	pants	nun
+sepatu	shoes	nun
+kaus	shirt	nun
+topi	hat	nun
+wastafel	sink	nun
+bank	bank	nun
+teman	friend	nun
+teh	tea	nun
+pelajaran	lesson	nun
+proyek	project	nun
+surat	letter	nun
+ayam	chicken	nun
+sapi	beef	nun
+babi	pork	nun
+ular	snake	nun
+logam	metal	nun
+ayam asam manis	sweet and sour chicken	nun
+tomat	tomato	nun
+kacang	peanut	nun
+mete	cashew	nun
+ayam goreng saus tiram	fried chicken with clam sauce
+ayam lalapan	chicken with fresh vegetables
+ayam bakar	grilled chicken	nun
+sapi lada hitam	black pepper beef	nun
+kecap	soy sauce nun
+sweet kecap manis	soy sauce	nun
+es buah	iced fruit	nun
+ikan	fish	nun
+pisang	banana	nun
+Bali	Bali	nun
+Java	Java	nun
+Sumatra	Sumatra	nun
+Sulewesi	Sulewesi	nun
+Borneo	Borneo	nun
+Jembawan	Jembawan	nun
+Indonesia	Indonesia	nun
+Perancis	France	nun
+Belanda	Holland	nun
+Italia	Italia	nun
+Jerman	Germany	nun
+Amerika	America	nun
+Singaraja	Singaraja	nun
+Denpasar	Denpasar	nun
+Gianyar	Gianyar	nun
+Amlapura	Amlapura	nun
+Negara	Negara	nun
+Tabanan	Tabanan	nun
+Bangli	Bangli	nun
+Mangupura	Mangupura	nun
+Semarapura	Semarapura	nun
+sungai	river	nun
+laut	sea	nun
+kolam	pool	nun
+kanal	canal	nun
+pesawat terbang	airplane	nun
+kereta api	train	nun
+pura	temple	nun
+mata	eye	nun
+dapur	kitchen	nun
+pasar	bazaar	nun
+tempat tidur	bed	nun
+baju	clothes	nun
+kaos	t-shirt	nun
+kemeja	shirt	nun
+pantai	beach	nun
+Januari	January	nun
+Februari	February	nun
+Maret	March	nun
+April	April	nun
+Mei	May	nun
+Juni	June	nun
+Juli	July	nun
+Agustus	August	nun
+September	September	nun
+Oktober	October	nun
+November	November	nun
+Desember	December	nun
+Minggu	Sunday	nun
+Senin	Monday	nun
+Selasa	Tuesday	nun
+Rabu	Wednesday	nun
+Kamis	Thursday	nun
+Jumat	Friday	nun
+Sabtu	Saturday	nun

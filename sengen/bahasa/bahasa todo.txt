@@ -1,0 +1,108 @@
+
+-----------------------
+To Do
+-----------------------
+
+sweep
+	add a way to count the use of non-seed words in a pattern
+	x in addition to count, keep timestamp, normal and reverse
+
+~ go thru lesson plan and decide how and when to introduce sentence patterns
+
+x which patterns to practice now?
+	if the target word is a pattern
+		build a sentence using all mastered words
+		there is no seed word in this case
+
+which patterns to use in review sentences?
+	choose random pattern from the list of mastered patterns
+
+make use of vocab mastery
+	fix loadvocab
+		get only mastered vocab
+		every time a word is mastered, add it to the data.vocab
+
+Sen Gen
+	- $nun $nun requires matching
+	~ $nun $nun requires first $nun be $dem phrase.
+	two possessors requires restrictions, only first one can be pronoun
+	one possessor can be proper name
+	eng article (a/an) may or may not be appropriate. not in the case of possessor
+	
+	support banyak, sedikit
+	support sengat, sekali
+	support score
+	support input pattern
+	support input complexity
+	support vocab mastery
+	support verb, adv, preposition
+
+add support for numbers
+	chooseNumber(low, high, complex, date, time)
+
+refresh lessons list, after practice complete
+
+read next lesson ahead, after practice complete
+	load into g.data.nextlesson = 
+	then on "continue with next lesson"
+	g.data.lesson = g.data.nextlesson
+	that means making the server call with a different on= value
+
+gradually change system strings from English to Bahasa, when in program mode, depending on lesson mastery
+
+add patterns, during review set
+
+x add word count to lesson record: new words, new patterns
+	done with sql join to lessonvocab
+
+add idioms
+
+fix register, update rather than insert
+
+create tier per program, on userprogram record
+
+add clipid to vocab table
+
+review lesson
+	"It's been 2 months since you last worked on this program.  Let's being with some review."
+	select vocab where mastery less than 25, order by start date, take most recent
+	when finished, say "congratulations let's begin new lesson"
+	make review lesson an option in the list of lessons
+
+timestamps
+	highest stamp on any progress record, is most recent activity
+
+	
+-----------------------  
+States
+-----------------------
+  
+controlled vocabulary
+	
+mastery counts
+	askedNormal
+	correctNormal
+	askedReverse
+	correctReverse
+
+
+vocab states
+	un untried
+	wn work normal
+	rn review normal
+	mn mastered normal
+	wr work reverse
+	rr review reverse
+	mr mastered reverse
+vocab mastery
+	start at 50 when vocab is mastered
+	after that, when used in review sentences, add one for each right answer, subtract one for each wrong answer
+
+pattern mastery
+
+lesson mastery
+	0: not started yet
+	1: work/review
+	2: reverse work/review
+	>2: mastered
+	50: initially mastered

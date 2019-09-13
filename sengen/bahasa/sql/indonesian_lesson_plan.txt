@@ -1,0 +1,1876 @@
+program: Indonesian
+
+name: vi_reading
+title: Chapter VI Reading
+vocab: ada,anda,belajar,bertemu,besok,datang,hotel,itu,kamar,kata,kita,masih,melihat,membawa,menunggu,mereka,mobil,pagi,panas,perlu,sampai,saya,sedikit,sekali,sudah,suka,taksi,tinggal,anak,koper,tas,bahasa,bandar,barang,belakang,bersama,dalam,dan,depan,di,indah,istirahat,istri,juga,kali,kami,kanan,ke,kemarin,kenal,kiri,lalu,makanan,mendapat,nah,nyonya,orang,pesawat,pukul,satu,semua,senang,tahun,taruh,tepat,teriak,tertawa,tetapi,tiap,tingkat,udara,waktu,yang
+
+name: vi_conversation
+title: Chapter VI Conversation
+vocab: ada,akan,apa,baik,banyak,baru,bertemu,bodoh,dan,di,ini,itu,kali,ke,kita,kuning,lihat,masuk,mau,membeli,merah,mereka,pelayan,pelayan,pergi,rumah,sekali,sudah,tahu,tanah,tetapi,toko,aku,alat,antara,atas,ayoh,barang,bawah,bersama-sama,betul-betul,dari,dekat,ember,engkau,gadis,ikut,kepada,lantai,lebih,mana,mencari,menolongmu,plastik,saja,sana,sebagainya,sini,tangga,tempatnya,tentu,tidak,tiga,turun-naik,ya
+
+name: verbs_and_adverbs
+title: Verbs and Adverbs
+description: 
+vocab: mandi, tidur, operasi, tulis, suka, mau, perlu, baca, menulis, jual, duduk, berdiri, tinggal, datang, berjalan, menjalan, pergi, kembali, menunggu, berhenti, beristirahat, menyopir, tahu, ingat, lupa, makan, minum, masuk, mulai, punya, berbicara, bangun, belajar, bekerja, bermain, mengunci, bayar, dibayar, sedang, akan, sudah, belum, pernak, marih, ingin, harus, saka, boleh, dapat, mungkin, agak, cukup, gendong, keluar, pulang, jatuh, berlari, menjalankan, bunyi, nyanyian, lanja, belanja, berbelanja, perbelanjaan, sembunyi, bersembunyi, masak, memasak, masakan, kah, nikah, cermin, bercermin, arti, berarti, cerita, bercerita, doa, berdoa, hasil, berhasil, kata, berkata, lari, pikir, berpikir, renang, berenang, tanya, bertanya, temu, bertemu, angkat, berangkat, bawa, membawa, buka, membuka, beli, membeli, makai, memakai, motong, memotong, minjam, meminjam, lihat, melihat, lompat, melompat, minta, meminta, cuci, mencuci, coba, mencoba, dorong, mendorong, dengar, mendengar, jadi, menjadi, ambil, mengambil, ganggu, mengganggu, nyimpan, menyimpan, menikah, nyi, menyanyi, rasa, merasa, jawab, menjawab, impor, mengimpor, harap, mengharap, hitung, menghitung, cat, mengecat, tik, mengetik, ruh, menyuruh, bom, mengebom, cek, mengecek, pel, mengepel, nyewa, menyewa, rusak, merusak, goreng, menggoreng
+
+name: pronounce_vowels
+title: Pronounce Vowels
+description: Learn to pronounce vowels.
+vocab: ada, apa, anda, sama, makan, selamat, meja, ini, pagi, roti, besok, itu, jumpa
+idioms: apa ini, apa itu, selamat pagi
+patterns: 
+
+name: pronounce_consonants
+title: Pronounce Consonants
+description: Learn to pronounce Consonants
+vocab: cantik, cuaca, guru, mangga, sore, kabar, boleh, kasih, sampai, tiduk, musik, sampai jumpa, sampai besok, selamat sore, apa kabar
+patterns: ada $nun1
+
+name: sounds
+title: English vs. Bahasa
+description: Some newer English words sound the same in Bahasa.
+vocab: halo, taksi, komputer, kopi, hotel, wifi, internet, Januari, motor, polisi, arkeologi, kalendar, konser, gratis, lokal, pensil, internet akses
+patterns: $dem1 $nun1
+
+name: outside_nouns
+title: Outside Nouns
+description: Learn to use nouns.
+vocab: jalan, mobil, sepeda, rumah, kantor, sekolah, toko, kebun, pohon, anjing, kucing, kuda
+idioms: 
+patterns: $nun1 $dem1
+
+name: inside_nouns
+title: Inside Nouns
+description: meja, pensil, roti
+vocab: kamar, kursi, lampu, lemari, gelas, jam, buku, kertas, tas
+idioms: 
+patterns: $nun1 $adj1
+
+name: people
+title: People
+description: compound nouns
+vocab: laki-laki, perempuan, anak
+idioms: anak laki-laki, anak perempuan
+patterns: 
+
+name: family
+title: Keluarga = Family
+description: 
+vocab: ayah, ibu, abang, kakak, adik
+idioms: 
+patterns:
+
+name: job
+title: Job = Pekerjaan
+description: guru, polisi
+vocab: bekar, bekarja, pekerjaan, murid, pelayan, pembantu, supir
+idioms: 
+patterns:
+
+name: misc_vocab
+title: Miscellaneous Vocabulary
+description: kuda, jam, 
+vocab: gereja, warung, kunci, atap, batu, jendela, pagar, bensin, tanah, gunting, kaca, kain, pisau, keranjang, kotak, susu, mentega, kentang, air
+idioms: 
+patterns:
+
+name: earth_tonesprogram: Indonesian
+
+name: vi_reading
+title: Chapter VI Reading
+vocab: ada,anda,belajar,bertemu,besok,datang,hotel,itu,kamar,kata,kita,masih,melihat,membawa,menunggu,mereka,mobil,pagi,panas,perlu,sampai,saya,sedikit,sekali,sudah,suka,taksi,tinggal,anak,koper,tas,bahasa,bandar,barang,belakang,bersama,dalam,dan,depan,di,indah,istirahat,istri,juga,kali,kami,kanan,ke,kemarin,kenal,kiri,lalu,makanan,mendapat,nah,nyonya,orang,pesawat,pukul,satu,semua,senang,tahun,taruh,tepat,teriak,tertawa,tetapi,tiap,tingkat,udara,waktu,yang
+
+name: vi_conversation
+title: Chapter VI Conversation
+vocab: ada,akan,apa,baik,banyak,baru,bertemu,bodoh,dan,di,ini,itu,kali,ke,kita,kuning,lihat,masuk,mau,membeli,merah,mereka,pelayan,pelayan,pergi,rumah,sekali,sudah,tahu,tanah,tetapi,toko,aku,alat,antara,atas,ayoh,barang,bawah,bersama-sama,betul-betul,dari,dekat,ember,engkau,gadis,ikut,kepada,lantai,lebih,mana,mencari,menolongmu,plastik,saja,sana,sebagainya,sini,tangga,tempatnya,tentu,tidak,tiga,turun-naik,ya
+
+name: verbs_and_adverbs
+title: Verbs and Adverbs
+description: 
+vocab: mandi, tidur, operasi, tulis, suka, mau, perlu, baca, menulis, jual, duduk, berdiri, tinggal, datang, berjalan, menjalan, pergi, kembali, menunggu, berhenti, beristirahat, menyopir, tahu, ingat, lupa, makan, minum, masuk, mulai, punya, berbicara, bangun, belajar, bekerja, bermain, mengunci, bayar, dibayar, sedang, akan, sudah, belum, pernak, marih, ingin, harus, saka, boleh, dapat, mungkin, agak, cukup, gendong, keluar, pulang, jatuh, berlari, menjalankan, bunyi, nyanyian, lanja, belanja, berbelanja, perbelanjaan, sembunyi, bersembunyi, masak, memasak, masakan, kah, nikah, cermin, bercermin, arti, berarti, cerita, bercerita, doa, berdoa, hasil, berhasil, kata, berkata, lari, pikir, berpikir, renang, berenang, tanya, bertanya, temu, bertemu, angkat, berangkat, bawa, membawa, buka, membuka, beli, membeli, makai, memakai, motong, memotong, minjam, meminjam, lihat, melihat, lompat, melompat, minta, meminta, cuci, mencuci, coba, mencoba, dorong, mendorong, dengar, mendengar, jadi, menjadi, ambil, mengambil, ganggu, mengganggu, nyimpan, menyimpan, menikah, nyi, menyanyi, rasa, merasa, jawab, menjawab, impor, mengimpor, harap, mengharap, hitung, menghitung, cat, mengecat, tik, mengetik, ruh, menyuruh, bom, mengebom, cek, mengecek, pel, mengepel, nyewa, menyewa, rusak, merusak, goreng, menggoreng
+
+name: pronounce_vowels
+title: Pronounce Vowels
+description: Learn to pronounce vowels.
+vocab: ada, apa, anda, sama, makan, selamat, meja, ini, pagi, roti, besok, itu, jumpa
+idioms: apa ini, apa itu, selamat pagi
+patterns: 
+
+name: pronounce_consonants
+title: Pronounce Consonants
+description: Learn to pronounce Consonants
+vocab: cantik, cuaca, guru, mangga, sore, kabar, boleh, kasih, sampai, tiduk, musik, sampai jumpa, sampai besok, selamat sore, apa kabar
+patterns: ada $nun1
+
+name: sounds
+title: English vs. Bahasa
+description: Some newer English words sound the same in Bahasa.
+vocab: halo, taksi, komputer, kopi, hotel, wifi, internet, Januari, motor, polisi, arkeologi, kalendar, konser, gratis, lokal, pensil, internet akses
+patterns: $dem1 $nun1
+
+name: outside_nouns
+title: Outside Nouns
+description: Learn to use nouns.
+vocab: jalan, mobil, sepeda, rumah, kantor, sekolah, toko, kebun, pohon, anjing, kucing, kuda
+idioms: 
+patterns: $nun1 $dem1
+
+name: inside_nouns
+title: Inside Nouns
+description: meja, pensil, roti
+vocab: kamar, kursi, lampu, lemari, gelas, jam, buku, kertas, tas
+idioms: 
+patterns: $nun1 $adj1
+
+name: people
+title: People
+description: compound nouns
+vocab: laki-laki, perempuan, anak
+idioms: anak laki-laki, anak perempuan
+patterns: 
+
+name: family
+title: Keluarga = Family
+description: 
+vocab: ayah, ibu, abang, kakak, adik
+idioms: 
+patterns:
+
+name: job
+title: Job = Pekerjaan
+description: guru, polisi
+vocab: bekar, bekarja, pekerjaan, murid, pelayan, pembantu, supir
+idioms: 
+patterns:
+
+name: misc_vocab
+title: Miscellaneous Vocabulary
+description: kuda, jam, 
+vocab: gereja, warung, kunci, atap, batu, jendela, pagar, bensin, tanah, gunting, kaca, kain, pisau, keranjang, kotak, susu, mentega, kentang, air
+idioms: 
+patterns:
+
+name: earth_tones
+title: Earth Tones
+description: 
+vocab: hitam, putih, coklat, biru, jigau
+idioms: 
+patterns:
+
+name: bright_colors
+title: Bright Colors
+description: 
+vocab: merah, kuning, jingga, ungu, abu-abu
+idioms: 
+patterns:
+
+name: tastes
+title: Tastes
+description: 
+vocab: enak, manis, pedas, asam, asin
+idioms: 
+patterns:
+
+name: more_tastes
+title: More Tastes
+description: 
+vocab: lezat, segar, nikmat, ahit, tawar
+idioms: 
+patterns:
+
+name: love_joy_beauty
+title: Love, Joy, and Beauty
+description: cantik, kasih, ibu, how to use please in a sentence.  It is most important to respect our hosts, by feeling and expressing love, joy, and beauty.
+vocab: baik, bagus, hebat, tolong, silahkan, terima, bapak, permissi, maaf, mungkin
+idioms: terima kasih, lain kali, teduk sekarang
+patterns: 
+
+name: opposite_things
+title: Opposite Things
+description: 
+vocab: bukan, tapi, besar, kecil, cepat, lambat, mahal, murah, panas, dingin, banyak, sedikit, bersih, kotor, rusak, tetap, baru, tua
+idioms: 
+patterns: 
+
+name: opposite_people
+title: Opposite People
+description: , tua
+vocab: pendek, tinggi, pintar, sakit, muda
+idioms: 
+patterns:
+
+name: compound_nouns
+title: Compound Nouns
+description: 
+vocab: penumpang, parkir, perpastakan, tutup
+idioms: 
+patterns:
+
+name: places
+title: Places
+description: 
+vocab: desa, kota, negara
+idioms: 
+patterns:
+
+name: more
+title: More
+description: 
+vocab: sangat, sekali
+idioms: 
+patterns:
+
+name: verbs
+title: Verbs
+description: 
+vocab: sabun, mandi, cuci, belajar, kolam, renang, tidur, ruang, operasi, papan, tulis
+idioms: 
+patterns:
+
+name: people_names
+title: People Names
+description: 
+vocab: Wokalayan, Yan, Made, Nyoman, Komang, Mang, Ketut, Tut, Wayan, Putu, Gede, Ni Luh, Kadek, Nengah
+idioms: 
+patterns:
+
+name: building_words
+title: Building Words
+description:  word patterns. adjective to noun ke + adj + an
+vocab:  ketakutan, kecepatan, keselamatan
+idioms: 
+patterns:
+
+name: terhitung_poem
+title: Poem: Terhitung
+description:  complex words, prefixes and suffixes, ber, ber, men, mem, prefix 
+vocab: terhitung, berhenti, berharap, menunggu, mengusikmu, memulai, mencintaimu, dalam diam, merindukanmu, bertahan, rasa, mengetahuinya 
+idioms: 
+patterns:
+
+name: indonesia_history
+title: History of Indonesia
+description:  
+vocab: 
+idioms: 
+patterns:
+
+name: bahasa_history
+title: History of Bahasa
+description:  
+vocab: 
+idioms: 
+patterns:
+
+name: more_jobs
+title: More Jobs
+description: jobs, professions
+vocab: akuntan, tukang, tukang roti, tukang pangkas, tukang bangunan, tukang daging, tukang kayu, kasir, koki, tukang sapu, dokter gigi
+idioms: 
+patterns:
+
+name: es_teller
+title: Es Teller
+description: enak, susu,  Most delicious sweet iced fruit drink.
+vocab: gula, alpukat, nangka, es
+patterns:
+
+end:	this ends the lesson plan
+following are notes for future use
+
+name: weather
+title: Weather
+description: seasons, rainy, dry
+vocab: matahari, matahari pagi, hujan
+patterns:
+
+name: negotiating
+title: Negotiating
+description: 
+vocab: 
+patterns: Boleh saya minta harga lokal.
+
+name: where_you_going
+title: Where you going?
+description: 
+vocab: 
+patterns: adverb phrases, Mau Anda ke mana?, Saya mau ke rumah.
+
+name: pantai
+title: Pantai = Beach
+description: 
+vocab: 
+patterns:
+
+name: government
+title: Government
+description: 
+vocab: 
+patterns:
+
+name: temples
+title: Temples
+description: temple systems, temple police
+vocab:
+patterns:
+
+
+
+do a section Bali place names, person names, and colloquialisms
+ditto tourist spots, java, sumatra, tv news, etc.
+add a map
+let user choose locations to study
+
+at sign up, ask when the user is planning his trip
+do a section on each holiday
+add a holiday calendar, with a lesson for each holiday
+
+police stations
+government offices
+signs on big stone buildings
+official and unofficial power structures
+
+violence in Bali
+cock fighting
+bashing time, javanese, no crime among balinese because they know the consequences
+history
+
+see conversations.html for conversations from the You Can Speak Indonesian book.
+
+rice cultivation
+
+jual = sell
+penjual = salesman
+
+see http://www.indonesianpod101.com/indonesian-word-lists/?page=4
+
+-------------------------------
+
+Baka kran harap tutup kembali. (sign in urinal)
+
+Pura Ukurukur situs kebeiwa
+sendiri
+Terima kasih untuk perjalanan ini
+  
+word lists, graded, teachers and schools already have these
+
+indo pop, indie, genres, djs, scenes, radio stations, clubs, mtv, music videos
+
+pop tv shows, talk, reality
+
+levels, game theory
+at the conclusion of level n, you will be able to:
+
+Level        Power, Reward          Vocabulary         
+  1          get off the plane          3 words - no thank you
+             check in to your hotel
+  2          order food               300 words              
+  1          walk around            100 words             
+             rent a motorbike
+             go to temple
+             pay a bribe
+  3          sing karaoke             500 words              
+  4          get laid                 700 words              
+  5          read a newspaper        3000 words              
+  6          watch TV                  50 words, spoken very fast
+             watch a movie
+  7          search google.id
+             buy a house
+             haggle to win
+             buy illegal drugs
+             extend your visa
+             get mail
+             exchange pleasantries
+             donate to charity
+             learn from context      3000 words, says http://www.fltr.ucl.ac.be/fltr/germ/etan/bibs/vocab/cup.html
+			 put kids to sleep             
+             
+
+
+-------------
+
+signs
+
+Balai Banjar
+Penestanan Kaja
+
+
+
+-----------------------
+
+var zeroThruTen = [
+	{indo:'nol', english:'zero'},
+	{indo:'satu', english:'one'},
+	{indo:'dua', english:'two'},
+	{indo:'tiga', english:'three'},
+	{indo:'empat', english:'four'},
+	{indo:'lima', english:'five'},
+	{indo:'enam', english:'six'},
+	{indo:'tujuh', english:'seven'},
+	{indo:'delapan (lapan)', english:'eight'},
+	{indo:'sembilan', english:'nine'},
+	{indo:'sepuluh (puluh)', english:'ten'},
+]
+
+
+'belas', 'suffix to form teens'
+'puluh', 'suffix to raise power by one'
+
+	{indo:'nol', english:'zero'},
+	{indo:'satu', english:'one'},
+	{indo:'dua', english:'two'},
+	{indo:'tiga', english:'three'},
+	{indo:'empat', english:'four'},
+	{indo:'lima', english:'five'},
+	{indo:'enam', english:'six'},
+	{indo:'tujuh', english:'seven'},
+	{indo:'delapan (lapan)', english:'eight'},
+	{indo:'sembilan', english:'nine'},
+	{indo:'sepuluh (puluh)', english:'ten'},
+
+11, 'sebelas', 'eleven'
+12, 'dua belas', 'twelve'
+13, 'tiga belas', 'thirteen'
+14, 'empat belas', 'foureen'
+15, 'lima belas', 'fifteen'
+16, 'enam belas', 'sixteen'
+17, 'tujuh belas', 'seventeen'
+18, 'delapan belas', 'eighteen'
+19, 'sembilan belas', 'nineteen'
+
+20, 'dua puluh', 'twenty'
+30, 'tiga puluh', 'thirty'
+40, 'empat puluh', 'forty'
+50, 'lima puluh', 'fifty'
+60, 'enam puluh', 'sixty'
+70, 'tujuh puluh', 'seventy'
+80, 'delapan puluh', 'eighty'
+90, 'sembilan puluh', 'ninty'
+
+10, 'sepulah', 'ten'
+100, 'seratus', 'one hundred'
+1000, 'seribu', 'one thousand'
+1000000, 'sejuta', 'one million'
+
+100, 'seratus', 'one hundred'
+200, 'dua ratus', 'two hundred'
+300, 'tiga ratus', 'three hundred'
+
+1000, 'seribu', 'one thousand'
+2000, 'dua ribu', 'two thousand'
+3000, 'tiga ribu', 'three thousand'
+
+1000000, 'sejuta', 'one million'
+2000000, 'dua juta', 'two million'
+3000000, 'tiga juta', 'three million'
+
+21, 'dua puluh satu', 'twenty-one'
+39, 'tiga puluh sembilan', 'thirty-nine'
+
+
+101, 'seratus satu', 'one hundred one'
+1000, 'seribu', 'one thousand one'
+1000000, 'sejuta', 'one million one'
+
+7.565.278, tujah juta lima ratus enam puluh lima ribu dua ratus tujah puluh delapan
+
+==============================
+
+
+quantity noun phrase
+adverbs
+adverb phrases - line 110
+adverb phrases when (time)
+questions (types)
+
+Mau ke mana.?  Ke rumah.
+
+dimana mereka bekerja
+akuntan bekerja di kantor
+
+Siapa nama Anda?	Nama saya John.
+Berapa umur Anda?	Saya berumur lima puluh sembilan tahun.
+Darimana asal Anda?	Saya dari Amerika.  Saya orang Amerika.
+Di mana Anda tinggal?	Saya tinggal di Ubud.
+Apa pekerjaan Anda?	Saya pensiunan.  Sebelum saya pelayan insinyur perangkat lunak.
+Di mana Anda bekerja?	Saya bekerja di San Diego, California.
+Naik apa Anda ke tempat kerja?	Saya naik sepeda motor ke tempat kerja.
+Apa alamat restoran Anda?	Jl Pantai Kuta No. 7.
+Apakah Anda suka pekerjaan Anda?	Ya, saya suka pekerjaan saya.
+Apa alamat email Anda?	Email saya: john@voyc.com.
+Berapa nomor telepon Anda?	Nomor telepon saya, 08......
+Apakah Anda sudah kawin?	Belum, saya belum kawin.
+Apa hobi Anda?	Hobi saya berselancar, membaca, pertumbuhan rohani.
+
+
+berselancar	surfing
+membaca	reading
+pertumbuhan rohani	spiritual growth
+kedermawanan	philanthropy
+
+disini
+jenis	kind
+siap	ready
+lapar	hungry
+lelah	tired
+tapi
+slah
+betul
+kuat	strong
+
+last night	tadi malam
+think	berpikir
+handsome	tampan
+permission	izin
+sugar	gula
+without	tanpa
+thirsty	haus
+hobby	hohi
+twins	kembar
+rude	kasar
+
+kopi dengan gula dan susu
+kopi tanpa gula 
+
+sejuk	cool
+nyaman	cozy
+sibuk	busy
+penyakit	disease
+suami	husband
+istri	wife
+aman	safe
+traffic	lalulintas
+orderly	teratur
+salah	falt
+tahu	know
+betul	correct
+sejarah	historyh
+cewek
+memang
+sombong
+
+
+feelings
+lelah	tired
+bosan	bored
+senang	happy
+suka	like
+
+Saya lebih suka makan durian daripada apel.	I more like to eat durian than apel.
+Saya senang tinggal di Bali.	I am happy to stay in Bali.
+Saya suka tinggal di Bali.	I like to stay in Bali.
+
+pulpen	pen
+
+Saya ada uang lima ribu.	I have money 5000.
+
+punya	have
+ada	have
+
+
+Ada pisang di atas meja.	There is a banana on the table.
+Ada semut di lantai.	There are ants on the floor.
+Ada turis di pantai Kuta.	There are tourists on Kuta beach.
+Ada uang, ada barung.	There is money, there are things.
+Di mana ada kemauan, disitu ada jalan.	Where there is a will, there is a way.
+
+Ada apa di atas meja?	What is there on the table?
+Ada beras di atas meja.	?
+Ada daging di atas meja.	There is meat on the table.
+Ada apel di atas meja.	There is an apple on the table.
+Ada pisang di atas meja.	There is a banana on the table.
+
+Ada apa di bawah meja?	What is there under the table.
+Ada gula di bawah meja?	There is sugar under the table.
+
+Ada buku di atas meja.
+Buku ada di atas meja.
+
+Adverbs-where
+
+Ada apa $adv-where?	What is $adv-where?
+Ada $nun1 $adv-where.	There are $nun1 $adv-where.
+
+di atas $nun1	on the $nun1
+di bawah $nun1	under the $nun1
+
+table
+chair
+floor
+
+
+di
+
+ke
+
+dari
+
+
+
+
+
+
+mana = question
+
+ke mana	where to (direction)
+di mana	where in, on, at (position)
+dari mana	where from (origin, source)
+
+apakah	to be, to do, to have
+
+Apakah Anda lapar?	Are you hungry?
+
+Mengerti?
+Anda mengerti?
+Apakah Anda mengerti?
+Mengertikah anda?
+
+tidak + adj/verb
+bukan + noun/pronoun
+tanpa = without
+
+prefix ber
+ber + noun	having, wearing, using
+ber + verb	doing
+
+bercelana
+berbaju
+berok	(delete one r)
+berkaus kaki
+bersepatu
+bertopi
+berkaca mata
+
+kepada	to, preposition addressing people
+untuk	for
+
+Dia baik sekali kepada says.	He is very kind to me.
+
+baik	good - people
+bagus	good - object
+
+apakah	is, am, are
+apa	what
+
+laba-laba menggigit	spider bite
+
+banjar	row (part of village)
+gunung	mountain
+Petulu	a village name
+Petulu Gunung
+Banjar Petulu Gunung
+kokokan	heron
+burung	bird
+
+Galungen	Balinese ceremony every six months
+
+Kintamani	?
+Kuningan	?
+
+Pemerintah Kabupaten Gianyar
+
+Gunung Kawi
+
+dalam	inside
+luar	outside
+atas	on, above, over
+bawah	under, below
+antara	between, among
+muka	front
+depan	front
+belakang	behind
+sebelah	beside, next to
+dekat	near
+tengah	middle, center
+
+naik	up
+kereta api	train
+
+ke dalam	into
+di dalam	inside
+dari dalam	out of, outwards
+ke atas	upwards
+di atas	on, ontop of
+ke bawah	downwards
+di bawah	under
+
+mana?	where?
+ke mana?	where to?
+di mana?	where?
+dari mana?	where from?
+
+sana	there
+ke sana	to there
+di sana	there
+dari sana	from there
+
+sini	here
+ke sini	to here
+di sini	here
+dari sini	from here
+
+dengan	with
+teh dengan gula	tea with sugar
+meja dengan kursi	table with chair
+Nyonya Sahara dengan anaknya	Mrs. Sahara with her child
+
+dengan mobil	by car
+dengan kereta api	by train
+dengan sepeda	on a bicycle
+
+pakai	make use of (colloquial)
+kopi pakai susu	coffee with milk
+ia pakai sepeda ke rumah saya	he with bicycle to my house
+
+pada, kepada	used with persons, time indications
+Kapada Tuan Chalik:	To Mr. Chalik:
+Ia datang kepada saya.	He came to me.
+pada bulan januari	in January
+pada malam hari	at night
+pada pagi hari	in the morning
+pada suatu hari	one day
+
+sata, suatu	one
+
+affirmative and interrogative sentences
+affirmative opens with the most important word in the mind of the speaker
+interogative, same word order as affirmative, with voice inflection up, or "Apa"
+
+Anda datang dari pasar?	Are you coming from the market?
+Ini anak nyonya?	Is this your child?
+Apa Ardi sakit?	Is Ardi sick?
+Apa air ini panas?	Is this water hot?
+
+Exercises Lesson V.
+I.
+Adik saya datang ... sekolah.
+Ia mau pergi ... toko.
+Kami semua makan ... meja.
+Anjing saya ... bawah kursi.
+Ibu duduk ... kursi.
+Kantor ayahmu ... mana?
+... mana rumah Pak Kahar?
+Orang kaya pergi dengan pesawt udara .... Bali.
+Nyonya Tan tinggal .... sebelah kami.
+Mereka masuk .... dalam kantor.
+Saya mau .... kanan, tetapi supir itu mau .... kiri.
+Kami tinggal .... kota kecil.
+Tuan Jones belum pergi .... Singapura.
+Kami mau .... sana, tetapi adik mau .... pasar.
+Nona Asni datang .... mana?
+Ayah duduk .... antara ibu dan saya.
+
+II.
+Di mana pensil saya? on my table
+Di mana ayahmu? at Cibulan
+Di mana kamu makan? in the dining room
+Di mana Nona Surti tinggal? next to her office
+Di mana kucing adik? under the table
+Di mana mobil Arif? in the garage
+Di mana Bapak naik kereta api? at the station
+Di mana surat kabar kita? on the table
+Di mana ibu duduk? on the chair
+Di mana kakak tidur? near the cupboard
+Ke mana Tuan Sardi pergi? to the police station
+Mau ke mana pembantu kita? to the shop
+Ke mana orang perempuan itu pergi? to the room.
+Dengan apa Bapak pulang? by car
+Ke mana anak itu naik sepeda? to the post office
+
+III.
+the policeman's table
+our small door
+this big office
+Mr. Hakim's driver
+my brother's car
+the door of your house
+the school of Mrs. Kasim's child
+the long road
+your newspaper
+your office
+your black dog
+my father's bicycle
+this dark room
+our little garden
+your expensive chair
+the low table
+my new office
+his small room
+
+IV.
+May I come in?
+Is this your bedroom?
+Has Mr. Tan come back yet?
+Does your mother like vegetables?
+Does he ask for money?
+Is your brother's office far from here?
+Are you a driver?
+Is Mrs. Deny at home?
+Has not our teacher come yet?
+Will Miss Siska arrive tomorrow?
+Are you staying with your aunt?
+Can all children sleep here?
+Is the housemaid hardworking?
+Is the hotel expensive?
+Is your bag heavy?
+Is your glass empty?
+Do you eat much?
+May I go home now?
+Is Mr. Lim's house clean?
+Can you come to my hotel?
+Do you want money?
+Is this bathroom clean?
+Do you want to go to the left?
+Does your mother come by plane?
+Does your sister like this vegetable?
+
+bibi	aunt
+botol	bottle
+garasi	garage
+garpu	fork
+gelas	glass
+kampung	village
+desa	village
+mangkok	cup
+cangkir	cup
+negeri	country
+pasar	market
+sendok	spoon
+suka	to like
+surat	letter
+surat kabar	newspaper
+koran	newspaper
+tempat	place
+tempat garam	saltshaker
+tempat gula	sugar bowl
+tampat tidur	bed
+uang	money
+
+bagus	fine
+baik	good
+bersih	clean
+beruk	bad
+jelek	ugly
+dingin	cold
+kanan	right
+kaya	rich
+kiri	left
+kosong	empty
+kotor	dirty
+manis	sweet
+miskin	poor
+panas	hot
+
+Telkomsel flash untuk berbagai layanan data dan akses internet cepat, mudah, dimana saja, dan kapan saja 
+            
+dual meanings
+	perlu is both vrb and adv
+	saya and other pronouns can be used as noun and as possessive
+
+
+adverbs
+when
+kemarin	yesterday
+besok	tomorrow
+
+
+======================
+
+Compound Nouns - treat a single vocab
+$nun1 $vrb1
+$nun1 $nun2
+
+Simple noun phrase
+
+x $nun1 $dem1
+$nun1 $adj1
+$nun1 $pos1
+
+
+Complex noun phrase
+
+$nun1 $adj1 $dem1			1 adj, 1 dem
+$nun1 $adj1 $pos1			1 adj, 1 pos
+$nun1 $adj1 $adj2			2 adj
+$nun1 $pos1 $pos2			2 pos
+$nun1 $adj1 $adj2 $dem1		2 adj, 1 dem
+$nun1 $adj1 $adj2 $pos1		2 adj, 1 pos
+$nun1 $adj1 $pos1 $pos2		1 adj, 2 pos
+
+
+Sentence
+
+x $dem1 $nun1
+x ada $nun1
+$nun1 $adj1
+$nun1 $nun2
+
+
+Adverb phrase
+
+$adv $nun
+
+where
+under, over, on top of
+di
+ke
+mani
+left of
+right of
+e,n,s,w
+
+
+Question
+Where $nun1 $vrb1?
+What $nun1 $vrb1?
+Why $nun1 $vrb1?
+How $nun1 $vrb1?
+
+
+menu items
+
+ayam goreng saus tiram	chicken fried in clam sauce
+ayam goreng kecap manis	chicken fried in sweet soy sauce
+ayam lalapan	chicken and vegetables
+ayam bakar	grilled chicken
+sapi lada hitam	black pepper beef
+ayam asam manis	sweet and sour chicken
+
+
+$nun1{ayam,babi,sapi,ikan} $adj1{goreng,bakar,panggang,rebus,kukus,kare,satay}
+$nun1{nasi} $adj1{putih,merah,hitam}
+$nun1{ayam,babi,sapi,ikan} $adj1{asam manis, lada hitam}
+
+adj phrase
+when first learning a phrase
+give priority to words just now mastered in the current lesson
+
+when reviewing a word
+give priority to words and patterns just now mastered in the current lesson
+how do you do this, without repeating? (looking at oldest date)
+
+
+I like
+I want
+I want to eat
+I want to order
+My favorite food is 
+
+The chicken is on the plate.
+The chicken is in the bowl.
+The dish is on the table.
+
+Eat your chicken with a knife.
+The knife is to the left of the plate.
+
+
+================
+
+vocab:
+
+ayam	chicken	nun	fod
+babi	pig/pork	nun	fod
+sapi	cow/beef	nun	fod
+ikan	fish	nun	fod
+nasi	rice	nun	fod
+mie	noodles	nun	fod
+tiram	oyster/clam	nun	fod
+lada	pepper	nun	fod
+pisang	banana	nun	fod
+jeruk	orange	nun	fod
+alpukat	avocado	nun	fod
+apel	apple	nun	fod
+jeruk nipis	lemon	nun	fod
+kapur	lime	nun	fod
+bayam	spinach	nun	fod
+rambutan	rambutan	nun	food
+saus	sauce	nun	food
+kecap	soy	nun	food
+lalapan	fresh vegetables	nun	food
+sayur	vegetable	nun	food
+sayur-sayur	vegetables	nun	food
+sayur-mayur	vegetables	nun	food
+lada	pepper	nun	food
+kentang	potato	nun	food
+wortel	carrot	nun	food
+goreng	fried	adj	fod
+bakar	grilled	adj	fod
+panggang	baked	adj	fod
+rebus	boiled	adj	fod
+kukus	steamed	adj	fod
+kare	curry	adj	fod
+satay	satay	adj	fod
+orange	jingga	adj	col
+
+
+match food, color
+
+nasi	putih, merah, hitam
+lada	putih, merah, hitam
+pisang	kuning, jigau
+jeruk	jingga
+alpukat	jigau
+apel	kuning, jigau, merah
+jeruk nipis	kuning
+kapur	jigau
+bayam	jigau
+rambutan	merah
+kentang	putih, merah, kuning
+wortel	jingga
+
+saus	sauce	nun	food
+kecap	soy	nun	food
+lalapan	fresh vegetables	nun	food
+sayur	vegetable	nun	food
+sayur-sayur	vegetables	nun	food
+sayur-mayur	vegetables	nun	food
+
+
+goreng	fried	adj	fod
+bakar	grilled	adj	fod
+panggang	baked	adj	fod
+rebus	boiled	adj	fod
+kukus	steamed	adj	fod
+kare	curry	adj	fod
+satay	satay	adj	fod
+
+orange	jingga	adj	col
+
+
+
+animals, plants
+earth colors
+tastes
+
+adjective phrase
+adjective sentence
+
+
+
+create one new lesson to introduce the adjective phrase
+all words and patterns will come from this one lesson
+multiple lessons?
+match colors to nouns
+match tastes to nouns
+matching may already be done
+
+name: earth_tones
+title: Earth Tones
+description: 
+vocab: hitam, putih, coklat, biru, jigau
+idioms: 
+patterns:
+
+name: bright_colors
+title: Bright Colors
+description: 
+vocab: merah, kuning, jingga, ungu, abu-abu
+idioms: 
+patterns:
+
+name: tastes
+title: Tastes
+description: 
+vocab: enak, manis, pedas, asam, asin
+idioms: 
+patterns:
+
+name: more_tastes
+title: More Tastes
+description: 
+vocab: lezat, segar, nikmat, ahit, tawar
+idioms: 
+patterns:
+
+
+rambut = hair
+rambutan = hairy fruit
+buah = fruit
+
+===========================
+
+i wash my car
+i wash my motorbike
+i bathe my hands
+i bathe my feet
+
+i write a book
+i read a book
+i write on the paper
+i read the paper
+i sell a book
+i sell a motorbike
+the policeman writes a ticket
+the policeman takes a bribe
+
+i sit on the chair
+i sit on the floor
+
+please sit down
+
+i forgot your name
+
+i want to eat
+i need to eat
+i need water
+
+i start work
+i wake up in the morning
+i sleep on the bed
+i sleep on the floor
+i sleep at night
+
+i work/play/study 
+i work at the office
+i study at the school
+i play at home
+
+i lock the door with a key
+i use a key to lock the door
+
+i go out this afternoon
+i go home this evening
+
+i swim in the pool
+i swim in the ocean
+i swim in the river
+i bathe in the river
+i wash clothes in the canal
+
+i buy food
+may i borrow your bike
+i wear a hat on my head
+i wear a shirt on my back
+i wear pants on my legs
+i wear gloves on my hands
+i wear shoes on my feet
+
+i sing a song
+i sing in church
+i sing in the drama
+i sing in the ceremony
+
+i hear her singing
+i cook dinner in the kitchen
+i bathe in the bathroom
+
+do not disturb father when he is reading/sleeping/working
+do not disturb brother when he is studying
+
+
+nun vrb obj adv-where adv-when adv-how
+
+adv-where
+adv-when
+adv-how
+adv-with whom/what
+adv-why
+
+=========================================
+
+mau makan apa
+What food do you want?
+
+=========================================
+
+verbs and adverbs
+
+mandi	bathe	vrb
+cuci	wash	vrb
+renang	swim	vrb
+tidur	sleep	vrb
+operasi	operate	vrb
+tulis	write	vrb
+suka	like	vrb
+mau	want	vrb
+perlu	need	vrb
+baca	read	vrb
+menulis	write	vrb
+jual	sell	vrb
+lihat	see	vrb		to see, to look at
+duduk	sit	vrb
+berdiri	stand	vrb
+tinggal	stay	vrb		to live, to stay
+datang	come	vrb
+berjalan	walk	vrb
+menjalan	run	vrb
+pergi	go	vrb
+kembali	return	vrb
+menunggu	wait	vrb
+berhenti	stop	vrb
+beristirahat	rest	vrb
+menyopir	drive	vrb
+tahu	know	vrb
+ingat	remember	vrb
+lupa	forget	vrb
+makan	eat	vrb
+minum	drink	vrb
+masuk	come in	vrb
+mulai	start	vrb		to start, to begin
+punya	have	vrb
+berbicara	speak	vrb
+bangun	wake up	vrb
+belajar	study	vrb
+bekerja	work	vrb
+bermain	play	vrb
+mengunci	lock	vrb
+bayar	pay	vrb
+dibayar	paid	adj
+
+sedang	currently	adv
+akan	will	adv
+sudah	already	adv
+belum	not yet	adv
+pernak	ever	adv
+marih	still	adv
+ingin	want	adv
+harus	must	adv
+perlu	need	adv		necessary
+saka	like	adv
+boleh	may	adv
+dapat	can	adv
+mungkin	maybe	adv
+agak	so-so	adv
+cukup	enough	adv
+
+gendong	carry	vrb
+keluar	go out	vrb
+pulang	go home	vrb
+jatuh	fall	vrb
+
+---- questions
+
+berlari	run	vrb
+menjalankan	run	vrb
+
+bertanya	ask	vrb
+minta	ask	vrb
+meminta	ask	vrb
+
+nyi	singing	nun
+menyanyi	sing	vrb
+bunyi	sound	nun
+nyanyian	singing	nun
+
+bayar	pay	vrb
+dibayar	paid	adj
+
+---- combinations
+
+lanja	shopping	nun
+belanja	expenditure	nun
+berbelanja	shop	vrb
+perbelanjaan	shopping	nun
+
+bunyi	sound	nun
+sembunyi	hide	vrb
+bersembunyi	hide	vrb
+
+masak	cooked	adj
+memasak	cook	vrb
+masakan	dish	nun
+
+kah	glue	nun
+nikah	marriage	nun
+menikah	marry	vrb
+menikah	married	adj
+
+---- prefix ber: noun to verb
+
+cermin	mirror	nun
+bercermin	reflect	vrb
+arti	meaning	nun
+berarti	mean	vrb
+cerita	story	nun
+bercerita	tell	vrb
+doa	prayer	nun
+berdoa	pray	vrb
+hasil	result	nun
+berhasil	succeed	vrb
+kata	word	nun
+berkata	say	vrb
+lari	run	nun
+berlari	run	vrb
+pikir	thought	nun
+berpikir	think	vrb
+renang	swimming	nun
+berenang	swim	vrb
+tanya	question	nun
+bertanya	ask	vrb
+temu	intersection	nun
+bertemu	meet	vrb
+
+---- prefix ber: verb to verb
+
+angkat	lift	vrb
+berangkat	leave	vrb
+
+---- prefix me,mem,men,meng: verb to verb
+
+bawa	bring	vrb
+membawa	bring	vrb
+buka	open	vrb
+membuka	open	vrb
+nyimpan	keep	vrb
+menyimpan	keep	vrb
+beli	buy	vrb
+membeli	buy	vrb
+makai	wear	vrb
+memakai	wear	vrb
+motong	cut	vrb
+memotong	cut	vrb
+minjam	borrow	vrb
+meminjam	borrow	vrb
+lihat	see	vrb
+melihat	see	vrb
+lompat	jump	vrb
+melompat	jump	vrb
+minta	ask	vrb
+meminta	ask	vrb
+cuci	wash	vrb
+mencuci	wash	vrb
+coba	try	vrb
+mencoba	try	vrb
+dorong	push	vrb
+mendorong	push	vrb
+dengar	hear	vrb
+mendengar	hear	vrb
+jadi	become	vrb		many meanings
+menjadi	become	vrb
+ambil	take	vrb
+mengambil	take	vrb
+ganggu	bother	vrb
+mengganggu	disturb	vrb
+nyimpan	keep	vrb
+menyimpan	keep	vrb
+
+---- prefix me,mem,men,meng: noun to verb
+
+nikah	marriage	nun
+menikah	marry	vrb
+nyi	singing	nun
+menyanyi	sing	vrb
+rasa	sense	nun
+merasa	feel	vrb
+jawab	answer	nun
+menjawab	answer	vrb
+impor	import	nun
+mengimpor	import	vrb
+harap	hope	nun
+mengharap	hope	vrb
+hitung	arithmetic	nun
+menghitung	count	vrb
+cat	paint	nun
+mengecat	paint	vrb
+tik	tick	nun
+mengetik	type	vrb
+ruh	spirit	nun
+menyuruh	command	vrb
+bom	bomb	nun
+mengebom	bomb	vrb
+cek	check	nun
+mengecek	check	vrb
+pel	pill	nun
+mengepel	mop	vrb
+nyewa	tenant	nun
+menyewa	rent	vrb
+
+---- prefix me,mem: adjective to verb
+
+rusak	broken	adj
+merusak	break	vrb
+goreng	fried	adj
+menggoreng	fry	vrb
+
+
+
+Mau kemana?	Where are you going?
+Saya mau rumah.	I am going home. (house)
+Saya pulang.
+Saya mau kantor.	I am going to the office.
+Saya mau Jakarta.	I am going to Jakarta.
+Saya mau toko.	I am going to the shop.
+Saya mau makan malam.	I am going to dinner.
+
+abbreviations
+dgn	dengan
+yg	yang
+
+Halo,
+Ini adalah John dari Amerika.
+Aku datang ke Ubud, Kamis.
+Saya ingin menyewa kamar untuk satu bulan.
+Apakah itu mungkin?
+John
+
+Datang dengan sepeda motor. Tergantung pada lalu lintas.
+
+
+
+mana	where
+bagai	like	conjunction
+bagaimana	how
+mengapa	why
+kapan	when
+kerena	because	conjunction
+
+Senin	Monday
+Selasa	Tuesday
+Rabu	Wednesday
+Kamis	Thursday
+Jumat	Friday
+Sabtu	Saturday
+Minggu	Sunday
+
+When will he fix the ceiling fan?
+How will he fix the ceiling fan?
+Why will he fix the ceiling fan?
+Because it is broken?
+
+The painter will paint the room red.
+He will use red paint.
+The painter will use red paint to paint the room red.
+
+
+garam	salt	nun
+menggarami	salt vrb
+asin	salti	adj
+
+
+nunggu	waiting	nun
+henti	stopping	nun
+istirahat	rest	nun
+menyopir	drive	vrb  ---------- WRONG
+
+
+Are you still waiting?
+Dia lihat untuk domopet. ~ He is still looking for his wallet.
+He lost his wallet.
+Are you ever coming to ubud?
+Are you ever going to learn your bahasa Indonesia?
+Go home.
+I am going home.
+Where are you going?
+He is running in the street.
+He is running to the store.
+He runs fast.
+He can run fast.
+Cat jatuh ~ The paint fell on the floor.
+
+Anak belajar. ~ The child studies.
+Laki-laki bekarja. ~ The man works.
+Perempuan belanja. ~ The woman goes shopping.
+
+Laki-laki ? plural?
+
+Where?
+at the school
+at the office/job
+at the shop/market/town
+
+Dia berarti bagus. ~ He means well.
+Dia berarti laki-laki apakah happy. ~ He means that the man is senang.
+The meaning is hidden.
+Arti apakah lupa. ~ The meaning is lost.
+
+The sea reflects the sky.
+The mirror reflects your face.
+
+Dia bercerita cerita. ~ He tells the story.
+
+The priest prays.
+We go to temple to pray.
+Why do we pray?
+We pray to unite with god.
+
+Berkata kata. ~ Say the word.
+
+You will succeed.
+Success breeds success.
+
+I think, therefore I am.
+My thoughts are full of ...
+
+I swim in the sea.
+I like to swim.
+Kita pergi untuk renang. ~ Let's go for a swim.
+Kita pergi berenang. ~ Let's go swimming.
+
+Boleh saya bertanya tanya? ~ May I ask a question?
+
+Jalan bertemu di temu. ~ The roads meet at the intersection.
+
+What is plural for jalan?  jalan-jalan means walk.
+What is plural for swim?  renang-renang means swimming pool.
+
+
+=====================
+
+In March, John found himself in the village of Purwakerth, just east of Amed, and part of the Amed Beach area, a 20 km long strip of resorts, hotels, and homestays, noted mostly for diving and snorkeling.  His room was one of two in a modest homestay, the closest of the two to the beach.  In fact it was only about 20 meters from the water.  
+
+As he sat on his bed, leaning back against the headboard, he looked up from his laptop computer, and let his gaze go through the open double doors and onto the porch, white tiled, with two chairs and a small table.  Tall windows on either side of the doors expanded the view.
+
+Surrounding the porch is a small garden, tenderly manicured.  Most of the plants are green, but some are a dark red and look like purple basil.  Another has yellow-green leaves and small white flowesrs.  Along the sea-side edge of the garden, a low concrete slab six feet across runs the length of the property, keeping the beach sand out of the garden area.  One tree rises from an earth-filled hole in the slab, and in the shade of the tree is a beach shower. It's one step up from the beach onto the slab to the shower to wash off the salt water and sand before entering the garden.
+
+On the left of the garden is a small warung, or rather, what had originally been intended as a warung, but is now used only to serve breakfast to the guests.  The seating area contains three tables and a counter and is open on three sides.  The fourth side is an enclosed kitchen.  A horizontal window opens so food dishes can be passed through.
+
+Past the garden, a line of fishing boats pulled up onto the sand.  Just inside the beach is a flat grassy area used for making salt, and also for evening soccer games.  Another four hundred meters beyond, more dwellings and trees are visible.
+
+Above it all, partially shrouded in clouds, Mount Agung hangs in the sky, a giant pyramid.  This volcano dominates the eastern corner of Bali.
+
+Clouds form around all the islands.  The overcast creates cool and moisture and protects the inhabitants from the equatorial sun.  The higher the island, the thicker the clouds.  At 300 meters, Mount Agung almost always collects clouds around itself.  You have to view it many times to see the whole mountain.  Sometimes only the base is visible. Other times only the top peeks out above the cloud cover.  Often the right shoulder is visible, because that is closest to the sea where the wind sweeps the sky clear.
+
+The place is run by Suni, his wife Wayan, and their two daughters, Eka and Dewi.  Son Komong is too young to help much.  He spends his time mostly fishing from the beach.
+
+Suni's family lives in a separate house back about 50 meters farther inland.  Another family owns the empty plot of land between Suni's house and the homestay.  Suni's mother bought this land to create the homestay and warung for Suni and his family to run.  Perhaps that's why it's called Mama Homestay.
+
+Suni is a fisherman.  He gave up fishing a few years ago because there are no more fish.  He has a longline with 200 hooks on it.  There was a time when he could tow this line behind his boat for an hour and a half and come home with 200 Mackeral.  Now they're all gone.  One of Suni's brothers still goes out fishing every day and often comes home with only one fish.
+
+Suni also used to fish for tuna by using a kite.  They would fly the kite from the boat, with the line, hook and bait attached to the tail of the kite.  As the boat skimmed over the water, the man flying the kite would pump the string to make the bait jump up and down on the surface of the water.  The tuna would leap three feet out of the water to snag the bait out of mid-air.  Tuna often follow dolphins.  Why?  Not know for certain.  Perhaps the dolphins offer protection from the sharks.
+
+The guest next door is named Roma.  She's a polish girl, a movie director, most recently living in London.  A bit plump but still with a youthful tightness of clear white skin, she lays on the beach in a string bikini.  Embarassed to be reading one of the Twilight books.  
+
+She says she has run out of money and must now make a decision of what to do next.  She feels the only option is to return to London.  That's where the movie business is in Europe.  Hollywood would be nice of course, but it's difficult for someone from Poland to get a working visa for America.  A return to London was unthinkable a month ago.  She had left there because the economy had seized up and noone seemed to have work.  Now though, she can see no other choice.
+
+Roma goes somewhere for awhile in the evenings.  Presumably she has a boyfriend somewhere nearby.
+
+The tables and chairs in the warung, on the porch, and in the guest rooms were all made by Sunni.  He uses local hardwoods and hand tools.  No power tools, no nails, and no glue.  He carves joints, drills a hole with a hand drill, and inserts a bamboo dowel.
+
+Suni, Dewi, and Eka are all on salary, paid by Suni's mother.  Suni does the maintenance, and Dewi and Eka serve as front-desk staff.  Dewi, age 13, takes the morning shift and makes breakfast.  Eka, age 15, takes the afternoon shift.  Very rarely she sells a drink to a guest.  Mostly she just sits in the warung area and does her homework.  Both girls attend school, Eka from 9 to 1, Dewi from 1 to 5.  The Indonesian school system follows the European pattern as it was put it place by the Dutch during the colonial period.  Attendance is required through Junior High.  High school is optional, and there is a fee.  Suni is debating whether he can afford to send his girls to high school. Suni's wife, Wayan, is sometimes seen in the mornings sweeping the garden area with a broom.
+
+The girl lay on the beach on her stomach, raised on her elbows, paperback in her hands, her head facing out to sea.  Seen from behind, the dark blue bikini bottom lay across the cheeks of pure white skin.  The crease where thigh meets cheek creates one horizontal line across, and the line of her bikini makes a second horizontal line about three inches up from the crease.  Moving up her back, the string of her top draws a third horizontal line across her back below the shoulder blades.  The skin of her shoulders and upper back has taken on some pigment to protect itself from the sun.  The color changes are smooth and gradual, with no strap marks or tan lines to be found.
+
+Moving in close, her entire side is exposed except for the single string of bikini bottom paaround the outside of her buttock.  The skin is purest white here.  She has been swimming and some grains of sand still stick to her legs.
+
+She sits up and a view from the front becomes possible.  On her upper thighs, some scant razor stubble is just barely visible.  Above her bikini the flesh of her belly lies in three folds.  By Hollywood standards this girl is overweight.  By Ruebens' she is underfed.  The small breasts hang, each in its triangle sack of the bikini top. 
+
+Her blonde hair is wet and matted and pulled back away from her face.  Her checks are lightly pink and speckled with brown freckles.  A handful of blond hairs glint in the sun on her upper lip.  Her smile opens on straight white teeth. 
+
+-------------
+
+How to write about feelings?
+What about warmth, love, caring, friendship, camaraderie?
+
+-------------
+
+run walk jump
+there is no coba
+there is only do or do not
+try, hope
+take, keep
+ask, answer, question
+mop, wash
+
+pasar	market/bazaar
+pasar seni	art market
+
+==================
+newspaper
+
+Kompas
+Amanat Hati Nurani Rakyat
+
+Wangi di Depan
+Jorok di Belakang
+
+Masuk ke sejumlah toilet umum seperti mengalami mimpi buruk. Toilet di beberapa terminal bus dan sejumlah gedung pemerintah sama kotornya. Inikah wajah kita? Wangi dan gagah di depan, jorok dan berbau di belakang.
+
+Aroma pesing tercium 2 meter menjelang pintu masuk toilet. Aroma itu seperti prolog dari kisah horor yang bakal kita temui kemudian, Benar saja, toilet itu teramat kotor, air tak mengalir sempurna. Yang "sempurna" justru bau pesingnya!
+Itu bukan toilet umum, melainkan toilet di lantai dasar pengadilan tindak pidana korupsi (tipikor) - lembaga berwibawa tempat orang mencari keadilan. Seorang petugas keamanan yang tahu tamu tipikor tak berselera dengan toilet tersebut menunjukkan toilet lain di lantai satu. Kata dia, kondisinya lumayan.
+Astaga! Ternyata kondisinya lebih "horor". Ruang toilet untuk laki-laki dan perempuan sama-sama tak berpintu. Lantai dan klosetnya becek, saluran airnya penuh dengan tisu bekas, dan semprotan air untuk berbasuh telah rusak. Tamu itu pun memilih mengurungkan niat untuk buang air kecil dan pergi sambil menutup hidung.
+Wartawan kantor berita Jepang Kyodo, Woro (37) yang sering meliput sidang korupsi di sana pun tak sudi menggunakan toilet tersebut. "lebih baik saya menahan pipis daripada masuk ke toilet itu."
+
+
+Liga inggris
+Tiket Liga Champions Berat bagi Chelsea
+London, Sabtu - Chelsea masih cukup jauh dari kemung-kinan lolos ke Liga Champions musim depan setelah ditahan Tottenham Hotspur 0-0 pada derbi London Liga Inggris di Stadion Stamford bridge, sabtu (24/3). Ini untuk keenam kali bagi chelsea - yang dulu dikenal tangguh jika bermain di kandang sendiri - kehilangan poin penuh di Stamford bridge musim ini.
+Hasil itu jelas mengecewakan bos mereka, roman Abramovich, yang terus terobsesi dengan kejayaan klub miliknya di panggung liga Champions. Pelatih sementara Chelsea Roberto di Matteo debuat gusar dengan keputusan wasit Martin Atkinson yang tidak menghadiahi mereka tendangan penalti atas dua insiden terjatuhnya Frank Lampard dan Ramires di kotak penalti.
+Terlepas dari masalah yang bisa diperdebatkan itu, wajar Chelsea gagal memanen poin penuh jika melihat keseluruhan permainan. "The Blues" tidak saja kalah penguasaan bola dari Tottenham - sesuai data BBC Sport 45:55 persen untuk keunggulan tim tamu - tetapi juga tidak banyak membuat peluang emas.
+
+
+Marcella Main Wayang
+Perancang busana Kleting titis Wigati diam-diam memantau perkembangan Pilkada DKI. Ia akan memilih calon yang memperhatikan masalah lingkungan. Sudah ada calonnya? "Ada sih...," katanya. Marcella Zalianty mendadak main wayang, memerankan Dewi Supraba, perempuan cantik yang membuat lelaki klpek-klepek. Sementara Atilah Soeryadjaya bersiap mementaskan sendratari Matah Ati di Jakarta dan Solo.
+
+Bank Dunia
+Obama Nominasikan Jim Yong Kim
+
+Washington, Sabut
+
+
+============================
+verb/adverb sentence patterns
+
+Saya pergi ke toko.
+Saya perlu pergi ke toko.
+Saya harus pergi ke toko.
+Saya suka pergi ke toko.
+Saya ingin pergi ke toko.
+Saya mau pergi ke toko.
+Saya mau ke toko.
+
+Mau ke mana?
+Mau kemana?
+
+mau ke mana sekarang?
+mau kemana sekarang?
+
+$nun-who $vrb $adv-where
+Adik saya datang ..dari.. sekolah. ==> My younger brother arrived from school.
+Ia mau pergi ..ke.. toko. ==> He wants to go to the shop.
+Kami semua makan di meja. ==> We all eat at the table.
+Ibu duduk ..di.. kursi. ==> Mother is sitting in the chair.
+Mereka masuk di dalam kantor. ==> They enter inside the office.
+Nyonya Tan tinggal .... sebelah kami. ==> Mr. Tan lives next to us.
+Kami tinggal .di. kota kecil. ==> We live in a small city.
+Ayah duduk .di. antara ibu dan saya. ==> Father sits between mother and me.
+
+$nun-who $adv-where ==> $nun-who is $adv-where
+Anjing saya di bawah kursi. ==> My dog is under the chair.
+
+$nun $vrb di mana? ==> $nun $vrb where?
+Nona Asni datang .di. mana?  ==> Mrs. Asni arrives where?
+
+$nun di mana? ==> $nun is where?
+Kantor ayahmu di mana? ==> Father's office is where?
+
+Di mana $nun? ==> Where is $nun?
+Di mana rumah Pak Kahar? ==> Where is Sir Kahar's house?
+
+$nun-who $vrb $adv-how $adv-where
+Orang kaya pergi dengan pesawat udara ke Bali. ==> Rich people go by airplane to Bali.
+
+$nun-who $adv-where
+Saya mau ..ke.. kanan, tetapi supir itu mau .ke. kiri. ==> I would go to the right, but that driver would go to the left.
+
+$nun-who $adv-when $vrb $adv-where
+Tuan Jones belum pergi .ke. Singapura. ==> Mr. Jones did not yet go to Singapore.
+
+
+$nun $vrb $adv, $cnj $nun $vrb $adv.
+Kami mau .ke. sana, tetapi adik mau .ke. pasar. ==> We would go there, but younger brother would go to the market.
+
+
+generate adv-phrase-when
+generate adv-phrase-where
+generate adv-phrase-how
+
+$person $verb $where $when
+
+
+ke mana
+kemana
+
+di mana
+dimana
+
+adverb phrases
+
+di mana ==> where
+di kursi ==> in the chair
+di bawah kursi ==> under the chair         :: would bawa ever appear without the di?
+di kanan ==> to the left of kursi
+di kiri ==> to the right of the kursi
+
+
+
+=====================
+
+berderi sendiri ==> stand alone
+buku buka ==> open book
+buka buku ==> read a book
+baca buku ==> open a book
+ingat atau lupa ==> remember atau forget
+musak atau keluar ==> come in or go out
+
+memulai dan selasai ==> start and finish
+minta dan jawab == ask and answer
+
+apa anda merasa? ==> how do you feel?
+vs apa kabar?
+bagaimana perasaan Anda?
+
+
+Diki sakit.
+Diki ada di Klinik Mas.
+Diki adalah putra dari Made dan Koming.
+Dibuat dan Koming berada di klinik dengan Diki.
+
+Made memiliki pacar.
+Namanya Lina.
+Made dan Lina keduanya sembilan belas tahun.
+
+
+=========
+
+name: wake_in_the_morning
+title: Wake in the Morning
+vocab: rooster, chicken, pig, dog, bird, noise, loud
+The roosters are in the road.
+The birds are in the trees.
+The pig is on the hood of the car.
+
+name: rent_a_room
+title: Rent a Room
+vocab: mosquito net, ant, spider, beetle, squat toilet, hot shower, wifi, gecko, lizard, snake
+The gecko is on the ceiling.
+The ants are under the bed.
+
+name: extend_your_visa
+title: Extend your Visa
+vocab: corruption, bribe, confusion, prison, immigrasi, agen, paspor
+
+
+keluar vs masuk
+masuk vs masak
+
+Silakan masuk!	Please come in.
+Sudah selasai	Already finished.
+
+kata dasar	pure word
+kata berimbuhan	affixation
+
+ber + noun = having
+ber + verb = doing (as opposed to what?)
+
+Saya bisa baca.	I can read.
+Saya bisa menulis.	I can write.
+Saya bisa berjalan.	I can walk.
+Saya bisa mandi.	I can bathe.
+Saya bisa jual.	I can sell.
+Saya bisa bercermin.	I can mirror.
+Saya bisa dengar.	I can listen.
+Saya bisa gendang.	I can pick up.
+Saya bisa tidur.	I can sleep.
+Saya bisa lihat.	I can see.
+
+Saya dapat.	(formal)
+
+Tidak ada.	There is none.
+Mereka lelah.
+Dia lelah.
+Dia lelah sekali.
+Kita lelah sekali hari ini.
+
+Quantity
+memang	indeed
+sangat	very
+lebih	more
+
+luas	wide space
+setuju	agree
+
+$nun1 lebih luas daripada $nun2.	$nun1 has more wide space than $nun2.
+$nun1 lebih pintar daripada $nun2.	$nun1 is more clever than $nun2.
+
+
+-------------------
+todo:
+install the movie capture program
+install a good screen capture program
+write the wiki on bali web access
+
+buy 
+	bamboo table
+	hooks
+
+-------------------
+
+----------------
+
+kanan	right
+kiri	left
+naik	up
+turun	down
+above
+below
+beside
+tengah	center
+
+barat	west
+timur	east
+utara	north
+selatan	south
+northeast	timur laut
+northwest	barat laut
+southeast	tenggara
+southwest	barat daya
+
+
+=====================
+Idioms:
+Kabar saya sangat baik dan sedikit sibuk, John, tapi tidak ada masalah, saya tetap sehat–sehat. ~ I am very good news and a little busy, John, but no matter, I remain in good health.
+Saya sehat dan baik-baik di Balangan. ~ I am healthy and good in Balangan.
+Semoga hari Anda Indah. ~ Hope your day beautiful.
+dengan senang hati ~ with my pleasure
+Saya akan selalu berusaha membantu. ~ I will always try to help. 
+Ada semut di lantai. ~ There are ants on the floor.
+Apakah semut di lantai? ~ Are ants on the floor?
+Garam antara saus pedas dan kecap. ~ The salt is between the hot sauce and the soy sauce.
+Saus pedas di sebelah kiri garam. ~ The hot sauce is on the left side of the salt.
+Uluwatu di sebelah selatan Bali. ~ Uluwatu is on the south of Bali.
+Padang Bai terletak di sebelah timur Bali. ~ Padang Bai is located in the east of Bali.
+Apakah Gilimanuk di sebelah barat Bali? ~ Is Gilimanuk in the west of Bali?
+Singaraja terletak di sebelah utara Bali. ~ Singaraja is located in the north of Bali.
+Ubud terletak di tengah–tengah Bali. ~ Ubud is located in the center of Bali.
+Uluwatu terletak di selatan Ubud. ~ Uluwatu is located south of Ubud.
+Padang Bai terletak di timur Ubud. ~ Padang Bai is east of Ubud.
+Anda boleh buka pada lampiran email ini. ~ You may open the attachment to this email.
+Bagus sekali! ~ Very good!
+Pasti asyik. ~ It must be nice.
+Jadi, Betul Anda berselancar di Balangan? ~ So, yes you are surfing in Balangan?
+Anda bisa berselancar? ~ You can surf?
+Saya semoga Anda sehat dan baik-baik. ~ I hope you are healthy and well. 
+Terima kasih untuk pengecekan bekerja saya. ~ Thank you for checking my work.
+
+=============
+Halo Gracesima,
+
+Terima kasih untuk pengecekan bekerja saya.
+Terima kasih juga untuk kompas.
+Saya semoga Anda sehat dan baik-baik. 
+
+Ya, saya bisa berselancar. Saya pemula.  Saya belajar berselancar.
+
+Saya tinggal di Balangan.
+Balangan di pesisir barat tentu Semenanjung Bukit, satu tentu banyak pantai antara Jembaran dan Uluwatu.
+
+Hari ini ombak basar sekali, dua dan tiga kali atas.
+Ombak basar datang selama malam tadi, menghasilkan oleh badai di Pasifik Selatan tiga hari lalu.
+Sejak pertama sinar matahari, saya bisa menghitung antara sepuluh dan duapuluh surfers di air.
+Setelah surfing, surfers masuk makan dan istirahat di Indah Warung.
+
+Warung ini operasi oleh Wayan dan suami dia Nyoman.
+Itu mengangkat sekitar empat meters di atas pantai, lehat atas air, dengan belakang terhadap jurang.
+Warung itu sekitar sepuluh meters lebar, dan satu meja lama meluas seluruh lebar untuk restoran.
+Baris untuk dua belas kursi di belakang meja ini, dimana pelanggan bisa duduk dan lihat
+
+
+Koreksi Untuk Puisi, 
+
+Jika Anda Murung, Anda hidup di masa lalu.
+Jika Anda cemas, Anda hidup di masa depan.
+Jika Anda damai, Anda hidup di masa sekarang.
+
+Btw Pak, saya sangat suka dengan puisimu ini.
+bagus sekali,
+
+sangat menghibur suasana hatiku yg sedang gundah.
+
+Semoga koreksian saya berguna untuk Pak John.
+
+Selamat malam,
+
+Semoga malam Anda Indah
+
+bawa di bawah
+
+wajah	face
+harganya
+biayanya
+
+lompat jump noun -> melompat jump verb
+renang swim noun -> berenang swim verb
+
+dance
+fingers, hands, eyes, head, face, facial expressions, mouth, smile, frown, feet, body, postures, 
+

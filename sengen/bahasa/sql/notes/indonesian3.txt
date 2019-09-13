@@ -1,0 +1,56 @@
+apa	what
+Apa ini?	What is this?
+Apa itu?	What is that?
+Apa lagi?	What else?
+Hari apa besok?	Day what tomorrow?  What day is tomorrow?
+Apa yang anda care?	What which you look for?  What are you looking for?
+Apa yang anda perkulan?	What which you need?  What do you need?
+siapa	who
+Siapa anda?	Who are you?
+Siapa yang datang?	Who is coming?
+Tas siapa ini?	Whose bag is this?
+Siapa yang menelepon?	Who which calling?  Who is calling?
+Siapa yang ikut?	Who which come along?  Who will come along?
+Dengan siapa anda pergi?	With whom you go?  Whom are you going with?
+ke mana	where to
+Ke mana anda pergi?	Where are you going?
+Ke mana tujuannya?	Where is the destination?
+Ke mana lagi sekarang?	Where else now?
+Ke mana anda berlibur?	Where you vacation?  Where will you go on vacation?
+Ke mana tujuan bus ini?	Where go to bus this?  Where does this bus go?
+ke mana tas itu dibawa?	Where bag that brought?  Where will that bag be brought?
+di mana	where
+Di mana anda tinggal?	Where do you stay?
+Di mana teman anda?	Where is your friend?
+Di mana anda lahir?	Where were you born?
+Di mana tempatnya?	Where the place?  Where is the place?
+Di mana pasport saya?	Where passport my?  Where is my passport?
+Di mana dokter terdekat?	Where is the nearest doctor?
+kapan	when
+Kapan anda datang?	When did you come?
+Kapan anda pergi?	When will you go?
+Kapan itu akan selesai?	When will it be finished?
+Kapan pesta dimulai?	When party begin?  When will the party begin?
+Kapan Borobudur dibangun?	When Borobudur constructed?  When was the Borobudur built?
+Kapan kita ke Jakarta?	When we to Jakarta?  When will we go to Jakarta?
+mengapa	why
+Mengapa anda duduk?	Why are you sitting?
+Mengapa mereka tertawa?	Why are they laughing?
+Mengapa anda hendak pergi?	Why are you leaving?
+Mengapa harganya mahal?	Why the price expensive?  Why is the price expensive?
+Mengapa anda terlambat?	Why you late?  Why are you late?
+Mengapa anda gembira?	Why you happy?  Why are you happy?
+bagaimana	how
+Bagaimana keadaannya?	How is it?
+Bagaimana rasanya?	How does it taste?
+Bagaimana caranya?	How is it done?
+Bagaimana cuaca di Bandung?	How weather in Bandung?  How is the weather in Bandung?
+Bagaimana rasa durian?	How taste durian?  How does durian taste?
+Bagaimana wajah saya?	How face my?  How do I look?
+berapa	how much, how many
+Berapa harganya?	How much does it cost?
+Berapa anak anda?	How many children do you have?
+Berapa biayanya ke sana?	How much does it cost to go there?
+Berapa kg beratnya?	How many kg the weigh?  How many kgs does it weigh?
+Berapa km jaraknya?	How many km distance?  How many kms is the distance?
+Berapa lama anda di sini?	How long you here?  How long will you stay here?

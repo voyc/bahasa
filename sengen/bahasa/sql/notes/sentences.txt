@@ -1,0 +1,414 @@
+Pronounciation
+
+Apa ini?
+
+
+outside 1, color 1
+
+road        
+automobile black, white, brown, blue, green
+bicycle    black, white, brown, blue, green
+house       
+office     
+school     
+shop         
+garden      
+tree        
+
+
+Ini roti.
+Itu meja.
+Itu mango.
+Ini guru.
+
+
+room     
+table    
+chair    
+lamp     
+cupboard 
+glass    
+clock    
+book     
+paper    
+pencil   
+bread    
+bag      
+
+
+noun	kamar	room
+noun	meja	table
+noun	kursi	chair
+noun	lampu	lamp
+noun	lemari	cupboard
+noun	gelas	glass
+noun	jam	clock
+noun	buku	book
+noun	kertas	paper
+noun	pensil	pencil
+noun	roti	bread
+noun	tas	bag
+
+
+dog      black, white, brown    big, small, fast, slows, smart, sick, short, tall
+
+cat      black, white, brown    big, small, fast, slows, smart, sick, short, tall
+horse    black, white, brown    big, small, fast, slows, smart, sick, short, tall
+table    black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken, short, tall
+chair    black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken, short, tall
+lamp     black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken, short, tall
+cupboard black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken, short, tall
+clock    black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken
+book     black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken
+paper    black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken
+pencil   black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken
+bag      black, white, brown, blue, green, red, yellow     big, small, cheap, expensive, new, broken
+tas~hitam,putih,coklat,biru,jigau,merah,kuning~besar,kecil,murah,muhal,baru,rusak
+
+
+room     
+glass    
+bread    cheap, expensive
+
+
+adj	besar	big
+adj	kecil	small
+adj	cepat	fast
+adj	lambat	slow
+adj	hebat	great
+adj	mahal	expensive
+adj	murah	cheap
+adj	baik	good
+adj	pintar	smart
+adj	sakit	sick
+adj	dingin	cold
+adj	panas	hot
+adj	banyak	many
+adj	sedikit	few
+
+adj	pendek	short
+adj	tinggi	tall
+adj	baru	new
+adj	rusak	broken
+
+
+
+noun phrases
+
+sentence: noun = noun
+
+
+Apa ini?~Ini meja.
+Apa itu?~Itu kursi.
+
+road        
+automobile black, white, brown, blue, green
+bicycle    black, white, brown, blue, green
+house       
+office     
+school     
+shop         
+garden      
+tree        
+dog        black, white, brown
+cat        black, white, brown
+horse      black, white, brown
+
+
+
+
+
+inside 1, color 1
+
+room      
+table     black, white, brown, blue, green
+chair     black, white, brown, blue, green
+lamp      black, white, brown, blue, green
+cupboard  black, white, brown, blue, green
+glass     black, white, brown, blue, green
+clock     black, white, brown, blue, green
+book      black, white, brown, blue, green
+paper     black, white, brown, blue, green
+pencil    black, white, brown, blue, green
+bread     black, white, brown
+bag       black, white, brown, blue, green
+
+       
+Apa ini?	What is this?
+Apa itu?	What is that?
+
+Ini kursi.	This is a chair.
+Ini meja.	This is a table.
+Meja ini coklat.	This table is brown.
+Saya suka meja coklat ini.	I like this brown table.
+Saya suka meja coklat.	I like brown tables.
+Boleh saya minta meja coklat ini.	May I have this brown table.
+Tulong ?	Please give me this brown table.
+Saya mau meja coklat ini.	I want this brown table.
+Saya mau membeli meja coklat ini.	I want to buy this brown table.
+Dia mau membeli meja coklat ini.	He wants to buy this brown table.
+Abang saya mau membeli meja coklat ini.	My older brother wants to buy this brown table.
+Laki-laki itu mau membeli meja coklat ini.	That man wants to buy this brown table.
+
+	over there
+	in the window
+	now
+	
+	He wants
+	My brother wants
+	We want
+	They want
+	
+	I want to pay.
+	May I pay, please?
+
+Ini cangkir kotor. 	It is a dirty cup.
+Cangkir ini kotor.	This cup is dirty.
+Boleh saya minta cangkir bersih.	May I have a clean cup?
+Boleh saya minta air panas.	May I have hot water?
+
+
+Silahkan	Please
+Tolong	Please
+
+
+
+What is this?  What is that?
+
+siapa ini
+siapa itu
+ini bukan 
+
+
+how many people live here?
+saja saya	only me
+saya saja	me only
+
+Di mana kasirnya?	Where is the cashier?
+Di dekat pintu kiluar, Pak.	Near the exit door, sir.
+
+
+Siapa itu?~Itu abang. Dia polisi.	Who is that?~That is my brother. He is a policeman.
+Siapa laki-laki itu?~Itu bapak anda. Dia guru.	Who is that man?  That is my father.  He is a teacher.
+Siapa tukang itu?	Who is that workman?
+
+
+Saya suka anjing coklat itu.	I like that brown dog.
+
+----
+saya ingin tinggal di sini satu bulan lebih
+saya perlu sponsor
+Anda akan menjadi sponsor saya
+
+apakah teman Anda meninggalkan Olga?
+
+
+Bagaimana anda buka?	How late are you open?
+Kapan menutup anda?	When do you close?
+apakah saya perlu reservasi?	Do I need a reservation?
+Sudah selesai.	Already finished.
+I already have one.	Saya sudah telah satu.
+
+boleh saya menunjukkan sesuatu di kamarku	May I show you something in my room.
+Ini dimulai empat hari lalu. 	It started four days ago.	
+
+Ini malam saya tidur.	this night i sleep
+Ini pagi saya bandung.	this morning i wake up
+
+	This is a box.
+	This is a bag.
+	This is a bicycle.
+
+	This box is red.
+	That basket is yellow.
+	This paper is white.
+
+Boleh saya minta kotak mirah itu.	May I have that red box
+Tulong Please give me that yellow basket
+Saya mau pencil hitam itu.	I want that black pencil.
+Saya mau membeli kursi putih itu.	I want to buy that white paper.
+	
+	over there
+	in the window
+
+	He wants
+	My brother wants
+	We want
+	They want
+
+	no thank you
+	I do not want a taxi.
+	I do not want to buy that.
+	I do not want that.
+
+Saya tinggal di kamar empat.	I stay in room 4.
+
+	Is angelo here?
+	I will come back later.
+	I want to buy a shirt.
+	Are you married?
+	How are your children?
+	How many people live here in this house?
+	Where do  you live?
+
+hujan	rain
+hujan hari	rainy day
+cuaca hujan	rainy weather
+musim hujan	rainy season
+musim kering	dry season
+
+
+
+
+-------------------------
+5 types of noun phrases
+
+1. noun plus possessor
+
+anging saya	my dog
+komputer mereka	their computer
+teman saya	my friend
+rumah guru Tini	Tini's teacher's house
+sepatu Bapak John	Mr. John's shoes
+Bapak saya	my father
+
+2. noun + adjective
+
+anak pintar	smart child
+kursi pendek	short chair
+barang baru	new things
+rumah mahal	expensive house
+orang tua	old person (parent0
+jalan rusak	broken road
+
+3. noun + noun
+
+mobil penumpang	passenger car
+guru sekolah	school teacher
+orang Australia	Australian person
+parkir mobil	car parking
+perpastakan sekolah	school library
+tutup botol	bottle lid
+
+4. noun + verb
+
+sabun mandi	bath soap
+sabun cuci	dish or laundry soap
+meja belajar	desk (table study)
+kolam renang	swimming pool
+rumah makan	restaurant (house food)
+kamar makan	dining room (room food)
+kamar tidur	bedroom (room sleep)
+kamar mandi	bath room
+ruang operasi	operating room (space operate)
+papan tulis	white board
+
+5. noun + demonstrative
+
+buku ini	this book
+kota itu	that city
+desa itu	that village
+rumah ini	this house
+orang ini	this person
+kakak itu	that older brother
+
+---
+
+lagu kesukaan saya	my favorite song
+topi bundar besar	large round hat
+burung merah kecil	small red bird
+nasi gorang enak	delicious fried rice
+celana panjang hitam	black long pants
+
+sepatu olahraga dia	his sports shoes
+Kamar mandi luas mereka hijau.	Their spacious bathroom is green.
+Gedung bioskop itu kecil.	That movie theatre is small.
+Sepeda motor saya Honda.	My motorbike is a Honda.
+Nama ibu says Jane.	My mother's name is Jane.
+
+Nama saya John.	My name is John.
+Umur saya lima puluh sembilan tahun.	My age is 59 years.
+Kota kelahiran saya Horton.	My birthplace is Horton.
+Makanan kesukaan saya gado-gado.	My favorite food is gado-gado.
+
+Nama kucing saya Manis.	My cat's name is Manis.
+Warna bulu Manis putih.	Manis's fur color is white.
+Makana kesukaan Manis ika goreng.	Manai's favorite food is fried fish.
+Umur Manis dua puluh bulan.	Manis's age is twenty months.
+
+
+
+
+$nnc	$nun $verb	$verb $nun
+$nnc	$nun $nun	$nun $nun
+
+$nnp	$nun $adj	$adj $nun
+$nnp	$nun $dem	$dem $nun
+$nnp	$nun $pos	$pos $nun
+$nnp	$nun $adj $adj 	$adj $adj $nun
+$nnp	$nun $adj $dem	$dem $adj $nun
+$nnp	$nun $adj $pos	$pos $adj $nun
+$nnp	$nun $adj $adj $dem	$dem $adj $adj $nun
+$nnp	$nun $adj $adj $pos	$pos $adj $adj $nun
+$nnp	$nun $pos $pos	$pos $pos $nun
+$nnp	$nun $adj $pos $pos	$pos $pos $adj $nun
+
+$sen	$dem $nun.	$dem is a $nun.
+$sen	Ada $nun.	There is a $nun.
+$sen	$nun $nun.	$nun is a $nun.
+$sen	$nun $nun.	$nun is $adj.
+
+$idioms: sentences with a popular usage greater than what would be generated
+also, sentences with a meaning that is not clear from the literal translation of the words
+
+popularity - could be assigned to each word - used to plan lessons
+formality - could be assigned to each word
+locality - could be assigned to each word
+group - assigned to each word
+include id in vocab loader, so that additional words can be added
+
+$nun can be substituted by a $pro or $nnp or $nnc
+during review, complexity increases 
+
+var s = generateSentence(targetword, complexity, targetform);
+complexity increases as the lesson mastery increases
+each word has mastery
+each form has mastery
+each lesson has mastery
+master==0 means it has not yet been introduced
+mastery==50 means the lesson has been learned
+mastery > 50 increases as the number of usages increases
+1. to learn a new word: inputs targetword and complexity
+2. to learn a new form: input form
+get the form
+if no input form specified, pick one
+substitute noun phrases and compound nouns for 
+
+fill slots from left to right
+pick words that are mastered
+if input targetword
+start with target word
+look it up and get its part
+pick a form that includes this part and matches complexity
+slot target word into form
+fill remaining slots from left to right
+pick words that are mastered
+as the mastery of the targetword increases, the mastery of secondary words can be lowered
+
+pick a form
+select all forms that fall within the complexity
+within the mastery
+most not recent
+random
+
+substitute phrases for nouns
+depending on complexity
+
+pick a word
+select all words that 
+match the type
+fall within the complexity
+within the mastery
+most not recent
+random
+
