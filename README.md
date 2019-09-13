@@ -1,6 +1,8 @@
 # bahasa
 Language learning flash card practice.
 
+NOTE: This project is temporarily mothballed. It includes the original Bahasa and SenGen projects. The database likewise includes two schemas, bahasa and sengen.
+
 ** Principles
 
   * Spread knowledge of one another's language.
